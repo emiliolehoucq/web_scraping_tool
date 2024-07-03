@@ -29,16 +29,17 @@ jobs:
         echo "${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}" > credentials.json
         python scraping_google_sheet.py
         
-    - name: Configure Git
+    - name: Check for changes
+      id: check_changes
       run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
+        git diff-index --quiet HEAD || echo "Changes detected."
+      continue-on-error: true
     
     - name: Commit and Push changes
+      if: steps.check_changes.outputs.result == 'Changes detected.'
       run: |
         git add data.csv
         git commit -m "Replaced existing data file"
-        git push -f  
-    # https://stackoverflow.com/questions/24357108/error-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-ha
+        git push -f
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
