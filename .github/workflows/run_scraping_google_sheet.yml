@@ -28,7 +28,12 @@ jobs:
       run: |
         echo "${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}" > credentials.json
         python scraping_google_sheet.py
-        
+
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+          
     - name: Check for changes
       id: check_changes
       run: |
