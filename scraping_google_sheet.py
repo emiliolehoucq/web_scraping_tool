@@ -7,6 +7,7 @@ from googleapiclient.discovery import build
 from google.oauth2.service_account import Credentials
 import pandas as pd
 from scrapers import get_selenium_response
+import os
 
 # Get URLs from the Google Sheet
 
