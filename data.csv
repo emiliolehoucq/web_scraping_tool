@@ -405,3 +405,1840 @@ var bAccessibleLayout = false;
 var bLoadCompleted = true;
 </script><div id=""divdobackclassic"" style=""display:none;"" aria-hidden=""true""><a id=""ancdobackclassic"" href=""javascript:DoBack('win0')"" style=""display:none;"" aria-hidden=""true""></a></div>
 </body></html>"
+https://jobs.lbl.gov/jobs/user-experience-researcher-6565,"<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:og=""http://ogp.me/ns#"" xmlns:fb=""http://www.facebook.com/2008/fbml"" lang=""en""><!--<![endif]--><head><script src=""https://connect.facebook.net/en_US/sdk.js?hash=6c4f3212974872ec19bce0263378228c"" async="""" crossorigin=""anonymous""></script><script src=""https://jobs.lbl.gov/job_details.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/referral.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/video.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/facebook_status_post.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/persona.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/rfl.apply.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/modal.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/login.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/user.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/changePassword.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/desktop.js?v=apptss.2024.PRD.2.0.24""></script><script src=""https://jobs.lbl.gov/plugins/jquery.fileupload.js""></script><script src=""https://jobs.lbl.gov/jquery/jquery.autosize-min.js""></script><script src=""https://jobs.lbl.gov/plugins/jquery.jscrollpane.min.js""></script><script src=""https://jobs.lbl.gov/social_api.js""></script><script src=""https://jobs.lbl.gov/sha1.js""></script><script src=""https://jobs.lbl.gov/plugins/sanitize.js""></script><script src=""https://jobs.lbl.gov/plugins/jquery.validate.1.19.5.min.js""></script><script src=""https://jobs.lbl.gov/plugins/chosen.jquery.js""></script><script src=""https://jobs.lbl.gov/plugins/jquery.detectmobilebrowser.js""></script><script src=""https://jobs.lbl.gov/plugins/jquery.history.js""></script><script src=""https://jobs.lbl.gov/plugins/jquery.easing.1.3.js""></script><script src=""https://jobs.lbl.gov/plugins/jquery.colorbox.min.js""></script><script src=""https://jobs.lbl.gov/plugins/bootstrap/bootstrap-popover.js""></script><script src=""https://jobs.lbl.gov/plugins/json2.js""></script><script src=""https://jobs.lbl.gov/plugins/jquery-ui-1.13.2.custom.min.js""></script><script src=""https://jobs.lbl.gov/jquery/jquery-3.7.0.min.js""></script>
+	<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+	<meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+	<meta name=""viewport"" id=""viewport"" content=""width=device-width, user-scalable=yes"">
+
+	
+	
+		<title>User Experience Researcher - LBL Careers</title>
+		<link rel=""canonical"" href=""https://jobs.lbl.gov/jobs/user-experience-researcher-6565"">
+		<meta name=""description"" content=""Please note: This position is not eligible for visa sponsorship or relocation.   The Berkeley Lab's Scientific Data Division is hiring a User..."">
+		<meta property=""og:title"" content=""User Experience Researcher in Bay Area, California, United States"">
+		<meta property=""og:type"" content=""article"">
+		<meta property=""og:description"" content=""Please note: This position is not eligible for visa sponsorship or relocation.   The Berkeley Lab's Scientific Data Division is hiring a User..."">
+		<meta property=""og:image"" content=""https://jobs.lbl.gov/media/client_2_s2_r4_v1627575999523_main.png"">
+		<meta property=""og:site_name"" content=""Berkeley Lab Careers"">
+		<meta property=""fb:app_id"" content=""226669721261646"">
+	
+	
+	
+
+	<link rel=""stylesheet"" href=""/styles/core.css?v=apptss.2024.PRD.2.0.24"" type=""text/css"">
+	<link rel=""stylesheet"" href=""/styles/job_details.css?v=apptss.2024.PRD.2.0.24"" type=""text/css"">
+	<link rel=""stylesheet"" href=""/site_css"" type=""text/css"">
+
+	<style type=""text/css"">
+		/* Header Navigation
+ **--------------------*/
+
+ /* 04c - Header ----------- */
+
+form {
+ 	margin: 0 !important;
+ }
+
+#container_search {
+	height: 50px;
+}
+
+.ie #container_search {
+	margin-top: 0px;
+}
+
+.ie #header .widget-area {
+	width: 230px;
+}
+
+
+ .navbar-content ul {
+ 	border-bottom: 0px;
+ }
+
+ #header p {
+ 	margin: 0 !important;
+ }
+ 
+#header .wrap{
+	margin: 0 auto;
+	max-width: 950px;
+	background: url(""https://lbl.upgrade.selectminds.com/media/images/Main%20Page/lbl-header-logo-b.png"") left center no-repeat;
+	background-size:auto auto;
+	height: 100px;
+	padding: 0px 10px;
+}
+#header {
+	background: #0f4058 !important;
+	overflow: hidden;
+	/* padding-bottom: 32px;
+	padding-bottom: 2rem; */
+}
+
+#title, .lbl-title {
+	line-height: 85%;
+	font-size: 3em;
+	letter-spacing: .1em;
+	text-transform: uppercase;
+	text-align: right;
+		font-weight: 700;
+}
+
+/* link the logo */
+/* link the logo */
+
+#title-area #title a, #title-area .lbl-title a {
+	display: block;
+	color: #fff;
+	height: 90px;
+	}
+
+
+
+#title-area {
+height: 100px;
+display: block;
+width: 410px;
+font-family: 'Open Sans Condensed', sans-serif;
+text-indent: 9999px;
+white-space: nowrap;
+}
+
+.header-image #title {
+	margin: 0;
+}
+
+.header-full-width #title,
+.header-full-width #title a,
+.header-full-width #title-area {
+	width: 100%;
+}
+
+.header-image #title,
+.header-image #title a,
+.header-image #title-area, .lbl-title {
+	display: block;
+}
+
+#description {
+font-size: 11px;
+padding: 0 0 0 149px;
+}
+
+.webkit #description {
+	padding: 0 0 0 153px;
+	letter-spacing: .2em;
+}
+
+.chrome #description {
+	padding: 0 0 0 144px;
+	letter-spacing: .3em;
+}
+
+@-moz-document url-prefix() {
+#description {
+font-size: 11px;
+letter-spacing: .26em;
+padding-right: 1%;
+padding: 0 0 0 145px;#
+padding: 0 0 0 153px;
+}
+}
+
+ 
+.above-header-menu, .above-header-menu-mobile {
+	padding-bottom: 1px !important;
+		}
+.above-header-menu, .above-header-menu-mobile, #header .widget.widget_nav_menu {
+	padding-bottom: 10px !important;
+		}
+.above-header-menu-mobile {
+	display:none;
+	}
+.above-header-menu,.above-header-menu-mobile, .menu-header-menu-container, .menu-header-menu-mobile-container  {
+	font-weight: 700;
+	}
+
+.above-header-menu, .above-header-menu-mobile, .above-header-menu-mobile, .menu-header-menu-container, .menu-header-menu-mobile-container {
+	background:#0f4058;
+	
+  font-size: 10px;
+  line-height: 1em;
+  text-transform: uppercase;
+  top: 10px;
+  right: 10px;
+  padding: 8px 0;
+  margin-bottom: 2px;
+  border-bottom: 1px solid #0f4058;
+  border-radius: 0 0 3px 3px;
+  }
+ 
+ .above-header-menu li:first-child {
+	border-right: 1px solid #ddd;
+	padding-right: 8px;
+ }
+
+.above-header-menu li, .above-header-menu-mobile li, .menu-header-menu-container li, .menu-header-menu-mobile-container li {
+    display: inline;
+    padding: 0 5px; 
+    /* border-right: 1px solid #ddd; */
+	}
+	
+.above-header-menu li.last {
+	border-right: 0;
+	padding-right: 0;
+	}
+	
+.padding-left {
+	padding-left: 60%
+}
+
+.padding-left a {
+	color:#fff;
+	}
+
+.lowercase  {
+	text-transform: none;
+}
+
+.dot {
+	background-image: url (""dot.png"");
+	background-position: left center;
+	}
+
+.above-header-menu li a, .above-header-menu-mobile li a, .menu-header-menu-container li a, .menu-header-menu-mobile-container li a {
+    color: #fff; 
+	padding: 0;
+	position: relative;
+}
+	 
+      
+.above-header-menu li a:hover, .above-header-menu-mobile li a:hover,.menu-header-menu-container li a:hover, .menu-header-menu-mobile-container li a:hover {
+   color: #fff; 
+   }
+   
+ /*Adhoc Changes*/
+ 
+.jLocInputHldr {
+    display: none;
+}
+
+
+
+#jLocInputHldr {
+    display: none;
+}
+
+.search_positioner {
+    width: 500px;
+     display: table;
+    margin: auto;
+}
+
+.jSearchBanner {
+    background-color: #0F4058;
+}
+
+#landingpage_video #jMediaArea {
+    display: none;
+}
+
+.learn_more_btn {
+    background-color: #0F4058;
+}
+
+
+/*Footer Update*/
+
+
+#disclaimer {
+	background: #ffffff
+}
+
+#footerBottom, #disclaimer {
+    width:100%;
+    max-width:940px;
+    margin:0 auto;
+} 
+
+#footerBottom p, #accomodations p, #footerTextBlock p, #disclaimer p {
+    font-size: .7rem;
+    text-align: center;
+    padding: .2rem;
+    line-height: 1rem;
+}
+
+@media all and (max-width : 768px) {
+
+	#boilerplate_wrapper[style*='position: fixed'] + #footer + #bottomBranding {
+		display: none;
+	}
+}
+
+@media (max-width: 991px) {
+
+    .wrap {
+        display:none !important;
+    }
+    
+    #topBranding {
+        display:none !important;
+    }
+
+.search_positioner {
+    width: 360px;
+    display: table;
+    margin: auto;
+}
+
+}
+
+#search_banner .search_positioner {
+                -moz-box-shadow: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+}
+
+#topBranding {  
+    background: #0f4058;
+}
+
+#topbranding_container {  
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;}
+
+#topbranding_logo {
+  float: left;
+  width: 520px;
+  padding: 0px 0px 0px 0;
+}
+		
+#topbranding_nav {
+  float: left;
+ /* width: 700px;*/
+ background-color: #0f4058;
+ margin-top: 90px;
+}	
+
+#topbranding_nav ul li {
+  display: inline;
+  float: left;
+  margin: 5px 5px 5px 5px ;
+  font-weight: 300;
+  font-size: 14px;
+  color: #B7A432;
+  padding: 0px 3px 0px 0px;
+}
+
+#topbranding_nav ul li + li::before {
+    content: "" | "";
+    padding-right: 7px;
+}
+
+#topbranding_nav ul li a, #topbranding_nav ul li a:visited {
+  text-decoration: none;
+  color: #64AFC3;
+}
+
+#topbranding_nav ul li a:hover {
+  opacity: 0.7;
+}
+
+/*--------- Site Footer ---------*/
+
+
+#disclaimer, #accommodations{
+    width:100%;
+    max-width:940px;
+    margin:0 auto;
+}
+#disclaimer p, #accommodations p {
+    font-size: .7rem;
+    text-align: center;
+    padding: .2rem;
+    line-height: 1rem;
+}
+#disclaimer a,
+#disclaimer a:visited, #accommodations a, #accommodations a:visited{
+    color: #0C83C6;
+}
+#disclaimer a:hover, , #accommodations a:hover{
+    color: #0C83C6;
+}
+#ft {
+	background: #fdfdfd;
+	padding: 0;
+	border: 1px solid #f3f3f3;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+}
+
+#ft-content {
+	padding: 10px;
+	text-align: center;
+}
+
+#ft-content div {
+	text-align: center;
+}
+
+#site-copy-term {
+	font-size: 12px;
+	font-family: ""Roboto"", Arial, helvetica
+}
+
+#site-copy-term a {
+	color: #0C83C6;
+	font-size: 12px
+}
+
+#site-copy-term a:hover {
+	text-decoration: underline;
+}
+
+
+/* footer */
+section#fw-footer-container {
+	box-sizing: border-box;
+	width: 100%;
+	max-width: 940px;
+	height: auto;
+	margin: 20px auto 30px auto;
+	text-align: center;
+	padding: 0 100px;
+}
+section#fw-footer-container a {
+	display: inline-block;
+	margin: 5px 10px;
+}
+.break {
+	clear: left;
+}
+
+
+@media only screen and (max-width: 480px) {
+	section#fw-footer-container {
+		display: block;
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	section#fw-footer-container a {
+		width: 100% !important;
+	}
+	.chrome #fw-footer-container {
+	margin-top: auto;
+}
+}
+	</style>
+
+	
+	<script type=""text/javascript"" async="""" src=""https://ssl.google-analytics.com/ga.js""></script><script type=""text/javascript"">
+	(function(){
+		var fbMatcher = /^https?:\/\/[a-z0-9.]*facebook.com/i;
+		if( !(top != self && !fbMatcher.test(document.referrer)) ){
+			var antiClickJack = document.getElementById('antiClickjacking');
+			antiClickJack.parentNode.removeChild(antiClickJack);
+		}
+	})();
+	</script>
+
+	 <script type=""text/javascript"">
+	var TVAPP = TVAPP || {}; // There can only be ONE.
+	TVAPP.property = {
+		version_num: ""apptss.2024.PRD.2.0.24"",
+		client_name: ""LBL"",
+		client_base_domain: ""lbl.referrals.selectminds.com"",
+		default_locale_id: ""0"",
+		site_name: ""https://jobs.lbl.gov"",
+		site_mode: ""3"",
+		site_cookie_acceptance: 'none',
+		site_prefix: ""https://jobs.lbl.gov"",
+		site: {
+			id: ""2"",
+			short_name: ""default1354""
+		},
+		
+			facebook_app_id: ""226669721261646"",
+			facebook_permissions: ""email"",
+		
+		
+			linkedin_api_key: ""GzpjOHGHpkdYVfg7ewKhplWQ26PL5WMjN5nMXywzTqFzPkWSsCF9enSdQMgqzw_P"",
+			
+		
+		
+		channels: {
+			available:true,
+			facebook:true,
+			twitter:true,
+			linkedin:true,
+			weibo:false
+		},
+		
+		
+		
+		tbe_enabled: 0,
+		
+		referrer_name: """",
+		is_trusted_referrer: ""20"",
+		user_id: ""2"",
+		user_info: {""active_user_name"":""Guest User"",""email"":"""",""TEEAccountExists"":""20"",""registration_status"":""unregistered"",""is_guest"":""true"",""locale_id"":""0"",""user_id"":""2"",""vanity_referrer_code_uri_prefix"":"""",""session_id"":""6a34c43b510db960f45408fa81f41e8d35101af07ffec410fd4ff80768e1a609.lbl.phxc1b-app-001.a.phxc.oraclevcn.com"",""channel_info"":[]},
+		likely_user_info: {""active_user_name"":""Guest User"",""email"":"""",""TEEAccountExists"":""20"",""registration_status"":""unregistered"",""is_guest"":""true"",""locale_id"":""0"",""user_id"":""2"",""vanity_referrer_code_uri_prefix"":"""",""session_id"":""6a34c43b510db960f45408fa81f41e8d35101af07ffec410fd4ff80768e1a609.lbl.phxc1b-app-001.a.phxc.oraclevcn.com"",""channel_info"":[]},
+		client_domains: ""lbl.gov"",
+		
+		geoSearch: {
+			accuracyLimit:25000,
+			radius: {
+				'userControl':1,
+				'metric':0,
+				'default':50
+			}
+		},
+		
+		
+		keyword_auto_suggest_num_results: 5,
+		job_apply_allow_employee: 1,
+		
+		session_locale_id: '0',
+		
+		
+		job: {
+			id: ""6565"",
+			title: ""User Experience Researcher"",
+			location: { name: ""Bay Area, California, United States"", id: ""6"" },
+			category: { name: ""Information Technology"", id: ""4"" },
+			country: { name: ""United States"", id: ""0"" },
+			jobco: { name: ""DD-Scientific Data"", id: ""14897"" },
+			company: ""DD-Scientific Data""
+		},
+		
+		
+		
+		referral_community_status: ""20"",
+		referrer_code_prefix: """",
+		cookie_prefix: ""ORA_OTSS"",
+		date_format: ""mm/dd/yy"",
+        TEE: {
+            TaleoAPIUrl: ""https://lbl.taleo.net"",
+            OpenNewWindow: (0 == 1)
+        },
+        Applicant: {
+            FirstName : """",
+            LastName : """",
+            EmailAddress : """"
+        },
+        session_inactive_interval : ""1800"",
+        session_remainder_interval : ""1500"",
+        db_yes_value: ""10"",
+        db_no_value: ""20"",
+        job_details_editor_max_fields: ""20"",
+        automated_email_confirm: ""0""
+	};
+</script>
+
+
+	<!--[if lt IE 9]>
+	<script src=""/html5shiv.js""></script>
+	<![endif]-->
+
+	
+	
+		<script type=""text/javascript"" src=""/js-dict?v=202306270351_0""></script>
+	
+
+	
+
+	<link rel=""image_src"" href=""https://jobs.lbl.gov/media/client_2_s2_r4_v1627575999523_main.png"">
+	<link rel=""icon"" type=""image/x-icon"" href=""https://jobs.lbl.gov/media/client_4_s2_r9_v1627501389904_main.png"">
+
+	
+
+<style></style><style type=""text/css"" data-fbcssmodules=""css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe"">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style></head>
+<body id=""jobs_user-experience-researcher-6565"" class=""center_aligned full_width nav_compact job_details custom-job-detail likely_registered companyfilter desktop linux chrome"">
+  <input type=""hidden"" name=""tsstoken"" id=""tsstoken"" value=""GJktdgazaHLotRcwCAY8KdaS8LCPjegTT5buoMT8wzU="">
+	
+
+    <script type=""text/javascript"" src=""/teeintegration/detect_nested_iframe.js""></script>
+	<script type=""text/javascript"" src=""/detectWidthOrientation.js""></script>
+
+	<div id=""fb-root"" class="" fb_reset""><div style=""position: absolute; top: -10000px; width: 0px; height: 0px;""><div></div></div></div>
+	<iframe id=""jBlankFrame"" frameborder=""0"" style=""display: none; height: 0; width: 0;""></iframe>
+
+	
+
+	
+
+	
+		<div id=""persona_editor"" class=""jUserRefreshArea"">
+			
+
+
+	
+
+
+		</div>
+	
+
+	
+
+	
+	
+	<div id=""header_settings"" class=""jUserRefreshArea"">
+	<div id=""header_settings_container"">
+	
+
+	
+		<div id=""key_hldr"" class=""guest_key_hldr"">
+
+	<div id=""main_key"">
+		
+
+		
+			
+			
+			
+			
+				
+					<div id=""key_name_hldr"">
+						<a href=""https://jobs.lbl.gov/user/settings"" class=""jSettings font_header_light settings_btn gray_btn"">Settings</a>
+					</div>
+				
+			
+		
+
+	</div>
+
+</div>
+
+	
+	
+</div>
+
+</div>
+
+
+	<div id=""topBranding"">
+			<div id=""topbranding_container"">
+		<div id=""topbranding_logo"">
+			<a href=""http://www.lbl.gov/""><img alt=""LAWRENCE BERKELEY NATIONAL LABORATORY"" src=""https://lbl.referrals.selectminds.com/media/images/_crop/crop_blk_1579627791108_0_logo.jpg?v=1579628374986""></a>
+		</div>
+		<div id=""topbranding_nav"">
+		</div>
+		<div style=""clear: both;"">
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+
+<div id=""boilerplate_wrapper"">
+	<div id=""body_wrapper"">
+	
+	
+	
+	
+	
+		
+			<div id=""header"" class=""jHeader compact"">
+	<div id=""header_container"">
+		<div class=""menu_toggle_hldr"">
+			<div id=""jMenuToggle"" class=""menu_toggle"">
+				☰
+			</div>
+		</div>
+		
+		<div id=""logo_hldr"">
+			<div class=""logo"">
+				
+					<div id=""logo_inner"">
+						<a href=""https://jobs.lbl.gov/"">
+							<img src=""https://jobs.lbl.gov/media/client_3_s2_r0_v1506729540347_main.png"" alt=""Berkeley Lab Careers"" class=""logo_img"">
+						</a>
+					</div>
+				
+				
+			</div>
+		</div>
+		<div id=""nav_key_hldr"">
+			<div id=""header_content"" class=""jUserRefreshArea"">
+				<div id=""nav_hldr"">
+	<ul id=""main_nav"">
+		
+		
+			<li class=""nav_item"">
+				<a href=""https://jobs.lbl.gov/"" class=""nav_jobs font_nav selected"">
+					<span class=""nav_txt"">Jobs</span>
+				</a>
+			</li>
+			<li class=""nav_item"">
+				<a href=""https://jobs.lbl.gov/info/help"" class=""nav_help font_nav"">
+					<span class=""nav_txt"">Help</span>
+				</a>
+			</li>
+			
+
+			
+				
+				
+					<li class=""nav_item"">
+						<a href=""https://jobs.lbl.gov/info/page1"" class=""nav_page1 font_nav"">
+							<span class=""nav_txt"">Visually Impaired</span>
+						</a>
+					</li>
+				
+			
+
+			
+				
+					
+				
+				
+			
+
+			
+				
+				
+					<li class=""nav_item"">
+						<a href=""https://jobs.lbl.gov/info/page3"" class=""nav_page3 font_nav"">
+							<span class=""nav_txt"">Appointment Types</span>
+						</a>
+					</li>
+				
+			
+		
+		
+
+		
+		
+
+		
+	</ul>
+</div>
+
+<!-- Removed header_key_holder include -->
+
+			</div>
+		</div>
+	</div>
+</div>
+
+		
+		
+		
+		
+		
+		
+	
+	
+	<div id=""container"">
+		<div class=""jBlockRegion block_region full-width"" data-page=""job_details"" data-area=""top"">
+	
+	
+	<div class=""block module bid-25782"" data-name=""job_details_promo"" data-id=""25782"">
+		
+	
+
+		<input type=""hidden"" class=""jUserRefreshBlock jBlockContext"" value=""Job.id=6565"">
+
+		
+
+		
+			<!-- Referral Note -->
+			
+				
+
+				
+					
+					
+
+					
+					
+
+					
+						<!-- If a user is not a trusted referral, they should see nothing when there is no referrer -->
+					
+				
+			
+		
+
+	
+
+
+	</div>
+	
+	
+</div>
+
+<div id=""content"" class=""job details"">
+
+	<div class=""jBlockRegion block_region"" data-page=""job_details"" data-area=""content_top"">
+		
+		
+		
+	</div>
+
+	
+
+	<div id=""job_details_content"" class=""content_body block jPageContent"">
+		<div class=""jBlock"">
+			
+
+			
+
+			<input type=""hidden"" name=""Job.id"" value=""6565"" class=""jJobDetailId"">
+			<input type=""hidden"" name=""Job.special.apply_view"" value=""otac_17.4"" class=""jJobDetailApplyView"">
+			<input type=""hidden"" name=""Job.taleo_job_number"" value=""102110"">
+			<input type=""hidden"" name=""Job.apply_url"" value="""">
+
+			<div class=""content_header"">
+				<!-- star job start -->
+				
+				<!-- star job end -->
+				<h1 class=""title"">
+					User Experience Researcher
+				</h1>
+				<div class=""subtitle"">
+					<h4 class=""primary_location""><a href=""https://jobs.lbl.gov/jobs/6565/other-jobs-matching/location-only"">
+						<span class=""loc_icon entypo"">🔍</span>
+						Bay Area, California, United States
+					</a></h4>
+					<div class=""flg_hldr"">
+						
+<!-- new flag -->
+
+	
+
+
+
+
+
+
+<!-- hot flag -->
+
+	
+
+
+
+
+
+
+
+					</div>
+					
+
+				</div>
+			</div>
+
+			<div class=""full_content"">
+
+				<div id=""description_box"" class=""main_content_box"">
+
+					<div class=""info_box"">
+						<div class=""info_box_fields"">
+							<dl class=""field_category"">
+								
+																			
+										<dt>
+											<a href=""https://jobs.lbl.gov/landingpages/information-technology-opportunities-at-lbl-6"">
+												<span class=""job_icon entypo"">📁</span>
+											</a>
+										</dt>
+										<dd>
+											<a href=""https://jobs.lbl.gov/landingpages/information-technology-opportunities-at-lbl-6"">
+												<span class=""field_value font_header_light"">Information Technology</span>
+											</a>
+										</dd>										
+									
+									
+								
+								
+							</dl>
+							
+								<dl class=""field_company"">
+									<dt><span class=""job_icon entypo"">💼</span></dt>
+									<dd><span class=""field_value font_header_light"">DD-Scientific Data</span></dd>
+								</dl>
+									
+									<dl class=""pref_field field_job_external_id"">
+										<dt>
+											<span class=""job_icon entypo calendar"">📅</span>
+											<span class=""job_icon entypo location""></span>
+											<span class=""job_icon entypo archive""></span>
+											<span class=""job_icon entypo eye""></span>
+										</dt>
+										<dd class=""job_external_id""><span class=""field_value"">102110</span> <span class=""field_label"">Requisition #</span></dd>
+									</dl>
+									
+							
+							
+						</div>
+						
+							<div id=""info_btn_group_top"" class=""jUserRefreshArea info_btn_box"">
+								
+<input type=""hidden"" class=""jUserRefreshJobId"" value=""6565"">
+
+<div class=""button_holder has_fb has_li has_tw"">
+
+
+	
+
+	
+		<!-- external AND internal jobs -->
+		
+			<!-- PC:1,2 -->
+			
+
+			
+				<!-- rid:0,20,30,40 -->
+				<!-- <div id=""apply_btn_candidate"" class=""primary_btn jApplyBtn"" data-template=""apply_modal_otac_17.4""><span class=""btn_text"">Apply for Job</span></div> -->
+				
+				
+				
+					<button id=""apply_btn"" class=""secondary_btn jApplyBtn""><span class=""btn_text"">Apply for Job</span></button>
+
+			    
+		
+
+				
+				
+				
+				
+					
+					<button id=""refer_btn"" class=""secondary_btn jShareBtn"" aria-haspopup=""true"" data-direction=""top"">
+						<span class=""btn_text"">Share this Job</span>
+					</button>
+					
+					
+				
+
+				
+					<!-- TC:1 -->
+					
+						
+							
+							
+								
+									
+								
+							
+						
+					
+				
+
+			
+		
+
+		
+	
+
+
+	
+
+</div>
+
+
+							</div>
+						
+						
+					</div>
+
+					<div id=""job_video"" class=""jVideoRefresh job_video"" style=""display:none;"">
+						<input type=""hidden"" id=""jVideoRefreshContextId"" class=""jContextData"" data-name=""VideoLink.id"" value="""">
+
+<input type=""hidden"" id=""jSource"" value="""">
+<input type=""hidden"" id=""jSourceId"" value="""">
+<input type=""hidden"" id=""jVideoUrl"" value="""">
+
+
+
+	
+
+					</div>
+
+					<div class=""job_description"">
+						
+						
+						
+
+						
+
+						
+						
+						
+						
+						
+							<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">Please note: This position is not eligible for visa sponsorship or relocation.</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><o:p>&nbsp;</o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">The Berkeley Lab's Scientific Data Division is hiring a User Experience Researcher. This division collaborates with experts to develop data science methods, technologies, and infrastructures to drive scientific breakthroughs. Key focus areas include data modeling and analytics, scalable methods, data lifecycle and infrastructure, digital integrity, security, privacy, sustainable software engineering, and user experience (UX).</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><o:p>&nbsp;</o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">The Usable Data Systems (UDS) group within this division seeks a Computer Systems Engineer (CSE) for UX Research &amp; Design. This role involves incorporating user needs into software engineering processes to create sustainable software products. You will collaborate with DOE researchers, software engineers, and university faculty and students on diverse software development and data science projects supporting SciData's mission.</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><o:p>&nbsp;</o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>What You Will Do:</b></span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>If hired as a Level 1:</b></span></span></span></span><o:p></o:p></p>
+<ul>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Engage in all aspects of UX-informed software design and development, following team procedures and practices.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Perform design and qualitative data analysis to uncover insights that guide project direction and software sustainability.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Collaborate effectively with cross-functional teams, including domain scientists, facility staff, and computer scientists and engineers, to shape product outcomes.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Address and solve moderate-scope problems by analyzing various factors.</span></span></span></span><o:p></o:p></li>
+</ul>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>If hired as a Level 2 (in addition to the above):</b></span></span></span></span><o:p></o:p></p>
+<ul>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Execute all aspects of UX-informed software design and development.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Identify and prioritize scientific software R&amp;D based on existing designs, science needs, and sustainability factors.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Work independently on assignments.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Resolve diverse problems by evaluating identifiable factors.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Use good judgment in selecting methods and techniques for solutions.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Network with senior internal and external experts in your field.</span></span></span></span><o:p></o:p></li>
+</ul>
+<p class=""li1""><o:p>&nbsp;</o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>What is Required:</b></span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>If hired as a Level 1:</b></span></span></span></span><o:p></o:p></p>
+<ul>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Bachelor's degree with 2+ years of related experience, advanced degree without experience, or equivalent work experience.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Familiarity with usable software engineering and UX research &amp; design methods, including experimental, survey, qualitative (ethnographic, interviews, observations), usability testing, analytics, mockup development &amp; testing, and site mapping.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Ability to build productive relationships.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Experience with UX in Software targeted at a community of Scientists or Researchers</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Conduct UX research and design within the scientific software engineering process.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Excellent written and oral communication skills.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Strong interpersonal skills for a diverse team environment.</span></span></span></span><o:p></o:p></li>
+</ul>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>If hired as a Level 2 (in addition to the above):</b></span></span></span></span><o:p></o:p></p>
+<ul>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Bachelor’s degree and 5 years of related experience; or 3 years with a Master’s degree; or an equivalent combination of education and experience.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Experience with various UX research &amp; design methods (experimental, survey, qualitative, usability testing, analytics) to shape software products.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Ability to troubleshoot and solve diverse problems by evaluating identifiable factors.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Ability to network with senior internal and external experts.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Conduct UX research and design within the scientific software engineering process, working independently.</span></span></span></span><o:p></o:p></li>
+</ul>
+<p class=""li1""><o:p>&nbsp;</o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>Desired Qualifications:</b></span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>Level 1:</b></span></span></span></span><o:p></o:p></p>
+<ul>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Familiarity with at least two UX research methods in software engineering.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Understanding of a UX-informed software development lifecycle.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Awareness of usability challenges with new systems and technologies in scientific contexts (e.g., Scientific Python, Jupyter, AI/ML).</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Experience in cross-functional teams.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Experience with UX in scientific software.</span></span></span></span><o:p></o:p></li>
+</ul>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>Level 2 (in addition to the above):</b></span></span></span></span><o:p></o:p></p>
+<ul>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Proficiency in UX lifecycle and methodologies in software engineering.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Understanding of HPC, cloud, and large-scale systems.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Familiarity with open source software and open science practices.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Awareness of usability challenges in scientific contexts (e.g., Cloud, Jupyter, AI/ML).</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Experience authoring publications in sociotechnical venues (e.g., CSCW, CHI, New Media &amp; Society) based on UX research.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Experience presenting to PIs at funding agency meetings.</span></span></span></span><o:p></o:p></li>
+</ul>
+<p class=""li1""><o:p>&nbsp;</o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>Notes:</b></span></span></span></span><o:p></o:p></p>
+<ul>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->This is a full-time 2 year, term appointment with the possibility of extension or conversion to Career appointment based upon satisfactory job performance, continuing availability of funds and ongoing operational needs.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->This position is not eligible for visa sponsorship or relocation.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->The full salary range of the User Experience Researcher Level 1 is between $84,600 to $142,764 annually and is expected to pay between a targeted range of $95,172 to $116,340 annually depending upon the candidate's skills, knowledge, and abilities, including education, certifications, and years of experience.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->The full salary range of the User Experience Researcher Level 2 is between $106,596 to $179,880 annually and is expected to pay between a targeted range of $119,904 to $146,580 annually depending upon the candidate's skills, knowledge, and abilities, including education, certifications, and years of experience.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment.</span></span></span></span><o:p></o:p></li>
+<li style=""font-family: Arial; color: rgb(0, 0, 0);""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><!-- [if !supportLists]-->Work may be performed on-site, hybrid, full-time telework or remote modes. Work must be performed&nbsp;within the United States.</span></span></span></span><o:p></o:p></li>
+</ul>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>&nbsp;</b></span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;""><b>Learn About Us:</b></span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">Berkeley Lab is a U.S. Department of Energy national laboratory managed by the University of California and designated a Federally Funded Research and Development Center. Located in the San Francisco Bay Area, we have a close relationship with UC Berkeley, as well as robust partnerships with other academic institutions and industries, including those in Silicon Valley. The Laboratory conducts world-class research that supports clean energy, a healthy planet, and solution-inspired discovery science. Berkeley Lab is defined by our deeply felt sense of<a href=""https://stewardship.lbl.gov/""> stewardship</a>, which we describe as a commitment to taking care of the Laboratory's research, people, and resources that are entrusted to us. Our values of team science, innovation, service, trust, and respect knit us together as a community. We practice these values and prioritize our principles of inclusion, diversity, equity, and accountability (<a href=""https://diversity.lbl.gov/"">IDEA</a>) to build highly effective teams that produce world-class science and technology and where all individuals, regardless of their backgrounds, disciplines, and experiences, can thrive.</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">&nbsp;</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">Working at Berkeley Lab has many rewards including a competitive compensation program, excellent health and welfare programs, a retirement program that is second to none, and outstanding development opportunities. To view information about the many rewards that are offered at Berkeley Lab-<a href=""https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html""> Click Here</a>.</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">&nbsp;</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">Berkeley Lab is an Equal Opportunity and Affirmative Action Employer. We heartily welcome applications from women, minorities, veterans, and all who would contribute to the Lab’s mission of leading scientific discovery, inclusion, and professionalism. In support of our diverse global community, all qualified applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status.&nbsp;</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">&nbsp;</span></span></span></span><o:p></o:p></p>
+<p class=""p1""><span style=""background-color: rgb(255, 255, 255);""><span style=""color: #000000;""><span style=""font-size: 12px;""><span style=""font-family: arial, helvetica, sans-serif;"">Equal Opportunity and IDEA Information Links: Know your rights, click<a href=""http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm""> here</a> for the supplement: ""Equal Employment Opportunity is the Law"" and the<a href=""https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf""> Pay Transparency Nondiscrimination Provision</a> under 41 CFR 60-1.40.</span></span></span></span><o:p></o:p></p>
+						
+												
+
+				
+				
+				
+					<!-- TEC-19749 : Display Job fields -->
+					<div id=""jJobInsideInfo"" class=""job_inside_info"" style="""">
+							
+						<!-- For Employee Users -->
+						
+								
+						<!-- For Non Employee Users -->
+						
+									
+							
+								
+							
+									
+						
+						</div>
+					</div>
+				</div>
+			</div>
+
+			
+		</div>
+	</div>
+
+	<div class=""jBlockRegion block_region"" data-page=""job_details"" data-area=""content_bottom"">
+		
+		
+		
+	</div>
+
+</div>
+
+<!-- right column start -->
+
+<div id=""right_bar"">
+	<div id=""right_holder"" class=""jBlockRegion block_region"" data-page=""job_details"" data-area=""right_column"">
+		
+		
+		<div class=""block module bid-25779"" data-name=""job_search"" data-id=""25779"">
+			
+<div id=""job_search"" class=""jSearch jBlock block_content capsule"">
+	<form action="""" onsubmit=""return false;"">
+		<div class=""job_input_wrapper"">
+			<div class=""search_input_container"">
+				<input type=""text"" placeholder=""Search Jobs"" name=""keywords"" class=""job_search_input placeholder ui-autocomplete-input"" value="""" aria-label=""Search Jobs"" autocomplete=""off"">
+			</div>
+			<div class=""search_btn_container"">
+				<button type=""submit"" id=""jJobSearchSubmitBtn"" class=""job_search_submit"" aria-label=""Search Jobs Submit""></button>
+			</div>
+		</div>
+		<input type=""hidden"" class=""job_search_input"" value="""" name=""location_ids"">
+		<input type=""hidden"" class=""job_search_input"" value="""" name=""category_ids"">
+		<input type=""hidden"" class=""job_search_input jExactFields"" value="""" name=""exact"">
+	</form>
+</div>
+
+
+		</div>
+		
+		<div class=""block module bid-25777"" data-name=""my_ref_activity"" data-id=""25777"">
+			
+
+		</div>
+		
+		<div class=""block module bid-25780"" data-name=""job_stats"" data-id=""25780"">
+			
+	<input type=""hidden"" class=""jUserRefreshBlock jBlockContext"" value=""Job.id=6565"">
+	
+	
+		
+	
+
+
+		</div>
+		
+		<div class=""block module bid-25774"" data-name=""previous_searches"" data-id=""25774"">
+			
+
+<input type=""hidden"" class=""jUserRefreshBlock"">
+
+
+<div id=""previous_searches"" class=""jBlock block_content capsule ghost"">
+	<div class=""capsule_title"">
+		<h2 class=""font_header_bold"">Previous Job Searches</h2>
+	</div>
+	<div class=""capsule_content previous_searches jPreviousSearches"">
+		
+	</div>
+</div>
+<!-- </div> -->
+
+
+
+
+
+		</div>
+		
+		<div class=""block module bid-25775"" data-name=""TEE_account_profile"" data-id=""25775"">
+			
+
+
+	<input type=""hidden"" class=""jUserRefreshBlock"">
+	
+	
+	
+		
+		
+			<div id=""tee_account_profile"" class=""capsule jBlock block_content"" tabindex=""0"" aria-label=""
+			My Profile
+		"">
+<!--	<div id=""tee_submit_profile_hldr"" class=""capsule""> -->
+		<div class=""capsule_title"">
+			<h2 class=""font_header_bold"">My Profile</h2>
+		</div>
+		<div class=""capsule_content"">
+			<p id=""capsuleContent_4"">Create and manage profiles for future opportunities.</p>
+			
+							
+				
+					<a href=""https://lbl.taleo.net/careersection/profile.ftl?lang=en"" class=""flat_btn"" aria-describedby=""capsuleContent_4""><span class=""btn_txt"">Go to Profile</span></a>
+				
+			
+			
+		</div>
+<!-- </div> -->
+</div>
+
+		
+	
+
+
+		</div>
+		
+		<div class=""block module bid-25776"" data-name=""TEE_account_submissions"" data-id=""25776"">
+			
+
+
+	<input type=""hidden"" class=""jUserRefreshBlock"">
+
+	
+	
+		
+		
+			<div id=""tee_account_submissions"" class=""capsule jBlock block_content"" tabindex=""0"" aria-label=""
+			My Submissions
+		"">
+<!--	<div id=""tee_submit_profile_hldr"" class=""capsule""> -->
+		<div class=""capsule_title"">
+			<h2 class=""font_header_bold"">My Submissions</h2>
+		</div>
+		<div class=""capsule_content"">
+			<p id=""capsuleContent_5"">Track your opportunities.</p>
+			
+							
+				
+					<a href=""https://lbl.taleo.net/careersection/mysubmissions.ftl?lang=en"" class=""flat_btn"" aria-describedby=""capsuleContent_5""><span class=""btn_txt"">My Submissions</span></a>
+				
+			
+			
+		</div>
+<!--	</div> -->
+</div>
+
+		
+	
+
+
+		</div>
+		
+		<div class=""block module bid-25778"" data-name=""top_referrer"" data-id=""25778"">
+			
+
+		</div>
+		
+		<div class=""block module bid-25773"" data-name=""activity_feed"" data-id=""25773"">
+			
+
+		</div>
+		
+		<div class=""block module bid-25781"" data-name=""similar_listings"" data-id=""25781"">
+			
+
+<input type=""hidden"" class=""jBlockContext"" value=""Job.id=6565"">
+
+
+	
+		<div id=""similar_listings"" class=""capsule jBlock block_content"" tabindex=""0"" aria-label=""
+				Similar Listings
+			"">
+			<div class=""capsule_title"">
+				<h2 class=""font_header_bold"">Similar Listings</h2>
+			</div>
+			
+			<div class=""capsule_content similar_jobs"">
+				
+					<div class=""capsule_row"" id=""similar_listings_row_8_0"">
+						<div class=""list_row_title"">
+							
+							
+								<a class=""link_title"" href=""https://jobs.lbl.gov/jobs/optimization-software-engineer-6578"" aria-describedby=""similar_listings_row_8_0"">Optimization Software Engineer</a>
+							
+						</div>
+						
+						<div class=""capsule_detail_list"">
+							
+								<p class=""listrow"">DD-Scientific Data</p>
+							
+							
+							<p class=""listrow""><span class=""entypo""></span> Bay Area, California, United States</p>
+							
+							<p class=""listrow""><span class=""entypo"">📁</span> Information Technology</p>
+							
+							<p class=""listrow"">
+								<span class=""job_icon entypo""></span>
+								<span class=""label job_external_id"">Requisition #:</span>
+								<span class=""value job_external_id"">102078</span>
+							</p>
+						</div>
+					</div>
+				
+					<div class=""capsule_row"" id=""similar_listings_row_8_1"">
+						<div class=""list_row_title"">
+							
+							
+								<a class=""link_title"" href=""https://jobs.lbl.gov/jobs/business-systems-group-manager-6546"" aria-describedby=""similar_listings_row_8_1"">Business Systems Group Manager</a>
+							
+						</div>
+						
+						<div class=""capsule_detail_list"">
+							
+								<p class=""listrow"">CF-Office of Chief Financial Off</p>
+							
+							
+							<p class=""listrow""><span class=""entypo""></span> Bay Area, California, United States</p>
+							
+							<p class=""listrow""><span class=""entypo"">📁</span> Information Technology</p>
+							
+							<p class=""listrow"">
+								<span class=""job_icon entypo""></span>
+								<span class=""label job_external_id"">Requisition #:</span>
+								<span class=""value job_external_id"">102054</span>
+							</p>
+						</div>
+					</div>
+				
+					<div class=""capsule_row"" id=""similar_listings_row_8_2"">
+						<div class=""list_row_title"">
+							
+							
+								<a class=""link_title"" href=""https://jobs.lbl.gov/jobs/term-computer-systems-engineer-6530"" aria-describedby=""similar_listings_row_8_2"">Term Computer Systems Engineer</a>
+							
+						</div>
+						
+						<div class=""capsule_detail_list"">
+							
+								<p class=""listrow"">SN-Scientific Networking</p>
+							
+							
+							<p class=""listrow""><span class=""entypo""></span> Bay Area, California, United States</p>
+							
+							<p class=""listrow""><span class=""entypo"">📁</span> Information Technology</p>
+							
+							<p class=""listrow"">
+								<span class=""job_icon entypo""></span>
+								<span class=""label job_external_id"">Requisition #:</span>
+								<span class=""value job_external_id"">101592</span>
+							</p>
+						</div>
+					</div>
+				
+			</div>
+			
+			
+			<div class=""capsule_footer view_more_listings font_bold"">
+				<a href=""/jobs/6565/more-similar-jobs"">View More Listings</a>
+			</div>
+			
+		</div>
+	
+
+
+
+		</div>
+		
+		
+	</div>
+</div>
+
+
+<!-- right column end -->
+
+<script type=""text/javascript"" src=""/LAB.min.js""></script>
+<script>
+    var jsQueue = $LAB
+	// load and initialize jQuery (local or google cdn)
+	.script('/jquery/jquery-3.7.0.min.js')
+	.wait(function() {
+		j$ = jQuery.noConflict();
+		window.FB = false;
+	})
+	// load all global plugins
+	.script(""/plugins/jquery-ui-1.13.2.custom.min.js"")
+	.script(""/plugins/json2.js"")
+	.script(""/plugins/bootstrap/bootstrap-popover.js"")
+	.script(""/plugins/jquery.colorbox.min.js"")
+	.script(""/plugins/jquery.easing.1.3.js"")
+	.script(""/plugins/jquery.history.js"")
+	.script(""/plugins/jquery.detectmobilebrowser.js"").wait()
+	.script(""/plugins/chosen.jquery.js"")
+	.script(""/plugins/jquery.validate.1.19.5.min.js"")
+	.script(""/plugins/sanitize.js"")	// For contenteditable usability
+	.script(""/sha1.js"")
+	.script(""/social_api.js"")
+    .wait(function(){
+		j$.easing.def = ""easeInOutQuint"";
+		j$.validator.setDefaults({
+			messages: {
+				required: ""This field is required."",
+				remote: ""Please fix this field."",
+				email: ""Please enter a valid email address."",
+				url: ""Please enter a valid URL."",
+				date: ""Please enter a valid date."",
+				dateISO: ""Please enter a valid date (ISO)."",
+				number: ""Please enter a valid number."",
+				digits: ""Please enter only digits."",
+				creditcard: ""Please enter a valid credit card number."",
+				equalTo: ""Please enter the same value again."",
+				accept: ""Please enter a value with a valid extension."",
+				maxlength: $.validator.format(""Please enter no more than {0} characters.""),
+				minlength: $.validator.format(""Please enter at least {0} characters.""),
+				rangelength: $.validator.format(""Please enter a value between {0} and {1} characters long.""),
+				range: $.validator.format(""Please enter a value between {0} and {1}.""),
+				max: $.validator.format(""Please enter a value less than or equal to {0}.""),
+				min: $.validator.format(""Please enter a value greater than or equal to {0}."")
+			}
+		});
+	})// do not end with "";""
+
+
+	.script(""/plugins/jquery.jscrollpane.min.js"")
+	.script(""/jquery/jquery.autosize-min.js"")
+
+	.script(""/plugins/jquery.fileupload.js"")
+    // add page specific plugins and utilities here:
+    .wait() // do not remove
+    	// add global custom functions to the queue
+	.script(""/desktop.js?v=""+TVAPP.property.version_num).wait()
+	.script(""/changePassword.js?v=""+TVAPP.property.version_num)
+	.script(""/user.js?v=""+TVAPP.property.version_num)
+	.script(""/login.js?v=""+TVAPP.property.version_num)
+	.script(""/modal.js?v=""+TVAPP.property.version_num)
+	.script(""/rfl.apply.js?v=""+TVAPP.property.version_num)
+	
+		.script(""/persona.js?v=""+TVAPP.property.version_num)
+	
+	
+	
+	.script(function() { return (TVAPP.property.fb ? ""/facebook/facebook_app.js?v=""+TVAPP.property.version_num : null); })
+	.script(""/facebook_status_post.js?v=""+TVAPP.property.version_num)
+ 	.wait(function(){
+		TVAPP.pageInit();
+		TVAPP.stateOnLoad();
+		j$(document).trigger('globalJSLoaded');
+	})// do not end with "";""
+
+    // add page specific custom scripts here:
+    .script(""/video.js?v=""+TVAPP.property.version_num)
+	.script(""/referral.js?v=""+TVAPP.property.version_num)
+
+	.script(""/job_details.js?v=""+TVAPP.property.version_num);
+
+
+	// always end with "";""
+</script>
+
+	</div>
+</div>
+
+</div>
+
+
+	
+		<div id=""footer"" class=""jFooter compact"">
+	
+	<div class=""footer_container"">
+			
+		<div class=""footer_nav_hldr"">
+			<div class=""footer_content"">
+				<div id=""footer_content"" class=""jUserRefreshArea"">
+					<ul class=""footer_nav"">
+	
+		<li class=""nav_item"">
+			<a href=""https://jobs.lbl.gov/"" class=""nav_jobs font_nav selected"">
+				<span class=""nav_txt"">Jobs</span>
+			</a>
+		</li>
+		<li class=""nav_item"">
+			<a href=""https://jobs.lbl.gov/info/help"" class=""nav_help font_nav"">
+				<span class=""nav_txt"">Help</span>
+			</a>
+		</li>
+		<li class=""nav_item"">
+
+			<a href=""https://jobs.lbl.gov/sitemap"" class=""nav_sitemap font_nav"">
+				<span class=""nav_txt"">Site Map</span>
+			</a>
+		</li>
+
+			
+				
+				
+					<li class=""nav_item"">
+						<a href=""https://jobs.lbl.gov/info/page1"" class=""nav_page1 font_nav"">
+							<span class=""nav_txt"">Visually Impaired</span>
+						</a>
+					</li>
+				
+			
+
+			
+				
+					
+				
+				
+			
+
+			
+				
+				
+					<li class=""nav_item"">
+						<a href=""https://jobs.lbl.gov/info/page3"" class=""nav_page3 font_nav"">
+							<span class=""nav_txt"">Appointment Types</span>
+						</a>
+					</li>
+				
+			
+
+	
+
+	
+		
+	
+
+	
+	
+
+	
+</ul>
+
+				</div>
+				
+					
+				
+			</div>
+		</div>
+		<div class=""footer_copyright font_footer"">
+				© <script>var d = new Date().getYear(); document.write((d < 1000) ? d + 1900 : d);</script>2024 Berkeley Lab Careers. All rights reserved.
+		</div>
+	</div>
+
+</div>
+
+	
+	
+	
+	
+
+
+
+	<div id=""bottomBranding"">
+		<div id=""disclaimer"">
+<p style=""margin-top:0px;margin-bottom:0px"">
+Berkeley Lab is committed to <a href=""http://diversity.lbl.gov/ideaberkeleylab/"" rel=""nofollow"">Inclusion, Diversity, Equity and Accountability (IDEA)</a> and strives to continue building community with these shared values and commitments.</p>
+
+<p>
+Berkeley Lab is an Equal Opportunity and Affirmative Action Employer. We heartily welcome applications from women, minorities, veterans, and all who would contribute to the Lab’s mission of leading scientific discovery, inclusion, and professionalism. In support of our diverse global community, all qualified applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status.</p>
+<p> 
+Equal Opportunity and IDEA Information Links:<br>
+Know your rights, click <a href=""http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm"" rel=""nofollow"">here</a> for the supplement: ""Equal Employment Opportunity is the Law."" and the <a href=""https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf"" rel=""nofollow"">Pay Transparency Nondiscrimination Provision under 41 CFR 60-1.4.</a></p>
+
+<p style=""margin-top:0px;margin-bottom:0px"">&nbsp;</p>
+
+<p style=""margin-top:0px;margin-bottom:0px""><a href=""http://www.lbl.gov/Disclaimers.html"" rel=""nofollow"">Privacy and Security Notice</a> | <a href=""http://www.uscis.gov/e-verify"" rel=""nofollow"">LBNL is an E-Verify Employer</a> | <a href=""mailto:hrsc@lbl.gov"" rel=""nofollow"">Contact Us</a></p>
+
+
+<p style=""margin-top:0px;margin-bottom:0px""><br>
+The Lawrence Berkeley National Laboratory provides accommodation to otherwise qualified internal and external applicants who are disabled or become disabled and need assistance with the application process. Internal and external applicants that need such assistance may contact the Lawrence Berkeley National Laboratory to request accommodation by telephone at 510-486-7635, by email to eeoaa@lbl.gov or by U.S. mail at EEO/AA Office, One Cyclotron Road, MS90R-2121, Berkeley, CA 94720. These methods of contact have been put in place ONLY to be used by those internal and external applicants requesting accommodation.</p>
+<p>
+</p><p>
+</p></div>
+
+
+	</div>
+
+
+	
+	
+
+	<div id=""contentRepository"" style=""display: none"">
+	<div class=""content-definition"" id=""register-content-definition"" template=""register_modal_landing"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""send-job-content-definition"" template=""send_job_content"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""forced-login-content-definition"" template=""forced_login_modal"" context=""Usr.id=2""></div>
+
+	<div class=""content-definition"" id=""activity-feed-base-content"" template=""activity_feed_base"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""activity-feed-self-content"" template=""activity_feed_self"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""location-content"" template=""job_location_loop"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""category-content"" template=""job_category_loop"" context=""Usr.id=2""></div>
+
+	<div class=""content-definition"" id=""user-location-content"" template=""user_location_loop"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""user-category-content"" template=""user_category_loop"" context=""Usr.id=2""></div>
+
+	<div class=""content-definition"" id=""header_content_def"" template=""header_content"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""refer_box_content_def"" template=""refer_box_content"" context=""Usr.id=2&amp;Job.id=6565""></div>
+
+	<div class=""content-definition"" id=""stat-links-table-content"" template=""stat-link-table"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""stat-clicks-table-content"" template=""stat-click-table"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""stat-candidates-table-content"" template=""stat-candidate-table"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""top-refer-stats-content"" template=""top_refer_stats""></div>
+
+	<div class=""content-definition"" id=""modal_images"" template=""modal_images"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""modal_terms"" template=""modal_terms"" context=""Usr.id=2""></div>
+	<div class=""content-definition"" id=""location_level_list"" template=""location_level_list"" context=""""></div>
+	<div class=""content-definition"" id=""job_details_editor_field_row"" template=""job_details_editor_field_row"" context=""""></div>
+
+
+	<div class=""content-definition"" id=""similar-jobs-content"" template=""similar_jobs"" context=""Job.id=6565""></div>
+	<div class=""content-definition"" id=""refer-message-content"" template=""job_details_refer_message"" context=""Job.id=6565""></div>
+	<div class=""content-definition"" id=""apply-modal-content"" template=""apply_modal_otac_17.4"" context=""Job.id=6565""></div>
+	<div class=""content-definition"" id=""apply-refer-friend-content"" template=""apply_modal_refer_friend.shtml"" context=""Job.id=6565""></div>
+
+
+
+</div>
+
+
+	<script language=""javascript"">
+
+var vMinLength = ""8"";
+var vMaxLength = ""30"";
+var vMinNonAlpha = ""0"";
+var vUpperLowerRequired = ""true"";
+var vIsNotUserIdUserName = ""true"";
+var vMinimumNumericCharacters = ""1"";
+var vMinimumSpecialCharacters = ""1"";
+var vMinLengthErrTxt = ""Minimum number of characters in password is"";
+var vMaxLengthErrTxt = ""Maximum number of characters in password is"";
+var vMinNonAlphaErrTxt = ""The password must contain at least"";
+var vNoChangePassword = ""Please fill in your new password."";
+var vUpperLowerRequiredErrTxt = ""The password must contain at least one uppercase letter<br />and at least one lowercase letter."";
+var vNoPasswordSpace = ""No spaces."";
+var vIsNotUserIdUserNameErrTxt = ""The new password may not be the same as your email address."";
+var vMinimumNumericCharactersErrTxt = ""Minimum number of numeric characters in password is"";
+var vMinimumSpecialCharactersErrTxt = ""Minimum number of special characters in password is"";
+
+// Special groups for clients who have aditional requirements
+var vSpecialGroup1    = """";
+var vMinSpecialGroup1       = """";
+var vMinSpecialGroup1ErrTxt = ""You need 1 of the following characters []."";
+
+var vSpecialGroup2    = """";
+var vMinSpecialGroup2       = """";
+var vMinSpecialGroup2ErrTxt = ""You need 1 of the following characters []."";
+
+var vSpecialGroup3    = """";
+var vMinSpecialGroup3       = """";
+var vMinSpecialGroup3ErrTxt = ""This is where you set the error given by special group #3"";
+
+// Error Messages - optional
+var vErrHeaderDefault = ""Please conform to the following criteria:\n"";
+//var vErrFooterDefault = ""FieldError.PasswordErrorFooter"";
+
+var vNoLoginPasswordTxt = ""Please type in your existing password."";
+
+var vJSDictCharacters = ""characters."";  // "" characters.""
+var vJSDictNumber = ""non-alphabet character."";  // "" number.""
+var vJSDictNumbers = ""non-alphabet characters."";  // "" numbers.""
+
+//""Please make sure that both of your new passwords match.""
+var vJSDictEquality = ""Passwords must match."";
+
+var vErrSubmitForm = ""There was a problem submitting the form:"";
+
+// Error messages for registration page checks
+
+var vRequiredField = ""Please fill in this field."";
+var vAtLeast = ""Length must be at least "";
+var vValidDateRequired = ""Please fill in a valid date in this field using the format mm/dd/yyyy."";
+var vEmailNotFormattedCorrectly = ""Please provide a valid e-mail (e.g. person@company.com). "";
+var vEmailDoesNotMatchConfirm = ""Your FieldMap.Member.email and FieldMap.Member.emailConfirm do not match."";
+var vNoConsent1 = ""Please agree to the Privacy Policy."";
+var vNoConsent2 = ""Please agree to the Terms of Service."";
+var vNoConsent = ""Please agree to the Terms of Service."";
+var vAuth1or2Required = ""To verify your account, please fill out FieldMap.Member.mb_auth.auth_info1 or FieldMap.Member.mb_auth.auth_info2 with at least 4 characters."";
+var vRegistrationSubmit = ""FieldError.RegistrationSubmit"";
+
+</script>
+
+
+	<!--[if IE]><script type=""text/javascript"" src=""/plugins/excanvas.min.js""></script><![endif]-->
+
+	
+
+
+
+
+
+<div id=""ga_relationship"" class=""jUserRefreshArea"">
+	<script type=""text/javascript"">
+	function setGaRelationship() {
+		var ga_relationship_name = 'unaffiliated';
+
+		
+		
+		
+
+		
+			
+		
+		
+		return ga_relationship_name;
+	}
+	
+	function setGaReferrer(){
+		var ga_referrer_relationship;
+		
+			
+			
+			
+				ga_referrer_relationship = 'No referrer';
+			
+		
+		
+		return ga_referrer_relationship;
+	}
+</script>
+
+</div>
+
+<script type=""text/javascript"">
+	var _gaq = _gaq || [];	
+	
+	var ga_relationship = setGaRelationship();
+	
+	var ga_referrer = setGaReferrer();
+	
+	
+	_gaq.push(['_setAccount', 'UA-185111332-1']);  // Site Specific Tracker
+	
+	_gaq.push(['_setVar',""Relationship: "" + ga_relationship + "" | "" + ga_referrer]);
+	_gaq.push(['_setCustomVar',1,'Relationship',ga_relationship,3]);
+	_gaq.push(['_setCustomVar',2,'Referrer',ga_referrer,3]);
+	_gaq.push(['_trackPageview', window.location.pathname]);
+	
+	
+		_gaq.push(['aggregate._setAccount', 'UA-19128950-12']); // Aggregate Tracker
+	
+	
+	_gaq.push(['aggregate._setDomainName', '.selectminds.com']);
+	
+	_gaq.push(['aggregate._setVar',""Relationship: "" + ga_relationship + "" | "" + ga_referrer]);
+	_gaq.push(['aggregate._setCustomVar',1,'Relationship',ga_relationship,3]);
+	_gaq.push(['aggregate._setCustomVar',2,'Referrer',ga_referrer,3]);
+	_gaq.push(['aggregate._trackPageview', window.location.pathname]);
+	
+	var ga_alert = """";
+	
+	if(ga_alert == ""yes"") {
+		alert('Page View: ' + window.location.pathname + ' | Relationship: ' + ga_relationship + ' | Referrer: ' + ga_referrer);
+	}
+	
+	(function() {
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	function asTrackPageview(url_name) {
+		
+		var ga_relationship_name = setGaRelationship();
+		
+		var ga_referrer_relationship = setGaReferrer();
+		
+		_gaq.push(['_setCustomVar',1,
+			'Relationship',
+			ga_relationship_name,
+			3
+		 ]);
+		_gaq.push(['_setCustomVar',2,
+			'Referrer',
+			ga_referrer_relationship,
+			3
+		 ]);
+		_gaq.push(['_setVar',""Relationship: "" + ga_relationship_name + "" | "" + ga_referrer_relationship]);
+		
+		_gaq.push(['aggregate._setCustomVar',1,
+			'Relationship',
+			ga_relationship_name,
+			3
+		 ]);
+		_gaq.push(['aggregate._setCustomVar',2,
+			'Referrer',
+			ga_referrer_relationship,
+			3
+		 ]);
+		_gaq.push(['aggregate._setVar',""Relationship: "" + ga_relationship_name + "" | "" + ga_referrer_relationship]);
+		
+		if(ga_alert == ""yes"") {
+			alert('Page View: ' +url_name + ' | Relationship: ' + ga_relationship_name + ' | Referrer: ' + ga_referrer_relationship);
+		}
+		
+		
+		_gaq.push(['_trackPageview', url_name]);
+		
+		_gaq.push(['aggregate._trackPageview', url_name]);
+		
+		//alert(""Tracking Page: "" + url_name);
+	}
+
+	function asTrackEvent(category, action, opt_label) {
+		
+		var ga_relationship_name = setGaRelationship();
+		
+		var ga_referrer_relationship = setGaReferrer();
+		
+		if(ga_alert == ""yes"") {
+			alert('Event: ' +category +"".""+ action +"".""+ opt_label + ' | Relationship: ' + ga_relationship_name + ' | Referrer: ' + ga_referrer_relationship);
+		}
+		
+		_gaq.push(['_trackEvent', category, action, opt_label]);
+		
+		_gaq.push(['aggregate._trackEvent', category, action, opt_label]);
+
+		// alert(""Tracking Event: "" + category + "" | "" + action + "" | "" + opt_label);
+	}
+
+</script>
+
+
+
+
+	<div id=""overlay""></div>
+
+	<div id=""jProperty"" style=""display: none;"">
+		<label id=""ShowModule.ContactUs.Email"">1</label>
+		<label id=""ShowModule.CountryFilter"">0</label>
+	</div>
+
+
+
+<div id=""cboxOverlay"" style=""display: none;""></div><div id=""colorbox"" class="""" role=""dialog"" tabindex=""-1"" style=""display: none;""><div id=""cboxWrapper""><div><div id=""cboxTopLeft"" style=""float: left;""></div><div id=""cboxTopCenter"" style=""float: left;""></div><div id=""cboxTopRight"" style=""float: left;""></div></div><div style=""clear: left;""><div id=""cboxMiddleLeft"" style=""float: left;""></div><div id=""cboxContent"" style=""float: left;""><div id=""cboxTitle"" style=""float: left;""></div><div id=""cboxCurrent"" style=""float: left;""></div><button type=""button"" id=""cboxPrevious""></button><button type=""button"" id=""cboxNext""></button><button id=""cboxSlideshow""></button><div id=""cboxLoadingOverlay"" style=""float: left;""></div><div id=""cboxLoadingGraphic"" style=""float: left;""></div></div><div id=""cboxMiddleRight"" style=""float: left;""></div></div><div style=""clear: left;""><div id=""cboxBottomLeft"" style=""float: left;""></div><div id=""cboxBottomCenter"" style=""float: left;""></div><div id=""cboxBottomRight"" style=""float: left;""></div></div></div><div style=""position: absolute; width: 9999px; visibility: hidden; display: none;""></div></div><div class=""high-contrast-test"" style=""width: 0px; height: 0px; background-image: url(&quot;#&quot;);""></div><div id=""jElementSpinner"" class=""element_spinner"" style=""display: none;""><div class=""spinner"" aria-role=""progressbar"" style=""position: relative; z-index: 99; left: 10px; top: 9px;""><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-0-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(0deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-1-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(30deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-2-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(60deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-3-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(90deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-4-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(120deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-5-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(150deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-6-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(180deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-7-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(210deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-8-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(240deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-9-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(270deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-10-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(300deg) translate(5px, 0px); border-radius: 1px;""></div></div><div style=""position: absolute; top: -1px; opacity: 0.25; animation: 1s linear 0s infinite normal none running opacity-87-25-11-12;""><div style=""position: absolute; width: 5px; height: 3px; background: rgb(110, 110, 110); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center; transform: rotate(330deg) translate(5px, 0px); border-radius: 1px;""></div></div></div></div><ul id=""ui-id-1"" tabindex=""0"" class=""ui-menu ui-widget ui-widget-content ui-autocomplete ui-front"" unselectable=""on"" style=""display: none;""></ul><div role=""status"" aria-live=""assertive"" aria-relevant=""additions"" class=""ui-helper-hidden-accessible""></div></body></html>"
