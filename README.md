@@ -1,2 +1,1 @@
-# web_scraping_tool
-Tool for scraping websites added to a Google Sheet
+This repo hosts a tool for scraping URLs added to a Google Sheet. Researchers can conveniently add URLs to a Google Sheet. The tool uses GitHub Actions and Google Sheets API to regularly get the URLs added to the Google Sheet, check if they're already in the data file, and, if not, scrape them and store the source code in the data file. As such, this tool makes it easy and fast for researchers to automatically request a website to be scraped. I built this tool for a project as part of my work at Research Computing and Data Services.
