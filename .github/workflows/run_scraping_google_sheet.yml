@@ -38,6 +38,7 @@ jobs:
       run: |
         git add data.csv
         git commit -m "Replaced existing data file"
-        git push
+        git push -f  
+    # https://stackoverflow.com/questions/24357108/error-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-ha
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
