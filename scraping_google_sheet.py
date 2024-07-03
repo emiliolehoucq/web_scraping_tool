@@ -4,15 +4,24 @@
 # Loading libraries
 import google.auth
 from googleapiclient.discovery import build
+from google.oauth2.service_account import Credentials
 import pandas as pd
 from scrapers import get_selenium_response
 
 # Get URLs from the Google Sheet
 
-# In the local machine, run: export GOOGLE_APPLICATION_CREDENTIALS="credentials.json"
-# In GitHub, add to secrets
-# Get the credentials from the environment variable
-creds, _ = google.auth.default()
+# # For local machine:
+# # In the local machine, run: export GOOGLE_APPLICATION_CREDENTIALS="credentials.json"
+# # Get the credentials from the environment variable
+# creds, _ = google.auth.default()
+
+# For GitHub Actions:
+# Write the credentials from the environment variable to a file
+with open('credentials.json', 'w') as creds_file:
+    creds_file.write(os.getenv('GOOGLE_APPLICATION_CREDENTIALS'))
+
+# Load credentials from the file
+creds = Credentials.from_service_account_file('credentials.json')
 
 # Build the service
 service = build("sheets", "v4", credentials=creds)
