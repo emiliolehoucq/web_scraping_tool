@@ -1,9 +1,8 @@
 name: Run Scraping Google Sheet Script
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 3 * * *' # 3am UTC (10 pm central)
   workflow_dispatch:
 
 jobs:
