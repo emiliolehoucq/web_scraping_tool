@@ -5,7 +5,7 @@
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
 import pandas as pd
-from scrapers import get_selenium_response
+from scraper import get_selenium_response
 import os
 import json
 from datetime import datetime
