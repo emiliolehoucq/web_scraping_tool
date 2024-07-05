@@ -2,9 +2,9 @@
 # Emilio Lehoucq
 
 # Loading libraries
-import google.auth
 from googleapiclient.discovery import build
 from google.oauth2.service_account import Credentials
+from google.oauth2 import service_account
 import pandas as pd
 from scrapers import get_selenium_response
 import os
@@ -17,12 +17,15 @@ import os
 # creds, _ = google.auth.default()
 
 # For GitHub Actions:
-# Write the credentials from the environment variable to a file
-with open('credentials.json', 'w') as creds_file:
-    creds_file.write(os.getenv('GOOGLE_APPLICATION_CREDENTIALS'))
+# Store credentials in secrets
+# # Write the credentials from the environment variable to a file
+# with open('credentials.json', 'w') as creds_file:
+#     creds_file.write(os.getenv('GOOGLE_APPLICATION_CREDENTIALS'))
 
-# Load credentials from the file
-creds = Credentials.from_service_account_file('credentials.json')
+# # Load credentials from the file
+# creds = Credentials.from_service_account_file('credentials.json')
+credentials_info = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
+creds = service_account.Credentials.from_service_account_info(credentials_info)
 
 # Build the service
 service = build("sheets", "v4", credentials=creds)
@@ -30,7 +33,6 @@ service = build("sheets", "v4", credentials=creds)
 # Get the values from the Google Sheet
 result = service.spreadsheets().values().get(spreadsheetId="18HONqO0zv0SvM9_BCqa259Jvo12d6CXgmJQHhzGE2Jg", range="A1:A500").execute()
 rows = result.get("values", [])
-# print(rows)
 
 # Check if the URLs have already been scraped
 
@@ -39,23 +41,18 @@ df = pd.read_csv('data.csv')
 
 # Get existing URLs
 existing_urls = df['url'].tolist()
-# print(existing_urls)
 
 # Iterate over the URLs in the Google Sheet
 for row in rows:
     # Check if the given URL is already in the CSV
     if row[0] not in existing_urls:
         # If it's not in the CSV, scrape it
-        # print(f"Scraping {row[0]}")
         response = get_selenium_response(row[0])
         # If the response is not None, add it to the CSV
         if response is not None:
-            # print(f"Scraped {row[0]} successfully")
-            # print(response)
             df = pd.concat([df, pd.DataFrame({'url': row[0], 'html': response}, index=[len(df)])], ignore_index=True)
     # If it's already in the CSV, skip it
     else:
-        # print(f"Skipping {row[0]} as it's already in the CSV")
         continue
 
 # Save the updated CSV
