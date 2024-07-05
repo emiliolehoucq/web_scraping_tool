@@ -8,6 +8,7 @@ from google.oauth2 import service_account
 import pandas as pd
 from scrapers import get_selenium_response
 import os
+import json
 
 # Get URLs from the Google Sheet
 
@@ -24,8 +25,13 @@ import os
 
 # # Load credentials from the file
 # creds = Credentials.from_service_account_file('credentials.json')
+
+# Retrieve the environment variable and parse it as JSON
 credentials_info = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
-creds = service_account.Credentials.from_service_account_info(credentials_info)
+credentials_dict = json.loads(credentials_info)
+
+# Use the parsed dictionary to create the credentials object
+creds = service_account.Credentials.from_service_account_info(credentials_dict)
 
 # Build the service
 service = build("sheets", "v4", credentials=creds)
