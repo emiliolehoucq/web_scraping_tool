@@ -6500,3 +6500,1431 @@ $(c).html('\x3ca href\x3d""'+a+'"" class\x3d""p-button basic primary width-auto"
 function findApply1(){if(void 0!=$('button[data-tag\x3d""applyNowButton""]').parent().get(0)){console.log(""Found 1st"");var c=$('button[data-tag\x3d""applyNowButton""]').parent().get(0),a=url.match(/requisition\/\d+/g)[0].match(/(\d+)/g)[0],b=url.match(/careersite\/\d+/g)[0].match(/(\d+)/g)[0];console.log(""Req ID: ""+a);console.log(""Career Site: ""+b);a=""/ats/careersite/login.aspx?c\x3dillinois\x26site\x3d1\x26returnurl\x3d~%2Fux%2Fats%2Fcareersite%2F""+b+""%2Frequisition%2F""+a+""%2Fapplication%3Fc%3Dillinois%26jobboardid%3D0%231"";
 $(c).html('\x3ca href\x3d""'+a+'"" class\x3d""p-button basic primary width-auto"" style\x3d""text-decoration: none;""\x3eApply Now\x3c/a\x3e')}}function replaceApply(){null!==document.querySelector('.p-view-pagemenu a[href*\x3d""login.aspx""]')&&null!==document.querySelector('.p-view-pagemenu a[href*\x3d""createprofile.aspx""]')&&(findApply1(),findApply2())}console.log(""script v4 on"");var url=window.location.href;
 if(-1<url.toLowerCase().indexOf(""/home"")){console.log(""home"");var signInGlobalLoop=setInterval(function(){(void 0!=$('button[data-tag\x3d""applyNowButton""]').parent().get(0)||void 0!=$('button[data-tag\x3d""applyNowBtn""]').parent().get(0))&&-1<url.search(""requisition"")&&replaceApply()},250)};</script></body></html>"
+2024-07-11 03:19:00,https://msi.umn.edu/about-msi/employment/bioinformatics-analyst-ri-core,"<html lang=""en"" dir=""ltr"" prefix=""content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "" class=""js fontawesome-i2svg-active fontawesome-i2svg-complete""><head>
+  <meta charset=""utf-8"">
+<style type=""text/css"">:host,:root{--fa-font-solid:normal 900 1em/1 ""Font Awesome 6 Solid"";--fa-font-regular:normal 400 1em/1 ""Font Awesome 6 Regular"";--fa-font-light:normal 300 1em/1 ""Font Awesome 6 Light"";--fa-font-thin:normal 100 1em/1 ""Font Awesome 6 Thin"";--fa-font-duotone:normal 900 1em/1 ""Font Awesome 6 Duotone"";--fa-font-sharp-solid:normal 900 1em/1 ""Font Awesome 6 Sharp"";--fa-font-sharp-regular:normal 400 1em/1 ""Font Awesome 6 Sharp"";--fa-font-sharp-light:normal 300 1em/1 ""Font Awesome 6 Sharp"";--fa-font-brands:normal 400 1em/1 ""Font Awesome 6 Brands""}svg:not(:host).svg-inline--fa,svg:not(:root).svg-inline--fa{overflow:visible;box-sizing:content-box}.svg-inline--fa{display:var(--fa-display,inline-block);height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-2xs{vertical-align:.1em}.svg-inline--fa.fa-xs{vertical-align:0}.svg-inline--fa.fa-sm{vertical-align:-.0714285705em}.svg-inline--fa.fa-lg{vertical-align:-.2em}.svg-inline--fa.fa-xl{vertical-align:-.25em}.svg-inline--fa.fa-2xl{vertical-align:-.3125em}.svg-inline--fa.fa-pull-left{margin-right:var(--fa-pull-margin,.3em);width:auto}.svg-inline--fa.fa-pull-right{margin-left:var(--fa-pull-margin,.3em);width:auto}.svg-inline--fa.fa-li{width:var(--fa-li-width,2em);top:.25em}.svg-inline--fa.fa-fw{width:var(--fa-fw-width,1.25em)}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:var(--fa-counter-background-color,#ff253a);border-radius:var(--fa-counter-border-radius,1em);box-sizing:border-box;color:var(--fa-inverse,#fff);line-height:var(--fa-counter-line-height,1);max-width:var(--fa-counter-max-width,5em);min-width:var(--fa-counter-min-width,1.5em);overflow:hidden;padding:var(--fa-counter-padding,.25em .5em);right:var(--fa-right,0);text-overflow:ellipsis;top:var(--fa-top,0);-webkit-transform:scale(var(--fa-counter-scale,.25));transform:scale(var(--fa-counter-scale,.25));-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:var(--fa-bottom,0);right:var(--fa-right,0);top:auto;-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:var(--fa-bottom,0);left:var(--fa-left,0);right:auto;top:auto;-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{top:var(--fa-top,0);right:var(--fa-right,0);-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:var(--fa-left,0);right:auto;top:var(--fa-top,0);-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:top left;transform-origin:top left}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-2xs{font-size:.625em;line-height:.1em;vertical-align:.225em}.fa-xs{font-size:.75em;line-height:.0833333337em;vertical-align:.125em}.fa-sm{font-size:.875em;line-height:.0714285718em;vertical-align:.0535714295em}.fa-lg{font-size:1.25em;line-height:.05em;vertical-align:-.075em}.fa-xl{font-size:1.5em;line-height:.0416666682em;vertical-align:-.125em}.fa-2xl{font-size:2em;line-height:.03125em;vertical-align:-.1875em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:var(--fa-li-margin,2.5em);padding-left:0}.fa-ul>li{position:relative}.fa-li{left:calc(var(--fa-li-width,2em) * -1);position:absolute;text-align:center;width:var(--fa-li-width,2em);line-height:inherit}.fa-border{border-color:var(--fa-border-color,#eee);border-radius:var(--fa-border-radius,.1em);border-style:var(--fa-border-style,solid);border-width:var(--fa-border-width,.08em);padding:var(--fa-border-padding,.2em .25em .15em)}.fa-pull-left{float:left;margin-right:var(--fa-pull-margin,.3em)}.fa-pull-right{float:right;margin-left:var(--fa-pull-margin,.3em)}.fa-beat{-webkit-animation-name:fa-beat;animation-name:fa-beat;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,ease-in-out);animation-timing-function:var(--fa-animation-timing,ease-in-out)}.fa-bounce{-webkit-animation-name:fa-bounce;animation-name:fa-bounce;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.28,.84,.42,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.28,.84,.42,1))}.fa-fade{-webkit-animation-name:fa-fade;animation-name:fa-fade;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1))}.fa-beat-fade{-webkit-animation-name:fa-beat-fade;animation-name:fa-beat-fade;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1))}.fa-flip{-webkit-animation-name:fa-flip;animation-name:fa-flip;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,ease-in-out);animation-timing-function:var(--fa-animation-timing,ease-in-out)}.fa-shake{-webkit-animation-name:fa-shake;animation-name:fa-shake;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,linear);animation-timing-function:var(--fa-animation-timing,linear)}.fa-spin{-webkit-animation-name:fa-spin;animation-name:fa-spin;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,2s);animation-duration:var(--fa-animation-duration,2s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,linear);animation-timing-function:var(--fa-animation-timing,linear)}.fa-spin-reverse{--fa-animation-direction:reverse}.fa-pulse,.fa-spin-pulse{-webkit-animation-name:fa-spin;animation-name:fa-spin;-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,steps(8));animation-timing-function:var(--fa-animation-timing,steps(8))}@media (prefers-reduced-motion:reduce){.fa-beat,.fa-beat-fade,.fa-bounce,.fa-fade,.fa-flip,.fa-pulse,.fa-shake,.fa-spin,.fa-spin-pulse{-webkit-animation-delay:-1ms;animation-delay:-1ms;-webkit-animation-duration:1ms;animation-duration:1ms;-webkit-animation-iteration-count:1;animation-iteration-count:1;-webkit-transition-delay:0s;transition-delay:0s;-webkit-transition-duration:0s;transition-duration:0s}}@-webkit-keyframes fa-beat{0%,90%{-webkit-transform:scale(1);transform:scale(1)}45%{-webkit-transform:scale(var(--fa-beat-scale,1.25));transform:scale(var(--fa-beat-scale,1.25))}}@keyframes fa-beat{0%,90%{-webkit-transform:scale(1);transform:scale(1)}45%{-webkit-transform:scale(var(--fa-beat-scale,1.25));transform:scale(var(--fa-beat-scale,1.25))}}@-webkit-keyframes fa-bounce{0%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}10%{-webkit-transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0);transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0)}30%{-webkit-transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em));transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em))}50%{-webkit-transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0);transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0)}57%{-webkit-transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em));transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em))}64%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}100%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}}@keyframes fa-bounce{0%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}10%{-webkit-transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0);transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0)}30%{-webkit-transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em));transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em))}50%{-webkit-transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0);transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0)}57%{-webkit-transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em));transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em))}64%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}100%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}}@-webkit-keyframes fa-fade{50%{opacity:var(--fa-fade-opacity,.4)}}@keyframes fa-fade{50%{opacity:var(--fa-fade-opacity,.4)}}@-webkit-keyframes fa-beat-fade{0%,100%{opacity:var(--fa-beat-fade-opacity,.4);-webkit-transform:scale(1);transform:scale(1)}50%{opacity:1;-webkit-transform:scale(var(--fa-beat-fade-scale,1.125));transform:scale(var(--fa-beat-fade-scale,1.125))}}@keyframes fa-beat-fade{0%,100%{opacity:var(--fa-beat-fade-opacity,.4);-webkit-transform:scale(1);transform:scale(1)}50%{opacity:1;-webkit-transform:scale(var(--fa-beat-fade-scale,1.125));transform:scale(var(--fa-beat-fade-scale,1.125))}}@-webkit-keyframes fa-flip{50%{-webkit-transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg));transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg))}}@keyframes fa-flip{50%{-webkit-transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg));transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg))}}@-webkit-keyframes fa-shake{0%{-webkit-transform:rotate(-15deg);transform:rotate(-15deg)}4%{-webkit-transform:rotate(15deg);transform:rotate(15deg)}24%,8%{-webkit-transform:rotate(-18deg);transform:rotate(-18deg)}12%,28%{-webkit-transform:rotate(18deg);transform:rotate(18deg)}16%{-webkit-transform:rotate(-22deg);transform:rotate(-22deg)}20%{-webkit-transform:rotate(22deg);transform:rotate(22deg)}32%{-webkit-transform:rotate(-12deg);transform:rotate(-12deg)}36%{-webkit-transform:rotate(12deg);transform:rotate(12deg)}100%,40%{-webkit-transform:rotate(0);transform:rotate(0)}}@keyframes fa-shake{0%{-webkit-transform:rotate(-15deg);transform:rotate(-15deg)}4%{-webkit-transform:rotate(15deg);transform:rotate(15deg)}24%,8%{-webkit-transform:rotate(-18deg);transform:rotate(-18deg)}12%,28%{-webkit-transform:rotate(18deg);transform:rotate(18deg)}16%{-webkit-transform:rotate(-22deg);transform:rotate(-22deg)}20%{-webkit-transform:rotate(22deg);transform:rotate(22deg)}32%{-webkit-transform:rotate(-12deg);transform:rotate(-12deg)}36%{-webkit-transform:rotate(12deg);transform:rotate(12deg)}100%,40%{-webkit-transform:rotate(0);transform:rotate(0)}}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}.fa-rotate-by{-webkit-transform:rotate(var(--fa-rotate-angle,none));transform:rotate(var(--fa-rotate-angle,none))}.fa-stack{display:inline-block;vertical-align:middle;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0;z-index:var(--fa-stack-z-index,auto)}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:var(--fa-inverse,#fff)}.fa-sr-only,.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}.fa-sr-only-focusable:not(:focus),.sr-only-focusable:not(:focus){position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fa-duotone.fa-inverse,.fad.fa-inverse{color:var(--fa-inverse,#fff)}</style><link rel=""canonical"" href=""https://msi.umn.edu/about-msi/employment/bioinformatics-analyst-ri-core"">
+<meta name=""Generator"" content=""Drupal 10 (https://www.drupal.org)"">
+<meta name=""MobileOptimized"" content=""width"">
+<meta name=""HandheldFriendly"" content=""true"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+<link rel=""icon"" href=""/sites/msi.umn.edu/files/favicon.jpg"" type=""image/jpeg"">
+
+  <title>Bioinformatics Analyst - RI Core | Minnesota Supercomputing Institute</title>
+  <link rel=""stylesheet"" media=""all"" href=""/sites/msi.umn.edu/files/css/css_ErMrBCIiDlcvBS4Tx_uVfLJHnNUFGxHF_cm2GZkeJgg.css?delta=0&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA"">
+<link rel=""stylesheet"" media=""all"" href=""/sites/msi.umn.edu/files/css/css_UAtFXxvfxZqZ_IPCyBKRCmBm0YypKSgAC2F17bUCBcs.css?delta=1&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA"">
+<link rel=""stylesheet"" media=""all"" href=""https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&amp;display=swap"">
+<link rel=""stylesheet"" media=""all"" href=""//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i"">
+<link rel=""stylesheet"" media=""all"" href=""https://use.fontawesome.com/releases/v6.4.2/css/all.css"">
+<link rel=""stylesheet"" media=""all"" href=""/sites/msi.umn.edu/files/css/css_yBpuAhsKRCxEG1nJb1T0jLuh3uNUweC7HydDX_rLlcU.css?delta=5&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA"">
+
+  <script async="""" src=""//cse.google.com/adsense/search/async-ads.js""></script><script type=""text/javascript"" async="""" src=""https://cse.google.com/cse.js?cx=000747455861485679472:bqyjqaw6sp8""></script><script src=""https://use.fontawesome.com/releases/v6.4.2/js/all.js"" defer="""" crossorigin=""anonymous""></script>
+<script src=""https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"" defer="""" crossorigin=""anonymous""></script>
+
+<script async="""" src=""https://www.googletagmanager.com/gtag/js?id=G-2HF41RMY8T"" type=""text/javascript""></script><script src=""https://www.google.com/cse/static/element/8fa85d58e016b414/cse_element__en.js?usqp=CAI%3D"" type=""text/javascript""></script><link type=""text/css"" href=""https://www.google.com/cse/static/element/8fa85d58e016b414/default+en.css"" rel=""stylesheet""><link type=""text/css"" href=""https://www.google.com/cse/static/style/look/v4/default.css"" rel=""stylesheet""><style type=""text/css"">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#FFF}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#7A0019;background-color:#7A0019;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#F0EFEE}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#990021}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#5B0013}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#5B0013}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#5B0013}.gsc-cursor-page{color:#990021}a.gsc-trailing-more-results:link{color:#990021}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#333}.gs-webResult div.gs-visibleUrl{color:#606162}.gs-webResult div.gs-visibleUrl-short{color:#606162}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#FFF;background-color:#FFFFFF}.gsc-completion-title{color:#990021}.gsc-completion-snippet{color:#333}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#990021}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#5B0013}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#5B0013}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#5B0013}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#333}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#606162}.gcsc-find-more-on-google{color:#990021}.gcsc-find-more-on-google-magnifier{fill:#990021}</style><style type=""text/css"">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+<body class=""no-sidebars full-width path-node page-node-type-employment-post mm-wrapper""><div id=""off-canvas"" class=""mm-menu mm-menu_offcanvas mm-menu_keyboardfocus mm-menu_theme-dark mm-menu_fx-menu-slide mm-menu_position-right mm-menu_pagedim"" aria-hidden=""true""><button class=""mm-tabstart mm-sronly"" aria-hidden=""true"" role=""presentation"" aria-label=""tab start button""></button>
+              
+  
+
+<div class=""mm-panels""><div id=""mm-1"" class=""mm-panel mm-panel_opened""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-navbar__title""><span>Menu</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_1fdf6e5-e5b4-41c2-a045-48521142fc1d menu-name--main mm-listitem"">
+        <a href=""/about-msi-services"" data-drupal-link-system-path=""node/346"" class=""mm-listitem__text"">Services</a>
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn"" href=""#mm-2"" aria-haspopup=""true""><span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--f99e8c4a-4b1c-44e5-867c-84e3d33b5af2 menu-name--main mm-listitem"">
+        <a href=""/our-resources"" title=""MSI Resources"" data-drupal-link-system-path=""node/351"" class=""mm-listitem__text"">Resources</a>
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn"" href=""#mm-6"" aria-haspopup=""true""><span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--_878e83c-c24a-4975-97bb-d53e483c9276 menu-name--main mm-listitem"">
+        <a href=""/msi-research"" title=""Research"" data-drupal-link-system-path=""node/566"" class=""mm-listitem__text"">Research</a>
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn"" href=""#mm-9"" aria-haspopup=""true""><span class=""mm-sronly"">Open submenu</span></a></li>
+        </ul></div><div id=""mm-2"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-1""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-1"" aria-hidden=""true""><span>Services</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--c74fe598-1610-49f6-955e-0192ede3cf2e menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-3"" aria-haspopup=""true"">Support and Consultation<span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--b6887333-6570-4915-baa5-31a6568ac042 menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-4"" aria-haspopup=""true"">Computing and Processing<span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--_692f356-5011-42a5-a845-563abec4ed4d menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-5"" aria-haspopup=""true"">Data Management and Specialized Services<span class=""mm-sronly"">Open submenu</span></a></li>
+        </ul></div><div id=""mm-3"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-2""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-2"" aria-hidden=""true""><span>Support and Consultation</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_f52454d-3a40-42c8-ab5f-a33928deea20 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services"" title=""See all MSI Services"" data-drupal-link-system-path=""node/346"" class=""mm-listitem__text"">About MSI Services</a>
+              </li>
+                <li class=""menu-item--_3596d56-b57e-4763-9d59-6f85d015e2c6 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/consulting"" data-drupal-link-system-path=""node/441"" class=""mm-listitem__text"">Consulting</a>
+              </li>
+                <li class=""menu-item--f0bd5cc8-960d-4299-827e-1f9e4d4b1e3c menu-name--main mm-listitem"">
+        <a href=""/helpdesk"" title=""MSI Helpdesk"" data-drupal-link-system-path=""node/631"" class=""mm-listitem__text"">Helpdesk</a>
+              </li>
+                <li class=""menu-item--_0a45e81-4edf-495c-b068-1353be8fc44e menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/service-catalog"" title=""Our Services Costings"" data-drupal-link-system-path=""node/4431"" class=""mm-listitem__text"">Service Catalog</a>
+              </li>
+        </ul></div><div id=""mm-4"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-2""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-2"" aria-hidden=""true""><span>Computing and Processing</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_a57630c-7f21-4ffc-877b-388b7e0d56f6 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/high-performance-computing"" title=""High Performance Computing Clusters"" data-drupal-link-system-path=""node/446"" class=""mm-listitem__text"">HPC Clusters</a>
+              </li>
+                <li class=""menu-item--d5b9613b-99d0-408a-8378-5f728cd8afe2 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/interactive-hpc"" title=""Interactive High Performance Computing"" data-drupal-link-system-path=""node/451"" class=""mm-listitem__text"">Interactive HPC</a>
+              </li>
+                <li class=""menu-item--eaa0e083-f79b-4b20-a33b-f5950807b9c7 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/batch-hpc"" title=""Batch High Performance Computing"" data-drupal-link-system-path=""node/456"" class=""mm-listitem__text"">Batch HPC</a>
+              </li>
+                <li class=""menu-item--_f6d4b10-d784-441f-8c30-3fba89d6b12a menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/dedicated-computing"" title=""Dedicated Computing"" data-drupal-link-system-path=""node/461"" class=""mm-listitem__text"">Dedicated Computing</a>
+              </li>
+        </ul></div><div id=""mm-5"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-2""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-2"" aria-hidden=""true""><span>Data Management and Specialized Services</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--a2eb59c1-ee3f-42c0-a24a-d3efedd58184 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/data-storage"" title=""Data Storage"" data-drupal-link-system-path=""node/466"" class=""mm-listitem__text"">Data Storage</a>
+              </li>
+                <li class=""menu-item--d859ba27-5bdb-4faf-8d90-8ca69edd9e56 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/portals-and-databases"" title=""Portals and Databases"" data-drupal-link-system-path=""node/471"" class=""mm-listitem__text"">Portals and Databases</a>
+              </li>
+        </ul></div><div id=""mm-6"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-1""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-1"" aria-hidden=""true""><span>Resources</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_18771af-b007-4970-b5c7-27f927b47b71 menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-7"" aria-haspopup=""true"">Computing and Processing<span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--_5bf4f52-6a0c-418b-826d-ed8d68f29c9c menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-8"" aria-haspopup=""true"">User Support and Information<span class=""mm-sronly"">Open submenu</span></a></li>
+        </ul></div><div id=""mm-7"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-6""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-6"" aria-hidden=""true""><span>Computing and Processing</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_1d886e7-f4ab-4a89-b9c7-0ab322f39a5a menu-name--main mm-listitem"">
+        <a href=""/our-resources/getting-started"" title=""Get Started with MSI"" data-drupal-link-system-path=""node/691"" class=""mm-listitem__text"">Getting Started</a>
+              </li>
+                <li class=""menu-item--_727c2ac-374c-4b26-990a-b389a70b38d3 menu-name--main mm-listitem"">
+        <a href=""/our-resources/slurm-scheduler"" title=""Slurm Job Scheduler"" data-drupal-link-system-path=""node/376"" class=""mm-listitem__text"">Job Scheduler</a>
+              </li>
+                <li class=""menu-item--_e413466-0097-482a-85d6-b45edbf567e2 menu-name--main mm-listitem"">
+        <a href=""/our-resources/slurm-scheduler/slurm-partitions"" title=""Slurm Job Partitions"" data-drupal-link-system-path=""node/416"" class=""mm-listitem__text"">Job Partitions</a>
+              </li>
+                <li class=""menu-item--_2584300-1de4-4f75-a17b-f108594e9a9c menu-name--main mm-listitem"">
+        <a href=""/our-resources/software-backup"" title=""Software"" data-drupal-link-system-path=""node/381"" class=""mm-listitem__text"">Software</a>
+              </li>
+        </ul></div><div id=""mm-8"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-6""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-6"" aria-hidden=""true""><span>User Support and Information</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_79b7747-d6cc-423e-8a37-8453c4207319 menu-name--main mm-listitem"">
+        <a href=""/our-resources"" title=""Our Resources"" data-drupal-link-system-path=""node/351"" class=""mm-listitem__text"">Our Resources</a>
+              </li>
+                <li class=""menu-item--e0809fae-31ac-4628-9e40-2d049b4c6ed1 menu-name--main mm-listitem"">
+        <a href=""/our-resources/knowledge-base"" title=""Knowledge Base"" data-drupal-link-system-path=""node/361"" class=""mm-listitem__text"">Knowledge Base</a>
+              </li>
+                <li class=""menu-item--_2720439-a1af-4f62-9a30-9a711ae75810 menu-name--main mm-listitem"">
+        <a href=""/our-resources/tutorials"" title=""Tutorials"" data-drupal-link-system-path=""node/4581"" class=""mm-listitem__text"">Tutorials</a>
+              </li>
+                <li class=""menu-item--_9f92a0a-cfd0-457c-89ee-cfed7648b322 menu-name--main mm-listitem"">
+        <a href=""/our-resources/users-bulletin"" title=""Users Bulletin"" data-drupal-link-system-path=""node/371"" class=""mm-listitem__text"">Users Bulletin</a>
+              </li>
+                <li class=""menu-item--_8cc366a-c239-4237-8ca8-819c99ec4a8b menu-name--main mm-listitem"">
+        <a href=""/our-resources/report-an-incident"" data-drupal-link-system-path=""node/356"" class=""mm-listitem__text"">Report a Security Incident</a>
+              </li>
+        </ul></div><div id=""mm-9"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-1""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-1"" aria-hidden=""true""><span>Research</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--f01b9a4e-8f4e-4011-9f8c-7468ce6e255c menu-name--main mm-listitem"">
+        <a href=""/msi-research"" title=""MSI Research"" data-drupal-link-system-path=""node/566"" class=""mm-listitem__text"">Elevating Research</a>
+              </li>
+                <li class=""menu-item--_cd53baa-0634-4541-8ad5-34bee586ab3c menu-name--main mm-listitem"">
+        <a href=""/msi-research/research-spotlights"" title=""Research Spotlights"" data-drupal-link-system-path=""node/571"" class=""mm-listitem__text"">Research Spotlights</a>
+              </li>
+                <li class=""menu-item--f11e9a2f-058f-4ec6-ba7f-c1f7d540dc38 menu-name--main mm-listitem"">
+        <a href=""https://www-archive.msi.umn.edu/pi"" title=""MSI Principal Investigators"" class=""mm-listitem__text"">MSI Principal Investigators</a>
+              </li>
+                <li class=""menu-item--eede0361-a108-4b68-8e4b-7ddb266d9cf4 menu-name--main mm-listitem"">
+        <a href=""/msi-research/proposal-support"" title=""Proposal Support"" data-drupal-link-system-path=""node/581"" class=""mm-listitem__text"">Proposal Support</a>
+              </li>
+                <li class=""menu-item--_391e534-1c2e-4d77-98e5-df06075dc8d3 menu-name--main mm-listitem"">
+        <a href=""/about-msi/our-experts"" title=""Find out more about MSI Experts"" data-drupal-link-system-path=""node/591"" class=""mm-listitem__text"">Our Experts</a>
+              </li>
+        </ul></div></div><button class=""mm-tabend mm-sronly"" aria-hidden=""true"" role=""presentation"" aria-label=""tab end button""></button></div>
+  <div class=""mm-page mm-slideout"" id=""mm-0""><div class=""page-wrapper"">
+  <div id=""skip"">
+    <a class=""visually-hidden focusable skip-link"" href=""#content"">
+        Skip to main content
+    </a>
+  </div>
+      
+    <!-- Begin UMN Header -->
+<header id=""mandatory-header-wrapper"" class=""umnhf-campus-tc dtd umnhf-background-gold two-tier yes no-links"" role=""banner"">
+    <div class=""umnhf"" id=""umnhf-h"">
+                          <div class=""umnhf"" id=""umnhf-h-mast"">
+                        <a class=""umnhf"" id=""umnhf-h-wm"" href=""https://twin-cities.umn.edu""><span>Go to the U of M home page</span></a>
+                                    <ul class=""umnhf"" id=""umnhf-h-ql"" role=""presentation"">
+                <li class=""umnhf"" id=""umnhf-h-onestop""><a href=""https://onestop.umn.edu"">One Stop</a></li>
+                <li class=""umnhf"" id=""umnhf-h-myu""><a href=""http://www.myu.umn.edu"">MyU<span></span></a></li>
+            </ul>
+                        <!-- Button below is for dropdown toggle, only visible on mobile screens. If using a non-dropdown version you can delete this tag -->
+                    </div>
+        <div class=""umn-search-form umn-search-form--with-placeholder"" data-once=""umn_search umn_search_adjustments"">
+  <div id=""___gcse_0""><div class=""gsc-control-searchbox-only gsc-control-searchbox-only-en"" dir=""ltr""><form class=""gsc-search-box gsc-search-box-tools"" accept-charset=""utf-8""><table cellspacing=""0"" cellpadding=""0"" role=""presentation"" class=""gsc-search-box""><tbody><tr><td class=""gsc-input""><div class=""gsc-input-box"" id=""gsc-iw-id1""><table cellspacing=""0"" cellpadding=""0"" role=""presentation"" id=""gs_id50"" class=""gstl_50 gsc-input"" style=""width: 100%; padding: 0px;""><tbody><tr><td id=""gs_tti50"" class=""gsib_a""><label for=""gsc-i-id1"" class=""visually-hidden"">Search</label><input autocomplete=""off"" type=""text"" size=""10"" class=""gsc-input"" name=""search"" title=""search"" aria-label=""search"" id=""gsc-i-id1"" dir=""ltr"" spellcheck=""false"" style=""width: 100%; padding: 0px; border: none; margin: -0.0625em 0px 0px; height: 1.25em; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: none;"" placeholder=""Search UMN""></td><td class=""gsib_b""><div class=""gsst_b"" id=""gs_st50"" dir=""ltr""><a class=""gsst_a"" href=""javascript:void(0)"" title=""Clear search box"" role=""button"" style=""display: none;""><span class=""gscb_a"" id=""gs_cb50"" aria-hidden=""true"">×</span></a></div></td></tr></tbody></table></div></td><td class=""gsc-search-button""><button class=""gsc-search-button gsc-search-button-v2""><svg width=""13"" height=""13"" viewBox=""0 0 13 13""><title>search</title><path d=""m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z""></path></svg></button></td><td class=""gsc-clear-button""><div class=""gsc-clear-button"" title=""clear results"">&nbsp;</div></td></tr></tbody></table></form></div></div>
+</div>
+
+    </div>
+</header>
+<!-- End UMN Header -->
+
+      <div class=""responsive-menu-page-wrapper"">
+  <div role=""document"" class=""page"">
+
+  <section class=""site-identity"">
+        <div class=""region region-identity"">
+        <header class=""folwell-identity"">
+            <p class=""prefix-name"">
+                            <a href=""https://rc.umn.edu"">                Research Computing
+                </a>                    </p>
+        <p class=""sitename"">
+    <a href=""/"">Minnesota Supercomputing Institute</a>
+</p>
+</header>
+
+
+<div id=""block-msi-custom-siteidentityquicklinks"" data-block-plugin-id=""menu_block:site-identity-quick-links"" class=""block block-menu-block block-menu-blocksite-identity-quick-links"">
+  
+    
+      
+                <div class=""vertical-nav-js menu site-identity-quick-links"">
+                                                                         <a class=""menu-item site-identity-link-item"" href=""https://status.msi.umn.edu/"" target=""_blank"">System status
+                          <span class=""color-dot"" style=""background-color: #f7ca18;""></span>
+                        </a>
+                                                                                             <a class=""menu-item site-identity-link-item"" href=""/helpdesk"">Helpdesk&nbsp;<svg class=""svg-inline--fa fa-circle-info"" aria-hidden=""true"" focusable=""false"" data-prefix=""fas"" data-icon=""circle-info"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 512 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z""></path></svg><!-- <i class=""fa-solid fa-circle-info""></i> Font Awesome fontawesome.com -->
+                        </a>
+                                                                                             <a class=""menu-item site-identity-link-item"" href=""/manage-pi-group"">Manage PI Group&nbsp;<svg class=""svg-inline--fa fa-right-to-bracket"" aria-hidden=""true"" focusable=""false"" data-prefix=""fas"" data-icon=""right-to-bracket"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 512 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M217.9 105.9L340.7 228.7c7.2 7.2 11.3 17.1 11.3 27.3s-4.1 20.1-11.3 27.3L217.9 406.1c-6.4 6.4-15 9.9-24 9.9c-18.7 0-33.9-15.2-33.9-33.9l0-62.1L32 320c-17.7 0-32-14.3-32-32l0-64c0-17.7 14.3-32 32-32l128 0 0-62.1c0-18.7 15.2-33.9 33.9-33.9c9 0 17.6 3.6 24 9.9zM352 416l64 0c17.7 0 32-14.3 32-32l0-256c0-17.7-14.3-32-32-32l-64 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l64 0c53 0 96 43 96 96l0 256c0 53-43 96-96 96l-64 0c-17.7 0-32-14.3-32-32s14.3-32 32-32z""></path></svg><!-- <i class=""fa-solid fa-right-to-bracket""></i> Font Awesome fontawesome.com -->
+                        </a>
+                                                                                            <a class=""menu-item site-identity-link-item"" href=""/search"">Search&nbsp;<svg class=""svg-inline--fa fa-magnifying-glass"" aria-hidden=""true"" focusable=""false"" data-prefix=""fas"" data-icon=""magnifying-glass"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 512 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z""></path></svg><!-- <i class=""fa-solid fa-search""></i> Font Awesome fontawesome.com --></a>
+                                        </div>
+    
+
+
+  </div>
+    </div>
+
+  </section>
+
+      <header id=""site-header"">
+      <div class=""clearfix navigation"">
+            <div class=""region region-header"">
+        
+
+<div id=""block-msi-custom-mainnavigation"" data-block-plugin-id=""superfish:main"" class=""block block-superfish block-superfishmain"">
+  
+    
+      
+<ul id=""superfish-main"" class=""menu sf-menu sf-main sf-horizontal sf-style-none sf-js-enabled"" data-once=""superfish superfishtweak"">
+  
+<li id=""main-menu-link-content01fdf6e5-e5b4-41c2-a045-48521142fc1d"" class=""sf-depth-1 menuparent""><a href=""/about-msi-services"" class=""sf-depth-1 menuparent sf-with-ul"" aria-haspopup=""true"" aria-expanded=""false"">Services<span class=""sf-sub-indicator""> »</span></a><ul class=""sf-multicolumn sf-hidden"" style=""width: 0px;""><li class=""sf-multicolumn-wrapper "" style=""width: 0px;""><ol style=""width: 0px;""><li id=""main-menu-link-contentc74fe598-1610-49f6-955e-0192ede3cf2e"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Support and Consultation</span><ol style=""float: none; width: 0px;""><li id=""main-menu-link-content4f52454d-3a40-42c8-ab5f-a33928deea20"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services"" title=""See all MSI Services"" class=""sf-depth-3"" tabindex=""-1"" style="""">About MSI Services</a></li><li id=""main-menu-link-content63596d56-b57e-4763-9d59-6f85d015e2c6"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/consulting"" class=""sf-depth-3"" tabindex=""-1"" style="""">Consulting</a></li><li id=""main-menu-link-contentf0bd5cc8-960d-4299-827e-1f9e4d4b1e3c"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/helpdesk"" title=""MSI Helpdesk"" class=""sf-depth-3"" tabindex=""-1"" style="""">Helpdesk</a></li><li id=""main-menu-link-content30a45e81-4edf-495c-b068-1353be8fc44e"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/service-catalog"" title=""Our Services Costings"" class=""sf-depth-3"" tabindex=""-1"" style="""">Service Catalog</a></li></ol></div></li><li id=""main-menu-link-contentb6887333-6570-4915-baa5-31a6568ac042"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Computing and Processing</span><ol style=""width: 0px; float: none;""><li id=""main-menu-link-content7a57630c-7f21-4ffc-877b-388b7e0d56f6"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/high-performance-computing"" title=""High Performance Computing Clusters"" class=""sf-depth-3"" tabindex=""-1"" style="""">HPC Clusters</a></li><li id=""main-menu-link-contentd5b9613b-99d0-408a-8378-5f728cd8afe2"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/interactive-hpc"" title=""Interactive High Performance Computing"" class=""sf-depth-3"" tabindex=""-1"" style="""">Interactive HPC</a></li><li id=""main-menu-link-contenteaa0e083-f79b-4b20-a33b-f5950807b9c7"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/batch-hpc"" title=""Batch High Performance Computing"" class=""sf-depth-3"" tabindex=""-1"" style="""">Batch HPC</a></li><li id=""main-menu-link-content7f6d4b10-d784-441f-8c30-3fba89d6b12a"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/dedicated-computing"" title=""Dedicated Computing"" class=""sf-depth-3"" tabindex=""-1"" style="""">Dedicated Computing</a></li></ol></div></li><li id=""main-menu-link-content1692f356-5011-42a5-a845-563abec4ed4d"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Data Management and Specialized Services</span><ol style=""width: 0px; float: none;""><li id=""main-menu-link-contenta2eb59c1-ee3f-42c0-a24a-d3efedd58184"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/data-storage"" title=""Data Storage"" class=""sf-depth-3"" tabindex=""-1"" style="""">Data Storage</a></li><li id=""main-menu-link-contentd859ba27-5bdb-4faf-8d90-8ca69edd9e56"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/portals-and-databases"" title=""Portals and Databases"" class=""sf-depth-3"" tabindex=""-1"" style="""">Portals and Databases</a></li></ol></div></li></ol></li></ul></li><li id=""main-menu-link-contentf99e8c4a-4b1c-44e5-867c-84e3d33b5af2"" class=""sf-depth-1 menuparent""><a href=""/our-resources"" title=""MSI Resources"" class=""sf-depth-1 menuparent sf-with-ul"" aria-haspopup=""true"" aria-expanded=""false"">Resources<span class=""sf-sub-indicator""> »</span></a><ul class=""sf-multicolumn sf-hidden"" style=""width: 0px;""><li class=""sf-multicolumn-wrapper "" style=""width: 0px;""><ol style=""width: 0px;""><li id=""main-menu-link-content618771af-b007-4970-b5c7-27f927b47b71"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Computing and Processing</span><ol style=""float: none; width: 0px;""><li id=""main-menu-link-content11d886e7-f4ab-4a89-b9c7-0ab322f39a5a"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/getting-started"" title=""Get Started with MSI"" class=""sf-depth-3"" tabindex=""-1"" style="""">Getting Started</a></li><li id=""main-menu-link-content3727c2ac-374c-4b26-990a-b389a70b38d3"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/slurm-scheduler"" title=""Slurm Job Scheduler"" class=""sf-depth-3"" tabindex=""-1"" style="""">Job Scheduler</a></li><li id=""main-menu-link-content6e413466-0097-482a-85d6-b45edbf567e2"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/slurm-scheduler/slurm-partitions"" title=""Slurm Job Partitions"" class=""sf-depth-3"" tabindex=""-1"" style="""">Job Partitions</a></li><li id=""main-menu-link-content32584300-1de4-4f75-a17b-f108594e9a9c"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/software-backup"" title=""Software"" class=""sf-depth-3"" tabindex=""-1"" style="""">Software</a></li></ol></div></li><li id=""main-menu-link-content25bf4f52-6a0c-418b-826d-ed8d68f29c9c"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">User Support and Information</span><ol style=""width: 0px; float: none;""><li id=""main-menu-link-content779b7747-d6cc-423e-8a37-8453c4207319"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources"" title=""Our Resources"" class=""sf-depth-3"" tabindex=""-1"" style="""">Our Resources</a></li><li id=""main-menu-link-contente0809fae-31ac-4628-9e40-2d049b4c6ed1"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/knowledge-base"" title=""Knowledge Base"" class=""sf-depth-3"" tabindex=""-1"" style="""">Knowledge Base</a></li><li id=""main-menu-link-content22720439-a1af-4f62-9a30-9a711ae75810"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/tutorials"" title=""Tutorials"" class=""sf-depth-3"" tabindex=""-1"" style="""">Tutorials</a></li><li id=""main-menu-link-content79f92a0a-cfd0-457c-89ee-cfed7648b322"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/users-bulletin"" title=""Users Bulletin"" class=""sf-depth-3"" tabindex=""-1"" style="""">Users Bulletin</a></li><li id=""main-menu-link-content48cc366a-c239-4237-8ca8-819c99ec4a8b"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/report-an-incident"" class=""sf-depth-3"" tabindex=""-1"" style="""">Report a Security Incident</a></li></ol></div></li></ol></li></ul></li><li id=""main-menu-link-content5878e83c-c24a-4975-97bb-d53e483c9276"" class=""sf-depth-1 menuparent""><a href=""/msi-research"" title=""Research"" class=""sf-depth-1 menuparent sf-with-ul"" aria-haspopup=""true"" aria-expanded=""false"">Research<span class=""sf-sub-indicator""> »</span></a><ul class=""sf-multicolumn sf-hidden"" style=""float: none; width: auto;""><li class=""sf-multicolumn-wrapper "" style=""""><ol><li id=""main-menu-link-contentf01b9a4e-8f4e-4011-9f8c-7468ce6e255c"" class=""sf-depth-2 sf-no-children""><a href=""/msi-research"" title=""MSI Research"" class=""sf-depth-2"" tabindex=""-1"">Elevating Research</a></li><li id=""main-menu-link-content2cd53baa-0634-4541-8ad5-34bee586ab3c"" class=""sf-depth-2 sf-no-children""><a href=""/msi-research/research-spotlights"" title=""Research Spotlights"" class=""sf-depth-2"" tabindex=""-1"">Research Spotlights</a></li><li id=""main-menu-link-contentf11e9a2f-058f-4ec6-ba7f-c1f7d540dc38"" class=""sf-depth-2 sf-no-children""><a href=""https://www-archive.msi.umn.edu/pi"" title=""MSI Principal Investigators"" class=""sf-depth-2 sf-external"" tabindex=""-1"">MSI Principal Investigators</a></li><li id=""main-menu-link-contenteede0361-a108-4b68-8e4b-7ddb266d9cf4"" class=""sf-depth-2 sf-no-children""><a href=""/msi-research/proposal-support"" title=""Proposal Support"" class=""sf-depth-2"" tabindex=""-1"">Proposal Support</a></li><li id=""main-menu-link-content3391e534-1c2e-4d77-98e5-df06075dc8d3"" class=""sf-depth-2 sf-no-children""><a href=""/about-msi/our-experts"" title=""Find out more about MSI Experts"" class=""sf-depth-2"" tabindex=""-1"">Our Experts</a></li></ol></li></ul></li>
+        </ul>
+
+  </div>
+
+<div id=""block-msi-custom-responsivemenumobileicon"" data-block-plugin-id=""responsive_menu_toggle"" class=""responsive-menu-toggle-wrapper responsive-menu-toggle block block-responsive-menu block-responsive-menu-toggle"">
+  
+    
+      <a id=""toggle-icon"" class=""toggle responsive-menu-toggle-icon"" href=""#off-canvas"">
+  <span class=""icon""></span><span class=""label"">Menu</span>
+</a>
+  </div>
+    </div>
+
+      </div>
+          </header>
+  
+      <section id=""featured"">
+      <div class=""columns"">
+            <div class=""region region-featured"">
+        <div data-drupal-messages-fallback="""" class=""hidden""></div>
+
+    </div>
+
+      </div>
+    </section>
+  
+      <section id=""breadcrumb"">
+      <div class=""clearfix"">
+        
+      </div>
+    </section>
+  
+  <main role=""main"" class=""clearfix"">
+    <a id=""main-content"" tabindex=""-1""></a>
+
+    
+    <section id=""content"">
+          <div class=""region region-content"">
+        
+
+<div id=""block-msi-custom-content"" data-block-plugin-id=""system_main_block"" class=""block block-system block-system-main-block"">
+  
+    
+      <article id=""node-7266"" class="""" about=""/about-msi/employment/bioinformatics-analyst-ri-core"">
+  
+    
+
+    <div class=""posted"">
+        
+  </div>
+  
+  
+            <div class=""field field--name-field-type-2-hero-banner field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--type-2-hero-banner paragraph--view-mode--default"">
+                                            <div class=""background-image"" style=""background-image: url(/sites/msi.umn.edu/files/2023-11/basice_temp_v1_image.jpg);"">
+                                <div class=""overlay-items display-40"">
+            <div class=""overlay-item"">
+  <div class=""field field--name-field-type-2-hero-banner-title field--type-string field--label-hidden"">
+          <h1 class=""field__item"">Bioinformatics Analyst - RI Core</h1>
+      </div>
+
+</div>
+                <nav class=""breadcrumb"" role=""navigation"" aria-labelledby=""system-breadcrumb"">
+        <h2 class=""visually-hidden"" id=""system-breadcrumb"">Breadcrumb</h2>
+
+        <ol>
+                            <li>
+                                            <a href=""/"">Home</a>
+                                    </li>
+                            <li>
+                                            <a href=""/about-msi"">About MSI</a>
+                                    </li>
+                            <li>
+                                            <a href=""/about-msi/employment"">Employment</a>
+                                    </li>
+                                            </ol>
+    </nav>
+
+          </div>
+        </div>
+                    </div>
+</div>
+      
+            <div class=""field field--name-field-content-h2-full-width field--type-entity-reference-revisions field--label-hidden field__item"">	<div class=""md_container paragraph paragraph--type--content-h2-full-width paragraph--view-mode--default"">
+					
+			
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><h2><span>About the Position</span></h2><p><span>The Research Informatics (RI) Bioinformatics group within the University of Minnesota Supercomputing Institute (MSI) is hiring a full-time Bioinformatics Analyst to support research at the University of Minnesota. The analyst in this position will conduct a wide array of bioinformatics analyses for projects in diverse research areas and biological systems. Successful candidates will join the seven-person Core Bioinformatics team, a subset of the nineteen-person RI Bioinformatics group at MSI.</span></p><p><span>Our group meets the bioinformatics needs of researchers across the University and the State of Minnesota, analyzing data from model and non-model organisms generated from a variety of technologies, including genomic, transcriptomic, and epigenomic assays. Projects frequently utilize new technologies, including the latest platforms for spatial transcriptomics as well as single-cell and long-read sequencing.</span></p><p><span>As part of an interdisciplinary team, the successful candidate will have the following responsibilities as they serve as a bioinformatics analyst at MSI. Percentages are an approximate breakdown of time/effort in the role.:<br>60% - Provide bioinformatics support to researchers through tasks including:</span></p><ul><li><span>Consulting with researchers on experimental design and planning</span></li><li><span>Designing and implementing appropriate informatics workflows, including identifying and integrating analysis methods for new, cutting-edge molecular technologies into workflows as they become useful for research (e.g., single-cell expression profiling, long-read sequencing, spatial transcriptomics, etc.</span></li><li><span>Appropriately document and communicate methods and results through both internal and external reports, publications, and presentations</span></li></ul><p><span>40% - Provide informatics and computational support for MSI infrastructure and services including such tasks as:&nbsp;</span></p><ul><li><span>Developing and providing bioinformatics tutorials&nbsp;</span></li><li><span>Developing and maintaining bioinformatics analysis pipelines&nbsp;</span></li><li><span>Working on cross-cutting MSI teams for MSI infrastructure projects&nbsp;</span></li><li><span>Answering MSI user help tickets</span></li></ul><hr><p><span>The Research and Innovation Office (RIO) and MSI have a strong commitment to the University's goal of creating a positive and inclusive campus climate by advancing equity and diversity. We aim to hire high-potential people with varying identities and backgrounds. The analyst in this position must have excellent communication skills, strong analytical, computational, and life sciences training or experience, and be comfortable working independently and as part of a cross-functional research team on diverse projects.</span></p><p><span>RIO and MSI endorse a “work with flexibility” approach that offers a welcoming and flexible work environment where everyone is inspired to do their best. This MSI position has responsibilities that will require on-site work at least 50% of the time. This position is not eligible for 100% remote work. Offices for bioinformatics staff positions are located in Walter Library on the Twin Cities, East Bank Campus.</span></p></div>
+      
+						</div>
+</div>
+      
+            <div class=""field field--name-field-employment-tabs field--type-entity-reference-revisions field--label-hidden field__item"">
+
+
+
+
+        <div class=""a11y-paragraphs-tabs__wrapper"">
+      <div class=""a11y-paragraphs-tabs__section-title"">
+        <br>
+      </div>
+
+      <div class=""accordion-tabs js-tabs is-initialized tabs-allowed"">
+        <ul role=""tablist"" class=""tabs-tab-list"">
+                                <li role=""presentation"">
+              <a href=""#section16475496-1"" role=""tab"" id=""tab16475496-1"" aria-controls=""section16475496-1"" aria-selected=""true"" class=""tabs-trigger js-tabs-trigger is-selected"">Required Qualifications
+</a>
+            </li>
+                      <li role=""presentation"">
+              <a href=""#section16475496-2"" role=""tab"" id=""tab16475496-2"" aria-controls=""section16475496-2"" aria-selected=""false"" class=""tabs-trigger js-tabs-trigger"" tabindex=""-1"">Preferred Qualifications
+</a>
+            </li>
+                      <li role=""presentation"">
+              <a href=""#section16475496-3"" role=""tab"" id=""tab16475496-3"" aria-controls=""section16475496-3"" aria-selected=""false"" class=""tabs-trigger js-tabs-trigger"" tabindex=""-1"">About the Department
+</a>
+            </li>
+                      <li role=""presentation"">
+              <a href=""#section16475496-4"" role=""tab"" id=""tab16475496-4"" aria-controls=""section16475496-4"" aria-selected=""false"" class=""tabs-trigger js-tabs-trigger"" tabindex=""-1"">Apply for This Position
+</a>
+            </li>
+                  </ul>
+
+                          <section id=""section16475496-1"" role=""tabpanel"" aria-labelledby=""tab16475496-1"" class=""tabs-panel js-tabs-panel is-open"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section16475496-1"" aria-expanded=""true"" tabindex=""0"">
+              Required Qualifications
+
+            </div>
+
+            <div class=""content is-open"" aria-hidden=""false"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""md_container paragraph paragraph--type--standard-content-layout paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><ul><li><span>Doctorate (e.g. in life sciences, computer science, or related field) with 3+ years of research experience in genomics, genetics, molecular biology or computational biology.</span></li><li><span>Hands-on experience in developing and carrying out bioinformatic analyses and pipelines for analyzing datasets from high-throughput platforms such as next generation sequencing.</span></li><li><span>Experience/general proficiency with UNIX shell environment, a programming language (ideally R or python), plus currently used tools (e.g. BWA, HISAT2, STAR, GATK, freebayes, Cell Ranger, Seurat, edgeR, DESeq2, etc.).</span></li><li><span>Must be able to understand and translate life scientist researchers' scientific goals into analytical strategies and process requirements.</span></li><li><span>Must be able to function as part of a team while demonstrating self-initiative to achieve the project's goals and the group's mission.</span></li><li><span>Critical and independent thinking.</span></li><li><span>Excellent oral and written English communication and interpersonal skills.</span></li></ul></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+                  <section id=""section16475496-2"" role=""tabpanel"" aria-labelledby=""tab16475496-2"" class=""tabs-panel js-tabs-panel is-hidden"" tabindex=""-1"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section16475496-2"" aria-expanded=""false"" tabindex=""0"">
+              Preferred Qualifications
+
+            </div>
+
+            <div class=""content is-hidden"" aria-hidden=""true"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""md_container paragraph paragraph--type--standard-content-layout paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><ul><li><span>Advanced statistical and data modeling skills, including machine learning.</span></li><li><span>Use of reproducible research methods and software version control (e.g. git/GitHub).</span></li><li><span>Experience using high performance computing (HPC) environments and job scheduling.</span></li></ul><p><span>The ideal candidate will have advanced knowledge of next generation sequencing technologies with demonstrated practical experience in developing and carrying out analytical strategies in the context of NGS applications (e.g. bulk and single-cell RNA-seq, spatial transcriptomics, DNA SNP and structural variant detection and population-level variant calling, de novo genome or transcriptome assembly, etc.). While candidates for this role ideally will have experience in more than one type of bioinformatics analysis, candidates are not expected to have experience in all types of analyses we handle. Learning new analysis techniques is part of the role.</span></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+                  <section id=""section16475496-3"" role=""tabpanel"" aria-labelledby=""tab16475496-3"" class=""tabs-panel js-tabs-panel is-hidden"" tabindex=""-1"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section16475496-3"" aria-expanded=""false"" tabindex=""0"">
+              About the Department
+
+            </div>
+
+            <div class=""content is-hidden"" aria-hidden=""true"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""md_container paragraph paragraph--type--standard-content-layout paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><p><span>The Minnesota Supercomputing Institute (MSI) is a core research facility of the University of Minnesota (U of M), and is part of Research Computing within the Research and Innovation Office (RIO). MSI provides advanced research computing infrastructure and expertise to the University's research and scholarly community and the State of Minnesota in order to advance and accelerate research and foster innovation and discoveries through advanced computing technologies, scientific computing and informatics, application development, and services. The Institute currently supports over 900 different groups with over 4,500 active users spanning the sciences, engineering, life sciences, medicine, and social sciences. The Research Informatics (RI) Bioinformatics group at MSI was formed in 2011, leveraging MSI’s rich computational environment to foster innovative bioinformatics collaboration with researchers across the University and the State of Minnesota.</span></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+                  <section id=""section16475496-4"" role=""tabpanel"" aria-labelledby=""tab16475496-4"" class=""tabs-panel js-tabs-panel is-hidden"" tabindex=""-1"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section16475496-4"" aria-expanded=""false"" tabindex=""0"">
+              Apply for This Position
+
+            </div>
+
+            <div class=""content is-hidden"" aria-hidden=""true"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""md_container paragraph paragraph--type--standard-content-layout paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><p><span>Applications must be submitted online via the </span><a href=""https://hr.umn.edu/jobs/find-job""><span>University of Minnesota Employment site</span></a><span>. The Job ID for this position is&nbsp;<strong>362017</strong>.</span></p><p><span>You will be given the opportunity to complete an online application for the position and attach a cover letter and resume. Additional documents may be attached after application by accessing your ""My Job Applications"" page and uploading documents in the ""My Cover Letters and Attachments"" section. To request an accommodation during the application process, please e-mail employ@umn.edu or call (612) 624-8647.</span></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+        
+
+      </div>
+    </div>
+  </div>
+      
+							
+	<div class=""cta-block"" style=""background-image: url(/sites/msi.umn.edu/files/2024-01/Discover%20Minnesota%20Supercomputing%20Institute.jpg)"">
+		<h2 class=""cta-block__title"">Discover Advanced Computing and Data Solutions at MSI</h2>
+		<a href=""/about-msi-services"" class=""btn btn-small bg-maroon"">Our Services</a>
+	</div>
+
+	<div class=""field field--name-field-msi-related-topics field--type-entity-reference field--label-hidden field__items"">
+		<div class=""title-container"">
+			<h2>Related topics</h2>
+		</div>
+		<div class=""md-teaser-3-col"">
+																																				
+					<div class=""field__item md-teaser"">
+						<a href=""/about-msi/employment"">
+							<h3 class=""md-teaser__title"">Employment</h3>
+						</a>
+												<p>MSI provides high-performance computing resources and research computing support to the University of Minnesota and other Minnesota institutions of higher learning.</p>
+					</div>
+																																								
+					<div class=""field__item md-teaser"">
+						<a href=""/about-msi/our-experts"">
+							<h3 class=""md-teaser__title"">Our Experts</h3>
+						</a>
+												<p>MSI is a vital hub for cutting-edge research and innovation at the University of Minnesota and beyond.</p>
+					</div>
+																																								
+					<div class=""field__item md-teaser"">
+						<a href=""/helpdesk"">
+							<h3 class=""md-teaser__title"">Helpdesk</h3>
+						</a>
+												<p>Submit a ticket via the MSI Helpdesk for General Support and Software Purchase requests, apply for Class Accounts, complete a Non-faculty PI Eligibility Form, request a purchase for Dedicated Computing or, request access to Citrix.</p>
+					</div>
+									</div>
+	</div>
+	
+
+  
+  
+  
+</article>
+  </div>
+    </div>
+
+    </section>
+
+      </main>
+
+      <footer id=""site-footer"" role=""contentinfo"">
+              <section class=""footer-top"">
+              <div class=""region region-footer-top"">
+        
+
+
+
+<div id=""block-msi-custom-msifooter"" data-block-plugin-id=""block_content:e6f2d6fa-49fb-456d-b529-e21cd653318d"" class=""block block-block-content block-block-contente6f2d6fa-49fb-456d-b529-e21cd653318d"">
+  
+            <h2 class=""unit-footer-hidden-title"">MSI Footer</h2>
+        
+      
+            <div class=""field field--name-field-unit-footer field--type-entity-reference-revisions field--label-hidden field__item"">
+    
+
+
+  <div class=""paragraph paragraph--type--unit-footer paragraph--view-mode--default folwell-unitfooter unit-footer-bg-gray"">
+        
+            <div class=""field field--name-field-unit-footer-num-columns field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-3-column-layout paragraph--view-mode--default unitfooter-3columns"">
+          
+            <div class=""field field--name-field-unit-footer-column-1 field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-column paragraph--view-mode--default unitfooter-contentbox"">
+          
+      <div class=""field field--name-field-unit-footer-content-box field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-text paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-unitfooter-text-area field--type-text-long field--label-hidden field__item""><p><a class=""bg-maroon btn"" href=""/provide-website-feedback"" title=""Provide website feedback"" data-entity-type=""node"" data-entity-uuid=""eeae1c1c-55ca-400b-afe4-51b217bf3520"" data-entity-substitution=""canonical"">Provide website feedback</a></p><p><a href=""https://research.umn.edu/"" title=""Research Computing"">Research &amp; Innovation Office</a> | <a href=""https://rc.umn.edu/"" title=""Research Computing"">Research Computing</a></p><h2>Minnesota Supercomputing Institute</h2></div>
+      
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-contact- paragraph--view-mode--default"">
+          
+          <h3 class=""field field--name-field-unit-footer-contact-title field--type-text field--label-hidden unitfooter-boxtitle field__item"">CONTACT US</h3>
+    
+            <div class=""field field--name-field-uint-footer-address field--type-address field--label-hidden field__item""><p class=""address"" translate=""no""><span class=""address-line1"">599 Walter Library, 117 Pleasant St. SE</span><br>
+<span class=""locality"">Minneapolis</span>, <span class=""administrative-area"">MN</span> <span class=""postal-code"">55455</span><br>
+<span class=""country"">United States</span></p></div>
+      
+            <div class=""field field--name-field-unit-footer-phone-number field--type-telephone field--label-hidden field__item""><a href=""tel:612-624-0528"">612-624-0528</a></div>
+      
+            <div class=""field field--name-field-unit-footer-email field--type-email field--label-hidden field__item"">help@msi.umn.edu</div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+            <div class=""field field--name-field-unit-footer-column-2 field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-column paragraph--view-mode--default unitfooter-contentbox"">
+          
+      <div class=""field field--name-field-unit-footer-content-box field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-text paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-unitfooter-text-area field--type-text-long field--label-hidden field__item""><h3>QUICKLY FIND WHAT YOU’RE LOOKING FOR</h3></div>
+      
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-button paragraph--view-mode--default"">
+          
+          <div class=""field field--name-field-unit-footer-button-link field--type-link field--label-hidden unitfooter-button-link""><a href=""/search"">Search</a> 
+      </div>
+    
+
+
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--footer-links paragraph--view-mode--default"">
+          
+      <ul class=""field field--name-field-unit-footer-link field--type-link field--label-hidden field__items"">
+              <li class=""field__item""><a href=""/about-msi"">ABOUT MSI</a></li>
+              <li class=""field__item""><a href=""/about-msi/our-experts"">OUR EXPERTS</a></li>
+              <li class=""field__item""><a href=""/about-msi/employment"">EMPLOYMENT</a></li>
+              <li class=""field__item""><a href=""/news-and-events"">NEWS &amp; EVENTS</a></li>
+              <li class=""field__item""><a href=""/about-msi/policies"">POLICIES</a></li>
+          </ul>
+  
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-button paragraph--view-mode--default"">
+          
+          <div class=""field field--name-field-unit-footer-button-link field--type-link field--label-hidden unitfooter-button-link""><a href=""/helpdesk"">GET IN TOUCH</a> 
+      </div>
+    
+
+
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+            <div class=""field field--name-field-unit-footer-column-3 field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-column paragraph--view-mode--default unitfooter-contentbox"">
+          
+      <div class=""field field--name-field-unit-footer-content-box field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-text paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-unitfooter-text-area field--type-text-long field--label-hidden field__item""><h3>HELPDESK</h3><p>Here to answer any questions you have about MSI. <a href=""/helpdesk"" data-entity-type=""node"" data-entity-uuid=""792951a6-6f0b-4838-82c9-0d0e574536ca"" data-entity-substitution=""canonical"">Learn about our physical Helpdesk</a>.</p><p><a href=""https://status.msi.umn.edu/"">Check the System Status app</a> for system outages before submitting a ticket about loss of service.</p></div>
+      
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--footer-links paragraph--view-mode--default"">
+          
+      <ul class=""field field--name-field-unit-footer-link field--type-link field--label-hidden field__items"">
+              <li class=""field__item""><a href=""/helpdesk"">REQUEST SUPPORT</a></li>
+              <li class=""field__item""><a href=""/our-resources/report-an-incident"">REPORT A SECURITY INCIDENT</a></li>
+              <li class=""field__item""><a href=""/login"">ADMIN LOGIN</a></li>
+          </ul>
+  
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-social-media-links paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-unit-footer-soc-med-link field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">
+    
+
+  <div class=""paragraph paragraph--type--unit-footer-social-media-link paragraph--view-mode--default uf-social-media-link"">
+          <a aria-label=""YouTube"" href=""https://www.youtube.com/user/UofMMSI"">
+        
+            <div class=""field field--name-field-unit-footer-youtube-icon field--type-fontawesome-icon field--label-hidden field__item""><div class=""fontawesome-icons"">
+      <div class=""fontawesome-icon"">
+  <svg class=""svg-inline--fa fa-square-youtube"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;"" aria-hidden=""true"" focusable=""false"" data-prefix=""fab"" data-icon=""square-youtube"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 448 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M186.8 202.1l95.2 54.1-95.2 54.1V202.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-42 176.3s0-59.6-7.6-88.2c-4.2-15.8-16.5-28.2-32.2-32.4C337.9 128 224 128 224 128s-113.9 0-142.2 7.7c-15.7 4.2-28 16.6-32.2 32.4-7.6 28.5-7.6 88.2-7.6 88.2s0 59.6 7.6 88.2c4.2 15.8 16.5 27.7 32.2 31.9C110.1 384 224 384 224 384s113.9 0 142.2-7.7c15.7-4.2 28-16.1 32.2-31.9 7.6-28.5 7.6-88.1 7.6-88.1z""></path></svg><!-- <i class=""fab fa-youtube-square"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;""></i> Font Awesome fontawesome.com -->
+</div>
+
+  </div>
+</div>
+      
+      </a>
+
+
+      </div>
+</div>
+              <div class=""field__item"">
+    
+
+  <div class=""paragraph paragraph--type--unit-footer-social-media-link paragraph--view-mode--default uf-social-media-link"">
+          <a aria-label=""Twitter"" href=""https://twitter.com/UMNmsi"">
+        
+            <div class=""field field--name-field-unit-footer-twitter-icon field--type-fontawesome-icon field--label-hidden field__item""><div class=""fontawesome-icons"">
+      <div class=""fontawesome-icon"">
+  <svg class=""svg-inline--fa fa-square-x-twitter"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;"" aria-hidden=""true"" focusable=""false"" data-prefix=""fab"" data-icon=""square-x-twitter"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 448 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z""></path></svg><!-- <i class=""fab fa-square-x-twitter"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;""></i> Font Awesome fontawesome.com -->
+</div>
+
+  </div>
+</div>
+      
+      </a>
+
+
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+</div>
+      
+    </div>
+
+      </div>
+</div>
+      
+  </div>
+
+    </section></footer></div>
+
+        
+      
+          
+  </div>
+</div><div class=""off-canvas-wrapper""></div></div>
+  
+  <!-- Begin UMN Footer -->
+<footer id=""umnhf-f"" class=""umnhf"" role=""contentinfo"">
+    <nav id=""umnhf-f-myu"">
+        <h3 class=""umnhf-f-title visually-hidden"">For Students, Faculty, and Staff</h3>
+        <ul role=""presentation"">
+            <li><a href=""http://onestop.umn.edu/"">One Stop</a></li>
+            <li><a href=""https://www.myu.umn.edu/"">MyU <span></span></a></li>
+        </ul>
+    </nav>
+      <small>© <span id=""cdate"">2024</span> Regents of the <a href=""https://system.umn.edu"">University of Minnesota</a>. All rights reserved. The University of Minnesota is an equal opportunity educator and employer. <a href=""http://privacy.umn.edu"">Privacy Statement</a></small>
+    <small><a href=""https://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://msi.umn.edu/about-msi/employment/bioinformatics-analyst-ri-core"">Report Web Disability-Related Issue</a></small>
+    <!-- Optional last updated link-->
+     <!-- add time tag w datetime attr -->
+  </footer>
+<!-- End UMN Footer -->
+      
+    
+  <script type=""application/json"" data-drupal-selector=""drupal-settings-json"">{""path"":{""baseUrl"":""\/"",""pathPrefix"":"""",""currentPath"":""node\/7266"",""currentPathIsAdmin"":false,""isFront"":false,""currentLanguage"":""en""},""pluralDelimiter"":""\u0003"",""suppressDeprecationErrors"":true,""gtag"":{""tagId"":""G-2HF41RMY8T"",""consentMode"":false,""otherIds"":[],""events"":[],""additionalConfigInfo"":[]},""ajaxPageState"":{""libraries"":""eJyFkm1uwyAMhi9Eg3oi5FCHsBnMbEiXnX5UVdKuitY_yH78YvwBnM-rKyAQBMqsrsKoFjo8gfcsl8j5dGMGDoWqWNV46sZqR1Dc7ISqELDHWNBmlgQUf9BMTFckshPnCldUTn-Z7l4gHoFO6iWWA1xXijnseEGp0QO5DMsGnedUOGPPajfUcqwTc0U5VF17CuJWj4OlEX21fvk4rDEVwmfR3uNzv4Mu4b_YoHNMJjAHwj7mYEM_Xv0BPuDbJI3ON62cXufy2JS9SCtAw4MMLZc2UtQZL0ZQewcaF3QJc7Mv_jAKwmfhmOtbqec8xfBWtpWoraBMvQq7W27mvsj-Vp-o0VUrpvuvaik7RRA_W6_oKI4Cst7xnuaW_ReGiR4I"",""theme"":""msi_custom"",""theme_token"":null},""ajaxTrustedUrl"":[],""responsive_menu"":{""position"":""right"",""theme"":""theme-dark"",""pagedim"":""pagedim"",""modifyViewport"":true,""use_bootstrap"":false,""breakpoint"":""(min-width: 960px)"",""drag"":false,""pageWrapper"":true},""superfish"":{""superfish-main"":{""id"":""superfish-main"",""sf"":{""animation"":{""opacity"":""show"",""height"":""show""},""speed"":""fast"",""dropShadows"":false},""plugins"":{""touchscreen"":{""behaviour"":1,""mode"":""always_active""},""supposition"":true,""supersubs"":{""minWidth"":16}}}},""umn_search"":{""cx"":""000747455861485679472:bqyjqaw6sp8"",""placeholder_text"":""Search UMN""},""ajax"":[],""user"":{""uid"":0,""permissionsHash"":""5e90ec6bf5329da15a36df185cb922dc32337cd446e752be878313b0345474bf""}}</script>
+<script src=""/sites/msi.umn.edu/files/js/js_ZbuFJDbXXKSKHIqBSDWVkRk15h_VTBXMXQ4qVlt3Gpk.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA""></script>
+<script src=""/modules/contrib/google_tag/js/gtag.js?sgf03f""></script>
+<script src=""/sites/msi.umn.edu/files/js/js_kc-g1FZ97JZhtnJcNnLAl_KbHqlmq-z0syVOCAH00NI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA""></script>
+
+
+<div class=""mm-wrapper__blocker mm-slideout""><a class=""mm-tabstart"" href=""#mm-0"" aria-hidden=""true"" role=""presentation"" aria-label=""tab start button""><span class=""mm-sronly"">Close menu</span></a><button class=""mm-tabend mm-sronly"" aria-hidden=""true"" role=""presentation"" aria-label=""tab end button""></button></div><div id=""drupal-live-announce"" class=""visually-hidden"" aria-live=""polite"" aria-busy=""false""></div><table cellspacing=""0"" cellpadding=""0"" role=""presentation"" class=""gstl_50 gssb_c"" style=""width: 198px; display: none; top: 79px; left: 504px; position: absolute;""><tbody><tr><td class=""gssb_f""></td><td class=""gssb_e"" style=""width: 100%;""></td></tr></tbody></table></body></html>"
+2024-07-11 03:19:00,https://msi.umn.edu/about-msi/employment/bioinformatics-analyst-lmp,"<html lang=""en"" dir=""ltr"" prefix=""content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "" class=""js fontawesome-i2svg-active fontawesome-i2svg-complete""><head>
+  <meta charset=""utf-8"">
+<style type=""text/css"">:host,:root{--fa-font-solid:normal 900 1em/1 ""Font Awesome 6 Solid"";--fa-font-regular:normal 400 1em/1 ""Font Awesome 6 Regular"";--fa-font-light:normal 300 1em/1 ""Font Awesome 6 Light"";--fa-font-thin:normal 100 1em/1 ""Font Awesome 6 Thin"";--fa-font-duotone:normal 900 1em/1 ""Font Awesome 6 Duotone"";--fa-font-sharp-solid:normal 900 1em/1 ""Font Awesome 6 Sharp"";--fa-font-sharp-regular:normal 400 1em/1 ""Font Awesome 6 Sharp"";--fa-font-sharp-light:normal 300 1em/1 ""Font Awesome 6 Sharp"";--fa-font-brands:normal 400 1em/1 ""Font Awesome 6 Brands""}svg:not(:host).svg-inline--fa,svg:not(:root).svg-inline--fa{overflow:visible;box-sizing:content-box}.svg-inline--fa{display:var(--fa-display,inline-block);height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-2xs{vertical-align:.1em}.svg-inline--fa.fa-xs{vertical-align:0}.svg-inline--fa.fa-sm{vertical-align:-.0714285705em}.svg-inline--fa.fa-lg{vertical-align:-.2em}.svg-inline--fa.fa-xl{vertical-align:-.25em}.svg-inline--fa.fa-2xl{vertical-align:-.3125em}.svg-inline--fa.fa-pull-left{margin-right:var(--fa-pull-margin,.3em);width:auto}.svg-inline--fa.fa-pull-right{margin-left:var(--fa-pull-margin,.3em);width:auto}.svg-inline--fa.fa-li{width:var(--fa-li-width,2em);top:.25em}.svg-inline--fa.fa-fw{width:var(--fa-fw-width,1.25em)}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:var(--fa-counter-background-color,#ff253a);border-radius:var(--fa-counter-border-radius,1em);box-sizing:border-box;color:var(--fa-inverse,#fff);line-height:var(--fa-counter-line-height,1);max-width:var(--fa-counter-max-width,5em);min-width:var(--fa-counter-min-width,1.5em);overflow:hidden;padding:var(--fa-counter-padding,.25em .5em);right:var(--fa-right,0);text-overflow:ellipsis;top:var(--fa-top,0);-webkit-transform:scale(var(--fa-counter-scale,.25));transform:scale(var(--fa-counter-scale,.25));-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:var(--fa-bottom,0);right:var(--fa-right,0);top:auto;-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:var(--fa-bottom,0);left:var(--fa-left,0);right:auto;top:auto;-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{top:var(--fa-top,0);right:var(--fa-right,0);-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:var(--fa-left,0);right:auto;top:var(--fa-top,0);-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:top left;transform-origin:top left}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-2xs{font-size:.625em;line-height:.1em;vertical-align:.225em}.fa-xs{font-size:.75em;line-height:.0833333337em;vertical-align:.125em}.fa-sm{font-size:.875em;line-height:.0714285718em;vertical-align:.0535714295em}.fa-lg{font-size:1.25em;line-height:.05em;vertical-align:-.075em}.fa-xl{font-size:1.5em;line-height:.0416666682em;vertical-align:-.125em}.fa-2xl{font-size:2em;line-height:.03125em;vertical-align:-.1875em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:var(--fa-li-margin,2.5em);padding-left:0}.fa-ul>li{position:relative}.fa-li{left:calc(var(--fa-li-width,2em) * -1);position:absolute;text-align:center;width:var(--fa-li-width,2em);line-height:inherit}.fa-border{border-color:var(--fa-border-color,#eee);border-radius:var(--fa-border-radius,.1em);border-style:var(--fa-border-style,solid);border-width:var(--fa-border-width,.08em);padding:var(--fa-border-padding,.2em .25em .15em)}.fa-pull-left{float:left;margin-right:var(--fa-pull-margin,.3em)}.fa-pull-right{float:right;margin-left:var(--fa-pull-margin,.3em)}.fa-beat{-webkit-animation-name:fa-beat;animation-name:fa-beat;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,ease-in-out);animation-timing-function:var(--fa-animation-timing,ease-in-out)}.fa-bounce{-webkit-animation-name:fa-bounce;animation-name:fa-bounce;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.28,.84,.42,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.28,.84,.42,1))}.fa-fade{-webkit-animation-name:fa-fade;animation-name:fa-fade;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1))}.fa-beat-fade{-webkit-animation-name:fa-beat-fade;animation-name:fa-beat-fade;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1))}.fa-flip{-webkit-animation-name:fa-flip;animation-name:fa-flip;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,ease-in-out);animation-timing-function:var(--fa-animation-timing,ease-in-out)}.fa-shake{-webkit-animation-name:fa-shake;animation-name:fa-shake;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,linear);animation-timing-function:var(--fa-animation-timing,linear)}.fa-spin{-webkit-animation-name:fa-spin;animation-name:fa-spin;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,2s);animation-duration:var(--fa-animation-duration,2s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,linear);animation-timing-function:var(--fa-animation-timing,linear)}.fa-spin-reverse{--fa-animation-direction:reverse}.fa-pulse,.fa-spin-pulse{-webkit-animation-name:fa-spin;animation-name:fa-spin;-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,steps(8));animation-timing-function:var(--fa-animation-timing,steps(8))}@media (prefers-reduced-motion:reduce){.fa-beat,.fa-beat-fade,.fa-bounce,.fa-fade,.fa-flip,.fa-pulse,.fa-shake,.fa-spin,.fa-spin-pulse{-webkit-animation-delay:-1ms;animation-delay:-1ms;-webkit-animation-duration:1ms;animation-duration:1ms;-webkit-animation-iteration-count:1;animation-iteration-count:1;-webkit-transition-delay:0s;transition-delay:0s;-webkit-transition-duration:0s;transition-duration:0s}}@-webkit-keyframes fa-beat{0%,90%{-webkit-transform:scale(1);transform:scale(1)}45%{-webkit-transform:scale(var(--fa-beat-scale,1.25));transform:scale(var(--fa-beat-scale,1.25))}}@keyframes fa-beat{0%,90%{-webkit-transform:scale(1);transform:scale(1)}45%{-webkit-transform:scale(var(--fa-beat-scale,1.25));transform:scale(var(--fa-beat-scale,1.25))}}@-webkit-keyframes fa-bounce{0%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}10%{-webkit-transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0);transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0)}30%{-webkit-transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em));transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em))}50%{-webkit-transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0);transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0)}57%{-webkit-transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em));transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em))}64%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}100%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}}@keyframes fa-bounce{0%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}10%{-webkit-transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0);transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0)}30%{-webkit-transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em));transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em))}50%{-webkit-transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0);transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0)}57%{-webkit-transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em));transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em))}64%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}100%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}}@-webkit-keyframes fa-fade{50%{opacity:var(--fa-fade-opacity,.4)}}@keyframes fa-fade{50%{opacity:var(--fa-fade-opacity,.4)}}@-webkit-keyframes fa-beat-fade{0%,100%{opacity:var(--fa-beat-fade-opacity,.4);-webkit-transform:scale(1);transform:scale(1)}50%{opacity:1;-webkit-transform:scale(var(--fa-beat-fade-scale,1.125));transform:scale(var(--fa-beat-fade-scale,1.125))}}@keyframes fa-beat-fade{0%,100%{opacity:var(--fa-beat-fade-opacity,.4);-webkit-transform:scale(1);transform:scale(1)}50%{opacity:1;-webkit-transform:scale(var(--fa-beat-fade-scale,1.125));transform:scale(var(--fa-beat-fade-scale,1.125))}}@-webkit-keyframes fa-flip{50%{-webkit-transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg));transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg))}}@keyframes fa-flip{50%{-webkit-transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg));transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg))}}@-webkit-keyframes fa-shake{0%{-webkit-transform:rotate(-15deg);transform:rotate(-15deg)}4%{-webkit-transform:rotate(15deg);transform:rotate(15deg)}24%,8%{-webkit-transform:rotate(-18deg);transform:rotate(-18deg)}12%,28%{-webkit-transform:rotate(18deg);transform:rotate(18deg)}16%{-webkit-transform:rotate(-22deg);transform:rotate(-22deg)}20%{-webkit-transform:rotate(22deg);transform:rotate(22deg)}32%{-webkit-transform:rotate(-12deg);transform:rotate(-12deg)}36%{-webkit-transform:rotate(12deg);transform:rotate(12deg)}100%,40%{-webkit-transform:rotate(0);transform:rotate(0)}}@keyframes fa-shake{0%{-webkit-transform:rotate(-15deg);transform:rotate(-15deg)}4%{-webkit-transform:rotate(15deg);transform:rotate(15deg)}24%,8%{-webkit-transform:rotate(-18deg);transform:rotate(-18deg)}12%,28%{-webkit-transform:rotate(18deg);transform:rotate(18deg)}16%{-webkit-transform:rotate(-22deg);transform:rotate(-22deg)}20%{-webkit-transform:rotate(22deg);transform:rotate(22deg)}32%{-webkit-transform:rotate(-12deg);transform:rotate(-12deg)}36%{-webkit-transform:rotate(12deg);transform:rotate(12deg)}100%,40%{-webkit-transform:rotate(0);transform:rotate(0)}}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}.fa-rotate-by{-webkit-transform:rotate(var(--fa-rotate-angle,none));transform:rotate(var(--fa-rotate-angle,none))}.fa-stack{display:inline-block;vertical-align:middle;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0;z-index:var(--fa-stack-z-index,auto)}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:var(--fa-inverse,#fff)}.fa-sr-only,.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}.fa-sr-only-focusable:not(:focus),.sr-only-focusable:not(:focus){position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fa-duotone.fa-inverse,.fad.fa-inverse{color:var(--fa-inverse,#fff)}</style><link rel=""canonical"" href=""https://msi.umn.edu/about-msi/employment/bioinformatics-analyst-lmp"">
+<meta name=""Generator"" content=""Drupal 10 (https://www.drupal.org)"">
+<meta name=""MobileOptimized"" content=""width"">
+<meta name=""HandheldFriendly"" content=""true"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+<link rel=""icon"" href=""/sites/msi.umn.edu/files/favicon.jpg"" type=""image/jpeg"">
+
+  <title>Bioinformatics Analyst – LM&amp;P | Minnesota Supercomputing Institute</title>
+  <link rel=""stylesheet"" media=""all"" href=""/sites/msi.umn.edu/files/css/css_ErMrBCIiDlcvBS4Tx_uVfLJHnNUFGxHF_cm2GZkeJgg.css?delta=0&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA"">
+<link rel=""stylesheet"" media=""all"" href=""/sites/msi.umn.edu/files/css/css_UAtFXxvfxZqZ_IPCyBKRCmBm0YypKSgAC2F17bUCBcs.css?delta=1&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA"">
+<link rel=""stylesheet"" media=""all"" href=""https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&amp;display=swap"">
+<link rel=""stylesheet"" media=""all"" href=""//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i"">
+<link rel=""stylesheet"" media=""all"" href=""https://use.fontawesome.com/releases/v6.4.2/css/all.css"">
+<link rel=""stylesheet"" media=""all"" href=""/sites/msi.umn.edu/files/css/css_yBpuAhsKRCxEG1nJb1T0jLuh3uNUweC7HydDX_rLlcU.css?delta=5&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA"">
+
+  <script async="""" src=""//cse.google.com/adsense/search/async-ads.js""></script><script type=""text/javascript"" async="""" src=""https://cse.google.com/cse.js?cx=000747455861485679472:bqyjqaw6sp8""></script><script src=""https://use.fontawesome.com/releases/v6.4.2/js/all.js"" defer="""" crossorigin=""anonymous""></script>
+<script src=""https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"" defer="""" crossorigin=""anonymous""></script>
+
+<script async="""" src=""https://www.googletagmanager.com/gtag/js?id=G-2HF41RMY8T"" type=""text/javascript""></script><script src=""https://www.google.com/cse/static/element/8fa85d58e016b414/cse_element__en.js?usqp=CAI%3D"" type=""text/javascript""></script><link type=""text/css"" href=""https://www.google.com/cse/static/element/8fa85d58e016b414/default+en.css"" rel=""stylesheet""><link type=""text/css"" href=""https://www.google.com/cse/static/style/look/v4/default.css"" rel=""stylesheet""><style type=""text/css"">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#FFF}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#7A0019;background-color:#7A0019;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#F0EFEE}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#990021}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#5B0013}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#5B0013}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#5B0013}.gsc-cursor-page{color:#990021}a.gsc-trailing-more-results:link{color:#990021}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#333}.gs-webResult div.gs-visibleUrl{color:#606162}.gs-webResult div.gs-visibleUrl-short{color:#606162}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#FFF;background-color:#FFFFFF}.gsc-completion-title{color:#990021}.gsc-completion-snippet{color:#333}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#990021}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#5B0013}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#5B0013}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#5B0013}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#333}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#606162}.gcsc-find-more-on-google{color:#990021}.gcsc-find-more-on-google-magnifier{fill:#990021}</style><style type=""text/css"">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+<body class=""no-sidebars full-width path-node page-node-type-employment-post mm-wrapper""><div id=""off-canvas"" class=""mm-menu mm-menu_offcanvas mm-menu_keyboardfocus mm-menu_theme-dark mm-menu_fx-menu-slide mm-menu_position-right mm-menu_pagedim"" aria-hidden=""true""><button class=""mm-tabstart mm-sronly"" aria-hidden=""true"" role=""presentation"" aria-label=""tab start button""></button>
+              
+  
+
+<div class=""mm-panels""><div id=""mm-1"" class=""mm-panel mm-panel_opened""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-navbar__title""><span>Menu</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_1fdf6e5-e5b4-41c2-a045-48521142fc1d menu-name--main mm-listitem"">
+        <a href=""/about-msi-services"" data-drupal-link-system-path=""node/346"" class=""mm-listitem__text"">Services</a>
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn"" href=""#mm-2"" aria-haspopup=""true""><span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--f99e8c4a-4b1c-44e5-867c-84e3d33b5af2 menu-name--main mm-listitem"">
+        <a href=""/our-resources"" title=""MSI Resources"" data-drupal-link-system-path=""node/351"" class=""mm-listitem__text"">Resources</a>
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn"" href=""#mm-6"" aria-haspopup=""true""><span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--_878e83c-c24a-4975-97bb-d53e483c9276 menu-name--main mm-listitem"">
+        <a href=""/msi-research"" title=""Research"" data-drupal-link-system-path=""node/566"" class=""mm-listitem__text"">Research</a>
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn"" href=""#mm-9"" aria-haspopup=""true""><span class=""mm-sronly"">Open submenu</span></a></li>
+        </ul></div><div id=""mm-2"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-1""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-1"" aria-hidden=""true""><span>Services</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--c74fe598-1610-49f6-955e-0192ede3cf2e menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-3"" aria-haspopup=""true"">Support and Consultation<span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--b6887333-6570-4915-baa5-31a6568ac042 menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-4"" aria-haspopup=""true"">Computing and Processing<span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--_692f356-5011-42a5-a845-563abec4ed4d menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-5"" aria-haspopup=""true"">Data Management and Specialized Services<span class=""mm-sronly"">Open submenu</span></a></li>
+        </ul></div><div id=""mm-3"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-2""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-2"" aria-hidden=""true""><span>Support and Consultation</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_f52454d-3a40-42c8-ab5f-a33928deea20 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services"" title=""See all MSI Services"" data-drupal-link-system-path=""node/346"" class=""mm-listitem__text"">About MSI Services</a>
+              </li>
+                <li class=""menu-item--_3596d56-b57e-4763-9d59-6f85d015e2c6 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/consulting"" data-drupal-link-system-path=""node/441"" class=""mm-listitem__text"">Consulting</a>
+              </li>
+                <li class=""menu-item--f0bd5cc8-960d-4299-827e-1f9e4d4b1e3c menu-name--main mm-listitem"">
+        <a href=""/helpdesk"" title=""MSI Helpdesk"" data-drupal-link-system-path=""node/631"" class=""mm-listitem__text"">Helpdesk</a>
+              </li>
+                <li class=""menu-item--_0a45e81-4edf-495c-b068-1353be8fc44e menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/service-catalog"" title=""Our Services Costings"" data-drupal-link-system-path=""node/4431"" class=""mm-listitem__text"">Service Catalog</a>
+              </li>
+        </ul></div><div id=""mm-4"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-2""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-2"" aria-hidden=""true""><span>Computing and Processing</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_a57630c-7f21-4ffc-877b-388b7e0d56f6 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/high-performance-computing"" title=""High Performance Computing Clusters"" data-drupal-link-system-path=""node/446"" class=""mm-listitem__text"">HPC Clusters</a>
+              </li>
+                <li class=""menu-item--d5b9613b-99d0-408a-8378-5f728cd8afe2 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/interactive-hpc"" title=""Interactive High Performance Computing"" data-drupal-link-system-path=""node/451"" class=""mm-listitem__text"">Interactive HPC</a>
+              </li>
+                <li class=""menu-item--eaa0e083-f79b-4b20-a33b-f5950807b9c7 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/batch-hpc"" title=""Batch High Performance Computing"" data-drupal-link-system-path=""node/456"" class=""mm-listitem__text"">Batch HPC</a>
+              </li>
+                <li class=""menu-item--_f6d4b10-d784-441f-8c30-3fba89d6b12a menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/dedicated-computing"" title=""Dedicated Computing"" data-drupal-link-system-path=""node/461"" class=""mm-listitem__text"">Dedicated Computing</a>
+              </li>
+        </ul></div><div id=""mm-5"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-2""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-2"" aria-hidden=""true""><span>Data Management and Specialized Services</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--a2eb59c1-ee3f-42c0-a24a-d3efedd58184 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/data-storage"" title=""Data Storage"" data-drupal-link-system-path=""node/466"" class=""mm-listitem__text"">Data Storage</a>
+              </li>
+                <li class=""menu-item--d859ba27-5bdb-4faf-8d90-8ca69edd9e56 menu-name--main mm-listitem"">
+        <a href=""/about-msi-services/portals-and-databases"" title=""Portals and Databases"" data-drupal-link-system-path=""node/471"" class=""mm-listitem__text"">Portals and Databases</a>
+              </li>
+        </ul></div><div id=""mm-6"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-1""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-1"" aria-hidden=""true""><span>Resources</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_18771af-b007-4970-b5c7-27f927b47b71 menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-7"" aria-haspopup=""true"">Computing and Processing<span class=""mm-sronly"">Open submenu</span></a></li>
+                <li class=""menu-item--_5bf4f52-6a0c-418b-826d-ed8d68f29c9c menu-name--main mm-listitem"">
+        
+                                
+  
+              <a class=""mm-btn mm-btn_next mm-listitem__btn mm-listitem__text"" href=""#mm-8"" aria-haspopup=""true"">User Support and Information<span class=""mm-sronly"">Open submenu</span></a></li>
+        </ul></div><div id=""mm-7"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-6""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-6"" aria-hidden=""true""><span>Computing and Processing</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_1d886e7-f4ab-4a89-b9c7-0ab322f39a5a menu-name--main mm-listitem"">
+        <a href=""/our-resources/getting-started"" title=""Get Started with MSI"" data-drupal-link-system-path=""node/691"" class=""mm-listitem__text"">Getting Started</a>
+              </li>
+                <li class=""menu-item--_727c2ac-374c-4b26-990a-b389a70b38d3 menu-name--main mm-listitem"">
+        <a href=""/our-resources/slurm-scheduler"" title=""Slurm Job Scheduler"" data-drupal-link-system-path=""node/376"" class=""mm-listitem__text"">Job Scheduler</a>
+              </li>
+                <li class=""menu-item--_e413466-0097-482a-85d6-b45edbf567e2 menu-name--main mm-listitem"">
+        <a href=""/our-resources/slurm-scheduler/slurm-partitions"" title=""Slurm Job Partitions"" data-drupal-link-system-path=""node/416"" class=""mm-listitem__text"">Job Partitions</a>
+              </li>
+                <li class=""menu-item--_2584300-1de4-4f75-a17b-f108594e9a9c menu-name--main mm-listitem"">
+        <a href=""/our-resources/software-backup"" title=""Software"" data-drupal-link-system-path=""node/381"" class=""mm-listitem__text"">Software</a>
+              </li>
+        </ul></div><div id=""mm-8"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-6""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-6"" aria-hidden=""true""><span>User Support and Information</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--_79b7747-d6cc-423e-8a37-8453c4207319 menu-name--main mm-listitem"">
+        <a href=""/our-resources"" title=""Our Resources"" data-drupal-link-system-path=""node/351"" class=""mm-listitem__text"">Our Resources</a>
+              </li>
+                <li class=""menu-item--e0809fae-31ac-4628-9e40-2d049b4c6ed1 menu-name--main mm-listitem"">
+        <a href=""/our-resources/knowledge-base"" title=""Knowledge Base"" data-drupal-link-system-path=""node/361"" class=""mm-listitem__text"">Knowledge Base</a>
+              </li>
+                <li class=""menu-item--_2720439-a1af-4f62-9a30-9a711ae75810 menu-name--main mm-listitem"">
+        <a href=""/our-resources/tutorials"" title=""Tutorials"" data-drupal-link-system-path=""node/4581"" class=""mm-listitem__text"">Tutorials</a>
+              </li>
+                <li class=""menu-item--_9f92a0a-cfd0-457c-89ee-cfed7648b322 menu-name--main mm-listitem"">
+        <a href=""/our-resources/users-bulletin"" title=""Users Bulletin"" data-drupal-link-system-path=""node/371"" class=""mm-listitem__text"">Users Bulletin</a>
+              </li>
+                <li class=""menu-item--_8cc366a-c239-4237-8ca8-819c99ec4a8b menu-name--main mm-listitem"">
+        <a href=""/our-resources/report-an-incident"" data-drupal-link-system-path=""node/356"" class=""mm-listitem__text"">Report a Security Incident</a>
+              </li>
+        </ul></div><div id=""mm-9"" class=""mm-panel mm-hidden"" aria-hidden=""true""><div class=""mm-navbar mm-navbar_sticky wordmarked""><a class=""mm-btn mm-btn_prev mm-navbar__btn"" href=""#mm-1""><span class=""mm-sronly"">Close submenu</span></a><a class=""mm-navbar__title"" href=""#mm-1"" aria-hidden=""true""><span>Research</span></a><img id=""mobile-nav-m"" src=""/themes/custom/folwell/images/branding/wordmarks/M-wordmark.png"" alt=""UMN block M wordmark""><a class=""mm-btn"" id=""close-nav"" href=""#mm-0"" aria-label=""close menu""></a></div><ul class=""mm-listview"">
+                    <li class=""menu-item--f01b9a4e-8f4e-4011-9f8c-7468ce6e255c menu-name--main mm-listitem"">
+        <a href=""/msi-research"" title=""MSI Research"" data-drupal-link-system-path=""node/566"" class=""mm-listitem__text"">Elevating Research</a>
+              </li>
+                <li class=""menu-item--_cd53baa-0634-4541-8ad5-34bee586ab3c menu-name--main mm-listitem"">
+        <a href=""/msi-research/research-spotlights"" title=""Research Spotlights"" data-drupal-link-system-path=""node/571"" class=""mm-listitem__text"">Research Spotlights</a>
+              </li>
+                <li class=""menu-item--f11e9a2f-058f-4ec6-ba7f-c1f7d540dc38 menu-name--main mm-listitem"">
+        <a href=""https://www-archive.msi.umn.edu/pi"" title=""MSI Principal Investigators"" class=""mm-listitem__text"">MSI Principal Investigators</a>
+              </li>
+                <li class=""menu-item--eede0361-a108-4b68-8e4b-7ddb266d9cf4 menu-name--main mm-listitem"">
+        <a href=""/msi-research/proposal-support"" title=""Proposal Support"" data-drupal-link-system-path=""node/581"" class=""mm-listitem__text"">Proposal Support</a>
+              </li>
+                <li class=""menu-item--_391e534-1c2e-4d77-98e5-df06075dc8d3 menu-name--main mm-listitem"">
+        <a href=""/about-msi/our-experts"" title=""Find out more about MSI Experts"" data-drupal-link-system-path=""node/591"" class=""mm-listitem__text"">Our Experts</a>
+              </li>
+        </ul></div></div><button class=""mm-tabend mm-sronly"" aria-hidden=""true"" role=""presentation"" aria-label=""tab end button""></button></div>
+  <div class=""mm-page mm-slideout"" id=""mm-0""><div class=""page-wrapper"">
+  <div id=""skip"">
+    <a class=""visually-hidden focusable skip-link"" href=""#content"">
+        Skip to main content
+    </a>
+  </div>
+      
+    <!-- Begin UMN Header -->
+<header id=""mandatory-header-wrapper"" class=""umnhf-campus-tc dtd umnhf-background-gold two-tier yes no-links"" role=""banner"">
+    <div class=""umnhf"" id=""umnhf-h"">
+                          <div class=""umnhf"" id=""umnhf-h-mast"">
+                        <a class=""umnhf"" id=""umnhf-h-wm"" href=""https://twin-cities.umn.edu""><span>Go to the U of M home page</span></a>
+                                    <ul class=""umnhf"" id=""umnhf-h-ql"" role=""presentation"">
+                <li class=""umnhf"" id=""umnhf-h-onestop""><a href=""https://onestop.umn.edu"">One Stop</a></li>
+                <li class=""umnhf"" id=""umnhf-h-myu""><a href=""http://www.myu.umn.edu"">MyU<span></span></a></li>
+            </ul>
+                        <!-- Button below is for dropdown toggle, only visible on mobile screens. If using a non-dropdown version you can delete this tag -->
+                    </div>
+        <div class=""umn-search-form umn-search-form--with-placeholder"" data-once=""umn_search umn_search_adjustments"">
+  <div id=""___gcse_0""><div class=""gsc-control-searchbox-only gsc-control-searchbox-only-en"" dir=""ltr""><form class=""gsc-search-box gsc-search-box-tools"" accept-charset=""utf-8""><table cellspacing=""0"" cellpadding=""0"" role=""presentation"" class=""gsc-search-box""><tbody><tr><td class=""gsc-input""><div class=""gsc-input-box"" id=""gsc-iw-id1""><table cellspacing=""0"" cellpadding=""0"" role=""presentation"" id=""gs_id50"" class=""gstl_50 gsc-input"" style=""width: 100%; padding: 0px;""><tbody><tr><td id=""gs_tti50"" class=""gsib_a""><label for=""gsc-i-id1"" class=""visually-hidden"">Search</label><input autocomplete=""off"" type=""text"" size=""10"" class=""gsc-input"" name=""search"" title=""search"" aria-label=""search"" id=""gsc-i-id1"" dir=""ltr"" spellcheck=""false"" style=""width: 100%; padding: 0px; border: none; margin: -0.0625em 0px 0px; height: 1.25em; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: none;"" placeholder=""Search UMN""></td><td class=""gsib_b""><div class=""gsst_b"" id=""gs_st50"" dir=""ltr""><a class=""gsst_a"" href=""javascript:void(0)"" title=""Clear search box"" role=""button"" style=""display: none;""><span class=""gscb_a"" id=""gs_cb50"" aria-hidden=""true"">×</span></a></div></td></tr></tbody></table></div></td><td class=""gsc-search-button""><button class=""gsc-search-button gsc-search-button-v2""><svg width=""13"" height=""13"" viewBox=""0 0 13 13""><title>search</title><path d=""m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z""></path></svg></button></td><td class=""gsc-clear-button""><div class=""gsc-clear-button"" title=""clear results"">&nbsp;</div></td></tr></tbody></table></form></div></div>
+</div>
+
+    </div>
+</header>
+<!-- End UMN Header -->
+
+      <div class=""responsive-menu-page-wrapper"">
+  <div role=""document"" class=""page"">
+
+  <section class=""site-identity"">
+        <div class=""region region-identity"">
+        <header class=""folwell-identity"">
+            <p class=""prefix-name"">
+                            <a href=""https://rc.umn.edu"">                Research Computing
+                </a>                    </p>
+        <p class=""sitename"">
+    <a href=""/"">Minnesota Supercomputing Institute</a>
+</p>
+</header>
+
+
+<div id=""block-msi-custom-siteidentityquicklinks"" data-block-plugin-id=""menu_block:site-identity-quick-links"" class=""block block-menu-block block-menu-blocksite-identity-quick-links"">
+  
+    
+      
+                <div class=""vertical-nav-js menu site-identity-quick-links"">
+                                                                         <a class=""menu-item site-identity-link-item"" href=""https://status.msi.umn.edu/"" target=""_blank"">System status
+                          <span class=""color-dot"" style=""background-color: #f7ca18;""></span>
+                        </a>
+                                                                                             <a class=""menu-item site-identity-link-item"" href=""/helpdesk"">Helpdesk&nbsp;<svg class=""svg-inline--fa fa-circle-info"" aria-hidden=""true"" focusable=""false"" data-prefix=""fas"" data-icon=""circle-info"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 512 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z""></path></svg><!-- <i class=""fa-solid fa-circle-info""></i> Font Awesome fontawesome.com -->
+                        </a>
+                                                                                             <a class=""menu-item site-identity-link-item"" href=""/manage-pi-group"">Manage PI Group&nbsp;<svg class=""svg-inline--fa fa-right-to-bracket"" aria-hidden=""true"" focusable=""false"" data-prefix=""fas"" data-icon=""right-to-bracket"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 512 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M217.9 105.9L340.7 228.7c7.2 7.2 11.3 17.1 11.3 27.3s-4.1 20.1-11.3 27.3L217.9 406.1c-6.4 6.4-15 9.9-24 9.9c-18.7 0-33.9-15.2-33.9-33.9l0-62.1L32 320c-17.7 0-32-14.3-32-32l0-64c0-17.7 14.3-32 32-32l128 0 0-62.1c0-18.7 15.2-33.9 33.9-33.9c9 0 17.6 3.6 24 9.9zM352 416l64 0c17.7 0 32-14.3 32-32l0-256c0-17.7-14.3-32-32-32l-64 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l64 0c53 0 96 43 96 96l0 256c0 53-43 96-96 96l-64 0c-17.7 0-32-14.3-32-32s14.3-32 32-32z""></path></svg><!-- <i class=""fa-solid fa-right-to-bracket""></i> Font Awesome fontawesome.com -->
+                        </a>
+                                                                                            <a class=""menu-item site-identity-link-item"" href=""/search"">Search&nbsp;<svg class=""svg-inline--fa fa-magnifying-glass"" aria-hidden=""true"" focusable=""false"" data-prefix=""fas"" data-icon=""magnifying-glass"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 512 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z""></path></svg><!-- <i class=""fa-solid fa-search""></i> Font Awesome fontawesome.com --></a>
+                                        </div>
+    
+
+
+  </div>
+    </div>
+
+  </section>
+
+      <header id=""site-header"">
+      <div class=""clearfix navigation"">
+            <div class=""region region-header"">
+        
+
+<div id=""block-msi-custom-mainnavigation"" data-block-plugin-id=""superfish:main"" class=""block block-superfish block-superfishmain"">
+  
+    
+      
+<ul id=""superfish-main"" class=""menu sf-menu sf-main sf-horizontal sf-style-none sf-js-enabled"" data-once=""superfish superfishtweak"">
+  
+<li id=""main-menu-link-content01fdf6e5-e5b4-41c2-a045-48521142fc1d"" class=""sf-depth-1 menuparent""><a href=""/about-msi-services"" class=""sf-depth-1 menuparent sf-with-ul"" aria-haspopup=""true"" aria-expanded=""false"">Services<span class=""sf-sub-indicator""> »</span></a><ul class=""sf-multicolumn sf-hidden"" style=""width: 0px;""><li class=""sf-multicolumn-wrapper "" style=""width: 0px;""><ol style=""width: 0px;""><li id=""main-menu-link-contentc74fe598-1610-49f6-955e-0192ede3cf2e"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Support and Consultation</span><ol style=""float: none; width: 0px;""><li id=""main-menu-link-content4f52454d-3a40-42c8-ab5f-a33928deea20"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services"" title=""See all MSI Services"" class=""sf-depth-3"" tabindex=""-1"" style="""">About MSI Services</a></li><li id=""main-menu-link-content63596d56-b57e-4763-9d59-6f85d015e2c6"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/consulting"" class=""sf-depth-3"" tabindex=""-1"" style="""">Consulting</a></li><li id=""main-menu-link-contentf0bd5cc8-960d-4299-827e-1f9e4d4b1e3c"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/helpdesk"" title=""MSI Helpdesk"" class=""sf-depth-3"" tabindex=""-1"" style="""">Helpdesk</a></li><li id=""main-menu-link-content30a45e81-4edf-495c-b068-1353be8fc44e"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/service-catalog"" title=""Our Services Costings"" class=""sf-depth-3"" tabindex=""-1"" style="""">Service Catalog</a></li></ol></div></li><li id=""main-menu-link-contentb6887333-6570-4915-baa5-31a6568ac042"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Computing and Processing</span><ol style=""width: 0px; float: none;""><li id=""main-menu-link-content7a57630c-7f21-4ffc-877b-388b7e0d56f6"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/high-performance-computing"" title=""High Performance Computing Clusters"" class=""sf-depth-3"" tabindex=""-1"" style="""">HPC Clusters</a></li><li id=""main-menu-link-contentd5b9613b-99d0-408a-8378-5f728cd8afe2"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/interactive-hpc"" title=""Interactive High Performance Computing"" class=""sf-depth-3"" tabindex=""-1"" style="""">Interactive HPC</a></li><li id=""main-menu-link-contenteaa0e083-f79b-4b20-a33b-f5950807b9c7"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/batch-hpc"" title=""Batch High Performance Computing"" class=""sf-depth-3"" tabindex=""-1"" style="""">Batch HPC</a></li><li id=""main-menu-link-content7f6d4b10-d784-441f-8c30-3fba89d6b12a"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/dedicated-computing"" title=""Dedicated Computing"" class=""sf-depth-3"" tabindex=""-1"" style="""">Dedicated Computing</a></li></ol></div></li><li id=""main-menu-link-content1692f356-5011-42a5-a845-563abec4ed4d"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Data Management and Specialized Services</span><ol style=""width: 0px; float: none;""><li id=""main-menu-link-contenta2eb59c1-ee3f-42c0-a24a-d3efedd58184"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/data-storage"" title=""Data Storage"" class=""sf-depth-3"" tabindex=""-1"" style="""">Data Storage</a></li><li id=""main-menu-link-contentd859ba27-5bdb-4faf-8d90-8ca69edd9e56"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/about-msi-services/portals-and-databases"" title=""Portals and Databases"" class=""sf-depth-3"" tabindex=""-1"" style="""">Portals and Databases</a></li></ol></div></li></ol></li></ul></li><li id=""main-menu-link-contentf99e8c4a-4b1c-44e5-867c-84e3d33b5af2"" class=""sf-depth-1 menuparent""><a href=""/our-resources"" title=""MSI Resources"" class=""sf-depth-1 menuparent sf-with-ul"" aria-haspopup=""true"" aria-expanded=""false"">Resources<span class=""sf-sub-indicator""> »</span></a><ul class=""sf-multicolumn sf-hidden"" style=""width: 0px;""><li class=""sf-multicolumn-wrapper "" style=""width: 0px;""><ol style=""width: 0px;""><li id=""main-menu-link-content618771af-b007-4970-b5c7-27f927b47b71"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">Computing and Processing</span><ol style=""float: none; width: 0px;""><li id=""main-menu-link-content11d886e7-f4ab-4a89-b9c7-0ab322f39a5a"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/getting-started"" title=""Get Started with MSI"" class=""sf-depth-3"" tabindex=""-1"" style="""">Getting Started</a></li><li id=""main-menu-link-content3727c2ac-374c-4b26-990a-b389a70b38d3"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/slurm-scheduler"" title=""Slurm Job Scheduler"" class=""sf-depth-3"" tabindex=""-1"" style="""">Job Scheduler</a></li><li id=""main-menu-link-content6e413466-0097-482a-85d6-b45edbf567e2"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/slurm-scheduler/slurm-partitions"" title=""Slurm Job Partitions"" class=""sf-depth-3"" tabindex=""-1"" style="""">Job Partitions</a></li><li id=""main-menu-link-content32584300-1de4-4f75-a17b-f108594e9a9c"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/software-backup"" title=""Software"" class=""sf-depth-3"" tabindex=""-1"" style="""">Software</a></li></ol></div></li><li id=""main-menu-link-content25bf4f52-6a0c-418b-826d-ed8d68f29c9c"" class=""sf-depth-2 sf-multicolumn-column menuparent"" style=""width: 0px;""><div class=""sf-multicolumn-column"" style=""width: 0px;""><span class=""sf-depth-2 menuparent nolink"" role=""link"" aria-haspopup=""true"" aria-expanded=""false"" tabindex=""-1"">User Support and Information</span><ol style=""width: 0px; float: none;""><li id=""main-menu-link-content779b7747-d6cc-423e-8a37-8453c4207319"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources"" title=""Our Resources"" class=""sf-depth-3"" tabindex=""-1"" style="""">Our Resources</a></li><li id=""main-menu-link-contente0809fae-31ac-4628-9e40-2d049b4c6ed1"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/knowledge-base"" title=""Knowledge Base"" class=""sf-depth-3"" tabindex=""-1"" style="""">Knowledge Base</a></li><li id=""main-menu-link-content22720439-a1af-4f62-9a30-9a711ae75810"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/tutorials"" title=""Tutorials"" class=""sf-depth-3"" tabindex=""-1"" style="""">Tutorials</a></li><li id=""main-menu-link-content79f92a0a-cfd0-457c-89ee-cfed7648b322"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/users-bulletin"" title=""Users Bulletin"" class=""sf-depth-3"" tabindex=""-1"" style="""">Users Bulletin</a></li><li id=""main-menu-link-content48cc366a-c239-4237-8ca8-819c99ec4a8b"" class=""sf-depth-3 sf-no-children"" style=""""><a href=""/our-resources/report-an-incident"" class=""sf-depth-3"" tabindex=""-1"" style="""">Report a Security Incident</a></li></ol></div></li></ol></li></ul></li><li id=""main-menu-link-content5878e83c-c24a-4975-97bb-d53e483c9276"" class=""sf-depth-1 menuparent""><a href=""/msi-research"" title=""Research"" class=""sf-depth-1 menuparent sf-with-ul"" aria-haspopup=""true"" aria-expanded=""false"">Research<span class=""sf-sub-indicator""> »</span></a><ul class=""sf-multicolumn sf-hidden"" style=""float: none; width: auto;""><li class=""sf-multicolumn-wrapper "" style=""""><ol><li id=""main-menu-link-contentf01b9a4e-8f4e-4011-9f8c-7468ce6e255c"" class=""sf-depth-2 sf-no-children""><a href=""/msi-research"" title=""MSI Research"" class=""sf-depth-2"" tabindex=""-1"">Elevating Research</a></li><li id=""main-menu-link-content2cd53baa-0634-4541-8ad5-34bee586ab3c"" class=""sf-depth-2 sf-no-children""><a href=""/msi-research/research-spotlights"" title=""Research Spotlights"" class=""sf-depth-2"" tabindex=""-1"">Research Spotlights</a></li><li id=""main-menu-link-contentf11e9a2f-058f-4ec6-ba7f-c1f7d540dc38"" class=""sf-depth-2 sf-no-children""><a href=""https://www-archive.msi.umn.edu/pi"" title=""MSI Principal Investigators"" class=""sf-depth-2 sf-external"" tabindex=""-1"">MSI Principal Investigators</a></li><li id=""main-menu-link-contenteede0361-a108-4b68-8e4b-7ddb266d9cf4"" class=""sf-depth-2 sf-no-children""><a href=""/msi-research/proposal-support"" title=""Proposal Support"" class=""sf-depth-2"" tabindex=""-1"">Proposal Support</a></li><li id=""main-menu-link-content3391e534-1c2e-4d77-98e5-df06075dc8d3"" class=""sf-depth-2 sf-no-children""><a href=""/about-msi/our-experts"" title=""Find out more about MSI Experts"" class=""sf-depth-2"" tabindex=""-1"">Our Experts</a></li></ol></li></ul></li>
+        </ul>
+
+  </div>
+
+<div id=""block-msi-custom-responsivemenumobileicon"" data-block-plugin-id=""responsive_menu_toggle"" class=""responsive-menu-toggle-wrapper responsive-menu-toggle block block-responsive-menu block-responsive-menu-toggle"">
+  
+    
+      <a id=""toggle-icon"" class=""toggle responsive-menu-toggle-icon"" href=""#off-canvas"">
+  <span class=""icon""></span><span class=""label"">Menu</span>
+</a>
+  </div>
+    </div>
+
+      </div>
+          </header>
+  
+      <section id=""featured"">
+      <div class=""columns"">
+            <div class=""region region-featured"">
+        <div data-drupal-messages-fallback="""" class=""hidden""></div>
+
+    </div>
+
+      </div>
+    </section>
+  
+      <section id=""breadcrumb"">
+      <div class=""clearfix"">
+        
+      </div>
+    </section>
+  
+  <main role=""main"" class=""clearfix"">
+    <a id=""main-content"" tabindex=""-1""></a>
+
+    
+    <section id=""content"">
+          <div class=""region region-content"">
+        
+
+<div id=""block-msi-custom-content"" data-block-plugin-id=""system_main_block"" class=""block block-system block-system-main-block"">
+  
+    
+      <article id=""node-7121"" class="""" about=""/about-msi/employment/bioinformatics-analyst-lmp"">
+  
+    
+
+    <div class=""posted"">
+        
+  </div>
+  
+  
+            <div class=""field field--name-field-type-2-hero-banner field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--type-2-hero-banner paragraph--view-mode--default"">
+                                            <div class=""background-image"" style=""background-image: url(/sites/msi.umn.edu/files/2023-12/programmer_working_in_a_software_development_and_coding_technologies.jpg);"">
+                                <div class=""overlay-items display-40"">
+            <div class=""overlay-item"">
+  <div class=""field field--name-field-type-2-hero-banner-title field--type-string field--label-hidden"">
+          <h1 class=""field__item"">Bioinformatics Analyst – LM&amp;P</h1>
+      </div>
+
+</div>
+                <nav class=""breadcrumb"" role=""navigation"" aria-labelledby=""system-breadcrumb"">
+        <h2 class=""visually-hidden"" id=""system-breadcrumb"">Breadcrumb</h2>
+
+        <ol>
+                            <li>
+                                            <a href=""/"">Home</a>
+                                    </li>
+                            <li>
+                                            <a href=""/about-msi"">About MSI</a>
+                                    </li>
+                            <li>
+                                            <a href=""/about-msi/employment"">Employment</a>
+                                    </li>
+                                            </ol>
+    </nav>
+
+          </div>
+        </div>
+                    </div>
+</div>
+      
+            <div class=""field field--name-field-content-h2-full-width field--type-entity-reference-revisions field--label-hidden field__item"">	<div class=""md_container paragraph paragraph--type--content-h2-full-width paragraph--view-mode--default"">
+					
+			
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><h2><span>About the Position</span></h2><p class=""MsoNormal""><span>The Research Informatics (RI) Bioinformatics group within the University of Minnesota Supercomputing Institute (MSI) is hiring a full-time Bioinformatics Analyst to support basic biomedical and applied clinical genetic research for the Department of Laboratory Medicine and Pathology (LM&amp;P) at the University of Minnesota. The analyst in this position will conduct cutting-edge bioinformatics analyses in close collaboration with a diverse set of biomedical labs within the LM&amp;P department, as well as design and implement clinical genomic analysis pipelines for the Molecular Diagnostic Lab. The successful candidate will join the five-person LM&amp;P bioinformatics team, a subset of the eighteen-person RI Bioinformatics group at MSI.<br><br>Members of the LM&amp;P team work with researchers and clinicians in LM&amp;P on a broad variety of projects that will impact human health, including cancer, immunology, neurology, and infectious disease. Projects that support the Molecular Diagnostic Lab include clinical genetic testing for inherited and acquired diseases. A substantial portion of projects involves single-cell sequencing and spatial transcriptomics, so there is ample opportunity for our group to break new ground by exploring novel methods and tools.&nbsp;<br><br>MSI and LM&amp;P have a strong commitment to the University’s goal of creating a positive and inclusive campus climate by advancing equity and diversity. We aim to hire high-potential people with varying identities and backgrounds. The analyst in this position must have excellent communication skills, strong analytical, computational, and life sciences training or experience, and be comfortable working independently and as part of a cross-functional research team on diverse projects.</span></p><p class=""MsoNormal""><span class=""text-big"">As part of an interdisciplinary team, the successful candidate will have the following responsibilities as they serve as a bioinformatics analyst and developer for research and clinical projects for LM&amp;P:</span></p><ul><li class=""MsoListParagraphCxSpFirst""><span class=""text-big"">75% - Design and implement appropriate informatics workflows.</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">15% - Identify and integrate new, cutting-edge molecular technologies and analysis methods as they become useful for research and/or clinical purposes (e.g., single-cell expression profiling, long-read sequencing, spatial transcriptomics, etc.).</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">5% - Appropriately document and present methods and results in both internal and external reports, publications, and presentations.</span></li><li class=""MsoListParagraphCxSpLast""><span class=""text-big"">5% - Consult with LM&amp;P researchers on experimental design and planning.</span></li></ul><p class=""MsoNormal""><span>The ideal candidate will have advanced knowledge of next generation sequencing technologies with demonstrated practical experience in developing and carrying out analytical strategies in the context of NGS applications (e.g. RNA-seq, DNA SNP and structural variant detection, de novo sequence assembly, etc.). While candidates ideally will have experience in more than one type of bioinformatics analysis, candidates are not expected to have experience in all types of analyses we handle and learning new analysis techniques is part of the role.</span></p><hr><p class=""MsoNormal""><span>RIO and MSI endorse a “work with flexibility” approach that offers a welcoming and flexible work environment where everyone is inspired to do their best.&nbsp;This MSI position has responsibilities that will require on-site work at least 50% of the time, with options for management-approved flexible work arrangements. This position is not eligible for 100% remote work. Offices for bioinformatics staff positions are located in Walter Library on the Twin Cities, East Bank Campus.</span></p></div>
+      
+						</div>
+</div>
+      
+            <div class=""field field--name-field-employment-tabs field--type-entity-reference-revisions field--label-hidden field__item"">
+
+
+
+
+        <div class=""a11y-paragraphs-tabs__wrapper"">
+      <div class=""a11y-paragraphs-tabs__section-title"">
+        <br>
+      </div>
+
+      <div class=""accordion-tabs js-tabs is-initialized tabs-allowed"">
+        <ul role=""tablist"" class=""tabs-tab-list"">
+                                <li role=""presentation"">
+              <a href=""#section7916351-1"" role=""tab"" id=""tab7916351-1"" aria-controls=""section7916351-1"" aria-selected=""true"" class=""tabs-trigger js-tabs-trigger is-selected"">Required Qualifications
+</a>
+            </li>
+                      <li role=""presentation"">
+              <a href=""#section7916351-2"" role=""tab"" id=""tab7916351-2"" aria-controls=""section7916351-2"" aria-selected=""false"" class=""tabs-trigger js-tabs-trigger"" tabindex=""-1"">Preferred Qualifications
+</a>
+            </li>
+                      <li role=""presentation"">
+              <a href=""#section7916351-3"" role=""tab"" id=""tab7916351-3"" aria-controls=""section7916351-3"" aria-selected=""false"" class=""tabs-trigger js-tabs-trigger"" tabindex=""-1"">About the Department
+</a>
+            </li>
+                      <li role=""presentation"">
+              <a href=""#section7916351-4"" role=""tab"" id=""tab7916351-4"" aria-controls=""section7916351-4"" aria-selected=""false"" class=""tabs-trigger js-tabs-trigger"" tabindex=""-1"">Apply for This Position
+</a>
+            </li>
+                  </ul>
+
+                          <section id=""section7916351-1"" role=""tabpanel"" aria-labelledby=""tab7916351-1"" class=""tabs-panel js-tabs-panel is-open"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section7916351-1"" aria-expanded=""true"" tabindex=""0"">
+              Required Qualifications
+
+            </div>
+
+            <div class=""content is-open"" aria-hidden=""false"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--form-template paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><ul><li class=""MsoListParagraphCxSpFirst""><span class=""text-big"">Doctorate in the life sciences, computer science or engineering, or related field. Candidates must have significant bioinformatics experience.</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">3+ years of research/industry experience in genomics, genetics, molecular biology or computational biology.&nbsp;</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">Hands-on experience in developing and carrying out data analytical strategies and pipelines for analyzing datasets from high-throughput platforms such as next generation sequencing.</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">Proficiency with the Linux shell environment, a programming language (ideally R or python), and familiar with common bioinformatics tools (e.g. samtools, bwa, HISAT2, GATK, freebayes, Cell Ranger, Seurat, Markdown, etc.).</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">Must be able to understand and translate life scientist researchers' scientific goals into analytical strategies and process requirements.</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">Must be able to function as part of an interactive team while demonstrating self-initiative to achieve the project's goals and the group's mission.</span></li><li class=""MsoListParagraphCxSpMiddle""><span class=""text-big"">Critical and independent thinking.</span></li><li class=""MsoListParagraphCxSpLast""><span class=""text-big"">Excellent oral and written English communication and interpersonal skills.</span></li></ul></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+                  <section id=""section7916351-2"" role=""tabpanel"" aria-labelledby=""tab7916351-2"" class=""tabs-panel js-tabs-panel is-hidden"" tabindex=""-1"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section7916351-2"" aria-expanded=""false"" tabindex=""0"">
+              Preferred Qualifications
+
+            </div>
+
+            <div class=""content is-hidden"" aria-hidden=""true"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--form-template paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><ul><li class=""MsoListParagraphCxSpFirst""><span>Research background in human or mammalian genetics is strongly preferred, though not required.</span></li><li class=""MsoListParagraphCxSpMiddle""><span>Experience in variant calling and/or single cell data analysis are highly desirable, though not required.&nbsp;</span></li><li class=""MsoListParagraphCxSpMiddle""><span>Advanced statistical and data modeling skills.</span></li><li class=""MsoListParagraphCxSpMiddle""><span>Use of reproducible research methods and software version control (e.g. git/GitHub).</span></li><li class=""MsoListParagraphCxSpLast""><span>Experience using high performance computing (HPC) environments and job scheduling.</span></li></ul></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+                  <section id=""section7916351-3"" role=""tabpanel"" aria-labelledby=""tab7916351-3"" class=""tabs-panel js-tabs-panel is-hidden"" tabindex=""-1"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section7916351-3"" aria-expanded=""false"" tabindex=""0"">
+              About the Department
+
+            </div>
+
+            <div class=""content is-hidden"" aria-hidden=""true"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--form-template paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><p><span>The Research Informatics (RI) Bioinformatics group at the Minnesota Supercomputing Institute (MSI) was formed in 2011, leveraging MSI’s rich computational environment to foster innovative bioinformatics collaboration with researchers across the University and Minnesota. The RI Bioinformatics LM&amp;P team has partnered with LM&amp;P to support research and diagnostics since 2013.<br><br>The Minnesota Supercomputing Institute (MSI) is a core research facility of the University of Minnesota (U of M), part of Research Computing within the Research and Innovation Office (RIO). MSI provides advanced research computing infrastructure and expertise to the University's research and scholarly community and the State of Minnesota in order to advance and accelerate research and foster innovation and discoveries through advanced computing technologies, scientific computing and informatics, application development, and services. The Institute currently supports over 900 different groups with over 4,500 active users spanning the sciences, engineering, life sciences, medicine, and social sciences.</span></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+                  <section id=""section7916351-4"" role=""tabpanel"" aria-labelledby=""tab7916351-4"" class=""tabs-panel js-tabs-panel is-hidden"" tabindex=""-1"">
+
+            <div class=""accordion-trigger js-accordion-trigger"" aria-controls=""section7916351-4"" aria-expanded=""false"" tabindex=""0"">
+              Apply for This Position
+
+            </div>
+
+            <div class=""content is-hidden"" aria-hidden=""true"">
+                <div class=""paragraph paragraph--type--employment-tabs-panel paragraph--view-mode--default"">
+          
+            <div class=""field field--name-field-employment-tab-content field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--employment-tabs-content paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-msi-tab-content-area field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--form-template paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-full-width-content field--type-text-with-summary field--label-hidden field__item""><p><span>Applications must be submitted online via the </span><a href=""https://humanresources.umn.edu/jobs""><span>University of Minnesota Employment site</span></a><span>. The Job ID for this position is&nbsp;<strong>361066</strong>.&nbsp;</span></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+
+            </div>
+
+          </section>
+        
+
+      </div>
+    </div>
+  </div>
+      
+							
+	<div class=""cta-block"" style=""background-image: url(/sites/msi.umn.edu/files/2024-01/Discover%20Minnesota%20Supercomputing%20Institute.jpg)"">
+		<h2 class=""cta-block__title"">Discover Advanced Computing and Data Solutions at MSI</h2>
+		<a href=""/about-msi-services"" class=""btn btn-small bg-maroon"">Our Services</a>
+	</div>
+
+	<div class=""field field--name-field-msi-related-topics field--type-entity-reference field--label-hidden field__items"">
+		<div class=""title-container"">
+			<h2>Related topics</h2>
+		</div>
+		<div class=""md-teaser-3-col"">
+																																				
+					<div class=""field__item md-teaser"">
+						<a href=""/about-msi/employment"">
+							<h3 class=""md-teaser__title"">Employment</h3>
+						</a>
+												<p>MSI provides high-performance computing resources and research computing support to the University of Minnesota and other Minnesota institutions of higher learning.</p>
+					</div>
+																																								
+					<div class=""field__item md-teaser"">
+						<a href=""/about-msi/our-experts"">
+							<h3 class=""md-teaser__title"">Our Experts</h3>
+						</a>
+												<p>MSI is a vital hub for cutting-edge research and innovation at the University of Minnesota and beyond.</p>
+					</div>
+																																								
+					<div class=""field__item md-teaser"">
+						<a href=""/helpdesk"">
+							<h3 class=""md-teaser__title"">Helpdesk</h3>
+						</a>
+												<p>Submit a ticket via the MSI Helpdesk for General Support and Software Purchase requests, apply for Class Accounts, complete a Non-faculty PI Eligibility Form, request a purchase for Dedicated Computing or, request access to Citrix.</p>
+					</div>
+									</div>
+	</div>
+	
+
+  
+  
+  
+</article>
+  </div>
+    </div>
+
+    </section>
+
+      </main>
+
+      <footer id=""site-footer"" role=""contentinfo"">
+              <section class=""footer-top"">
+              <div class=""region region-footer-top"">
+        
+
+
+
+<div id=""block-msi-custom-msifooter"" data-block-plugin-id=""block_content:e6f2d6fa-49fb-456d-b529-e21cd653318d"" class=""block block-block-content block-block-contente6f2d6fa-49fb-456d-b529-e21cd653318d"">
+  
+            <h2 class=""unit-footer-hidden-title"">MSI Footer</h2>
+        
+      
+            <div class=""field field--name-field-unit-footer field--type-entity-reference-revisions field--label-hidden field__item"">
+    
+
+
+  <div class=""paragraph paragraph--type--unit-footer paragraph--view-mode--default folwell-unitfooter unit-footer-bg-gray"">
+        
+            <div class=""field field--name-field-unit-footer-num-columns field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-3-column-layout paragraph--view-mode--default unitfooter-3columns"">
+          
+            <div class=""field field--name-field-unit-footer-column-1 field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-column paragraph--view-mode--default unitfooter-contentbox"">
+          
+      <div class=""field field--name-field-unit-footer-content-box field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-text paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-unitfooter-text-area field--type-text-long field--label-hidden field__item""><p><a class=""bg-maroon btn"" href=""/provide-website-feedback"" title=""Provide website feedback"" data-entity-type=""node"" data-entity-uuid=""eeae1c1c-55ca-400b-afe4-51b217bf3520"" data-entity-substitution=""canonical"">Provide website feedback</a></p><p><a href=""https://research.umn.edu/"" title=""Research Computing"">Research &amp; Innovation Office</a> | <a href=""https://rc.umn.edu/"" title=""Research Computing"">Research Computing</a></p><h2>Minnesota Supercomputing Institute</h2></div>
+      
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-contact- paragraph--view-mode--default"">
+          
+          <h3 class=""field field--name-field-unit-footer-contact-title field--type-text field--label-hidden unitfooter-boxtitle field__item"">CONTACT US</h3>
+    
+            <div class=""field field--name-field-uint-footer-address field--type-address field--label-hidden field__item""><p class=""address"" translate=""no""><span class=""address-line1"">599 Walter Library, 117 Pleasant St. SE</span><br>
+<span class=""locality"">Minneapolis</span>, <span class=""administrative-area"">MN</span> <span class=""postal-code"">55455</span><br>
+<span class=""country"">United States</span></p></div>
+      
+            <div class=""field field--name-field-unit-footer-phone-number field--type-telephone field--label-hidden field__item""><a href=""tel:612-624-0528"">612-624-0528</a></div>
+      
+            <div class=""field field--name-field-unit-footer-email field--type-email field--label-hidden field__item"">help@msi.umn.edu</div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+            <div class=""field field--name-field-unit-footer-column-2 field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-column paragraph--view-mode--default unitfooter-contentbox"">
+          
+      <div class=""field field--name-field-unit-footer-content-box field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-text paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-unitfooter-text-area field--type-text-long field--label-hidden field__item""><h3>QUICKLY FIND WHAT YOU’RE LOOKING FOR</h3></div>
+      
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-button paragraph--view-mode--default"">
+          
+          <div class=""field field--name-field-unit-footer-button-link field--type-link field--label-hidden unitfooter-button-link""><a href=""/search"">Search</a> 
+      </div>
+    
+
+
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--footer-links paragraph--view-mode--default"">
+          
+      <ul class=""field field--name-field-unit-footer-link field--type-link field--label-hidden field__items"">
+              <li class=""field__item""><a href=""/about-msi"">ABOUT MSI</a></li>
+              <li class=""field__item""><a href=""/about-msi/our-experts"">OUR EXPERTS</a></li>
+              <li class=""field__item""><a href=""/about-msi/employment"">EMPLOYMENT</a></li>
+              <li class=""field__item""><a href=""/news-and-events"">NEWS &amp; EVENTS</a></li>
+              <li class=""field__item""><a href=""/about-msi/policies"">POLICIES</a></li>
+          </ul>
+  
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-button paragraph--view-mode--default"">
+          
+          <div class=""field field--name-field-unit-footer-button-link field--type-link field--label-hidden unitfooter-button-link""><a href=""/helpdesk"">GET IN TOUCH</a> 
+      </div>
+    
+
+
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+            <div class=""field field--name-field-unit-footer-column-3 field--type-entity-reference-revisions field--label-hidden field__item"">  <div class=""paragraph paragraph--type--unit-footer-column paragraph--view-mode--default unitfooter-contentbox"">
+          
+      <div class=""field field--name-field-unit-footer-content-box field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-text paragraph--view-mode--default"">
+          
+            <div class=""clearfix text-formatted field field--name-field-unitfooter-text-area field--type-text-long field--label-hidden field__item""><h3>HELPDESK</h3><p>Here to answer any questions you have about MSI. <a href=""/helpdesk"" data-entity-type=""node"" data-entity-uuid=""792951a6-6f0b-4838-82c9-0d0e574536ca"" data-entity-substitution=""canonical"">Learn about our physical Helpdesk</a>.</p><p><a href=""https://status.msi.umn.edu/"">Check the System Status app</a> for system outages before submitting a ticket about loss of service.</p></div>
+      
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--footer-links paragraph--view-mode--default"">
+          
+      <ul class=""field field--name-field-unit-footer-link field--type-link field--label-hidden field__items"">
+              <li class=""field__item""><a href=""/helpdesk"">REQUEST SUPPORT</a></li>
+              <li class=""field__item""><a href=""/our-resources/report-an-incident"">REPORT A SECURITY INCIDENT</a></li>
+              <li class=""field__item""><a href=""/login"">ADMIN LOGIN</a></li>
+          </ul>
+  
+      </div>
+</div>
+              <div class=""field__item"">  <div class=""paragraph paragraph--type--unit-footer-social-media-links paragraph--view-mode--default"">
+          
+      <div class=""field field--name-field-unit-footer-soc-med-link field--type-entity-reference-revisions field--label-hidden field__items"">
+              <div class=""field__item"">
+    
+
+  <div class=""paragraph paragraph--type--unit-footer-social-media-link paragraph--view-mode--default uf-social-media-link"">
+          <a aria-label=""YouTube"" href=""https://www.youtube.com/user/UofMMSI"">
+        
+            <div class=""field field--name-field-unit-footer-youtube-icon field--type-fontawesome-icon field--label-hidden field__item""><div class=""fontawesome-icons"">
+      <div class=""fontawesome-icon"">
+  <svg class=""svg-inline--fa fa-square-youtube"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;"" aria-hidden=""true"" focusable=""false"" data-prefix=""fab"" data-icon=""square-youtube"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 448 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M186.8 202.1l95.2 54.1-95.2 54.1V202.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-42 176.3s0-59.6-7.6-88.2c-4.2-15.8-16.5-28.2-32.2-32.4C337.9 128 224 128 224 128s-113.9 0-142.2 7.7c-15.7 4.2-28 16.6-32.2 32.4-7.6 28.5-7.6 88.2-7.6 88.2s0 59.6 7.6 88.2c4.2 15.8 16.5 27.7 32.2 31.9C110.1 384 224 384 224 384s113.9 0 142.2-7.7c15.7-4.2 28-16.1 32.2-31.9 7.6-28.5 7.6-88.1 7.6-88.1z""></path></svg><!-- <i class=""fab fa-youtube-square"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;""></i> Font Awesome fontawesome.com -->
+</div>
+
+  </div>
+</div>
+      
+      </a>
+
+
+      </div>
+</div>
+              <div class=""field__item"">
+    
+
+  <div class=""paragraph paragraph--type--unit-footer-social-media-link paragraph--view-mode--default uf-social-media-link"">
+          <a aria-label=""Twitter"" href=""https://twitter.com/UMNmsi"">
+        
+            <div class=""field field--name-field-unit-footer-twitter-icon field--type-fontawesome-icon field--label-hidden field__item""><div class=""fontawesome-icons"">
+      <div class=""fontawesome-icon"">
+  <svg class=""svg-inline--fa fa-square-x-twitter"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;"" aria-hidden=""true"" focusable=""false"" data-prefix=""fab"" data-icon=""square-x-twitter"" role=""img"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 448 512"" data-fa-i2svg=""""><path fill=""currentColor"" d=""M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z""></path></svg><!-- <i class=""fab fa-square-x-twitter"" data-fa-transform="""" data-fa-mask="""" style=""--fa-primary-color: #000000; --fa-secondary-color: #000000;""></i> Font Awesome fontawesome.com -->
+</div>
+
+  </div>
+</div>
+      
+      </a>
+
+
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+      
+      </div>
+</div>
+      
+    </div>
+
+      </div>
+</div>
+      
+  </div>
+
+    </section></footer></div>
+
+        
+      
+          
+  </div>
+</div><div class=""off-canvas-wrapper""></div></div>
+  
+  <!-- Begin UMN Footer -->
+<footer id=""umnhf-f"" class=""umnhf"" role=""contentinfo"">
+    <nav id=""umnhf-f-myu"">
+        <h3 class=""umnhf-f-title visually-hidden"">For Students, Faculty, and Staff</h3>
+        <ul role=""presentation"">
+            <li><a href=""http://onestop.umn.edu/"">One Stop</a></li>
+            <li><a href=""https://www.myu.umn.edu/"">MyU <span></span></a></li>
+        </ul>
+    </nav>
+      <small>© <span id=""cdate"">2024</span> Regents of the <a href=""https://system.umn.edu"">University of Minnesota</a>. All rights reserved. The University of Minnesota is an equal opportunity educator and employer. <a href=""http://privacy.umn.edu"">Privacy Statement</a></small>
+    <small><a href=""https://oit-drupal-prd-web.oit.umn.edu/indexAccess.php?ref_url=https://msi.umn.edu/about-msi/employment/bioinformatics-analyst-lmp"">Report Web Disability-Related Issue</a></small>
+    <!-- Optional last updated link-->
+     <!-- add time tag w datetime attr -->
+  </footer>
+<!-- End UMN Footer -->
+      
+    
+  <script type=""application/json"" data-drupal-selector=""drupal-settings-json"">{""path"":{""baseUrl"":""\/"",""pathPrefix"":"""",""currentPath"":""node\/7121"",""currentPathIsAdmin"":false,""isFront"":false,""currentLanguage"":""en""},""pluralDelimiter"":""\u0003"",""suppressDeprecationErrors"":true,""gtag"":{""tagId"":""G-2HF41RMY8T"",""consentMode"":false,""otherIds"":[],""events"":[],""additionalConfigInfo"":[]},""ajaxPageState"":{""libraries"":""eJyFkm1uwyAMhi9Eg3oi5FCHsBnMbEiXnX5UVdKuitY_yH78YvwBnM-rKyAQBMqsrsKoFjo8gfcsl8j5dGMGDoWqWNV46sZqR1Dc7ISqELDHWNBmlgQUf9BMTFckshPnCldUTn-Z7l4gHoFO6iWWA1xXijnseEGp0QO5DMsGnedUOGPPajfUcqwTc0U5VF17CuJWj4OlEX21fvk4rDEVwmfR3uNzv4Mu4b_YoHNMJjAHwj7mYEM_Xv0BPuDbJI3ON62cXufy2JS9SCtAw4MMLZc2UtQZL0ZQewcaF3QJc7Mv_jAKwmfhmOtbqec8xfBWtpWoraBMvQq7W27mvsj-Vp-o0VUrpvuvaik7RRA_W6_oKI4Cst7xnuaW_ReGiR4I"",""theme"":""msi_custom"",""theme_token"":null},""ajaxTrustedUrl"":[],""responsive_menu"":{""position"":""right"",""theme"":""theme-dark"",""pagedim"":""pagedim"",""modifyViewport"":true,""use_bootstrap"":false,""breakpoint"":""(min-width: 960px)"",""drag"":false,""pageWrapper"":true},""superfish"":{""superfish-main"":{""id"":""superfish-main"",""sf"":{""animation"":{""opacity"":""show"",""height"":""show""},""speed"":""fast"",""dropShadows"":false},""plugins"":{""touchscreen"":{""behaviour"":1,""mode"":""always_active""},""supposition"":true,""supersubs"":{""minWidth"":16}}}},""umn_search"":{""cx"":""000747455861485679472:bqyjqaw6sp8"",""placeholder_text"":""Search UMN""},""ajax"":[],""user"":{""uid"":0,""permissionsHash"":""5e90ec6bf5329da15a36df185cb922dc32337cd446e752be878313b0345474bf""}}</script>
+<script src=""/sites/msi.umn.edu/files/js/js_ZbuFJDbXXKSKHIqBSDWVkRk15h_VTBXMXQ4qVlt3Gpk.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA""></script>
+<script src=""/modules/contrib/google_tag/js/gtag.js?sgf03f""></script>
+<script src=""/sites/msi.umn.edu/files/js/js_kc-g1FZ97JZhtnJcNnLAl_KbHqlmq-z0syVOCAH00NI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=msi_custom&amp;include=eJyFUu1uwyAMfCEa1CdCDnUIm8HMhnTZ04-oVfqhbv2D7LuTz5wsqIWzxgVdwtysPPbDKAifhWOuRt5IPecphrcyrSvFHMzEdEYi5zl1HnNVO509EHGrr8nSiL4aV3xNa0yF8F6UK5xROaG9qwddwn_coHNMRletmOwIurvZQDwCHZ4-sMNeYqm6w9vYx-5qYjyB6nqZfa0TqkJANZ4FbWZJQPEHTdLofNPK6dk9MAdCVyHY0J_nfoAP-DYFBIJAmdWepBWg4YYMLZc2UtQZTy8DvUItxzpxD1QMHI-ru03oZqPaDTyA74ufIufDhv0hVMWeSEvZaSsoU7e220mYW7tXbuYFpZ9d32UPsSM19hNxGZbLHATxs_WKjuIoIOsv8LEeCA""></script>
+
+
+<div class=""mm-wrapper__blocker mm-slideout""><a class=""mm-tabstart"" href=""#mm-0"" aria-hidden=""true"" role=""presentation"" aria-label=""tab start button""><span class=""mm-sronly"">Close menu</span></a><button class=""mm-tabend mm-sronly"" aria-hidden=""true"" role=""presentation"" aria-label=""tab end button""></button></div><div id=""drupal-live-announce"" class=""visually-hidden"" aria-live=""polite"" aria-busy=""false""></div><table cellspacing=""0"" cellpadding=""0"" role=""presentation"" class=""gstl_50 gssb_c"" style=""width: 198px; display: none; top: 79px; left: 504px; position: absolute;""><tbody><tr><td class=""gssb_f""></td><td class=""gssb_e"" style=""width: 100%;""></td></tr></tbody></table></body></html>"
