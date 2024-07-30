@@ -20091,3 +20091,472 @@ e)}return c}catch(m){f.log(""Tag"",""GA Preloader"",""mapToProduct error: ""+m,"
 (function(b,a,c,d,e){b=a.createElement(c);a=a.getElementsByTagName(c)[0];b.async=1;b.src=_jibeGtmSource.src[_jibeGtmSource.env]+d;a.parentNode.insertBefore(b,a)})(window,document,""script"",_jibeGtmSource.js[_jibeGtmSource.env]);delete _jibeGtmSource;</script>
 <script type=""text/javascript"" id="""">function icims_waitForAndStoreJibeAnalyticsSessionDataToCookie(){var a=""icims_JibeSessionId"",b=""icims_JibeUserId"";if(window._jibe&&window._jibe.session){try{document.cookie=a+""\x3d""+window._jibe.session.id+"";SameSite\x3dStrict;Secure;path\x3d/""}catch(c){}try{document.cookie=b+""\x3d""+window._jibe.session.duid+"";SameSite\x3dStrict;Secure;path\x3d/""}catch(c){}document.dispatchEvent(new CustomEvent(""_jibeLoadedFromGTM""))}else setTimeout(function(){icims_waitForAndStoreJibeAnalyticsSessionDataToCookie()},
 100)}icims_waitForAndStoreJibeAnalyticsSessionDataToCookie();</script><div id=""fb-root"" class="" fb_reset""><div style=""position: absolute; top: -10000px; width: 0px; height: 0px;""><div></div></div></div></body></html>"
+2024-07-30 03:19:38,https://bu.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&id=23&jobid=314317&company_id=15509&version=1&source=ONLINE&JobOwner=1018687&level=levelid2&levelid2=4269&startflag=3,"<html class=""wf-ptsans-n4-active wf-ptsans-n7-active wf-vollkorn-n4-active wf-vollkorn-n7-active wf-active""><head><script type=""text/javascript"">var locale = window.navigator.language.split(""-"")[0];var translations = {	en: {	consent: ""We use essential cookies to make our site work. For example, we use cookies to enable security and network management functionality. You may be presented with choices in parts of this application that allow you to consent to the use of additional cookies. You can read more about our use of cookies by clicking Read More. "",	readmore: ""Read More..."",	gotit: ""Got It""	},	es : {	consent: ""Usamos cookies esenciales para que nuestro sitio funcione. Por ejemplo, usamos cookies para habilitar la seguridad y la funcionalidad de administraci&oacute;n de red. Es posible que se le presenten opciones en partes de esta aplicaci&oacute;n que le permitan dar su consentimiento para el uso de cookies adicionales. Puede leer m&aacute;s sobre nuestro uso de cookies haciendo clic en Leer m&aacute;s. "",	readmore: ""Leer m&aacute;s..."",	gotit: ""Acepto""	},	fr : {	consent: ""Nous utilisons des cookies n&eacute;cessaires pour faire fonctionner notre site. Par exemple, nous utilisons des cookies pour activer les fonctionnalit&eacute;s de s&eacute;curit&eacute; et de gestion du r&eacute;seau. Des choix peuvent vous &ecirc;tre pr&eacute;sent&eacute;s dans certaines parties de cette application qui vous permettent de consentir &agrave; l'utilisation de cookies suppl&eacute;mentaires. Vous pouvez en savoir plus sur notre utilisation de cookies en cliquant sur Lire la suite. "",	readmore: ""Lire la suite..."",	gotit: ""Accepter""	}};function getDomain(hostName) {	var domain = hostName;	if (hostName != null) {	var parts = hostName.split(""."").reverse();	if (parts != null && parts.length > 1) {	domain = parts[1] + ""."" + parts[0];	}	}	return domain;};function getItem(cname) {	let name = cname + ""="";	let decodedCookie = decodeURIComponent(document.cookie);	var ca = decodedCookie.split("";"");	for (let i = 0; i < ca.length; i++) {	var c = ca[i];	while (c.charAt(0) == "" "") {	c = c.substring(1);	}	if (c.indexOf(name) == 0) {	return c.substring(name.length, c.length);	}	}	return """";};function setItem(item, value) {	const domain = getDomain(window.location.hostname);	const daysToExpire = new Date(2147483647 * 1000).toUTCString();	document.cookie = item + ""=""+value+"";domain=""+domain+"";expires=""+daysToExpire+"";path=/"";}var consentPropertyName = ""srt_cookie_consent"";	function shouldShowPopup() {	return !getItem(consentPropertyName);};function decodeHtml(html) {	var txt = document.createElement(""textarea"");	txt.innerHTML = html;	txt.classList.add(""hidden"");	return txt.value;};function saveToStorage() {	setItem(consentPropertyName, true);}function gotitFn() {	const consentPopup = document.getElementById(""consent-popup"");	saveToStorage();	consentPopup.classList.add(""hidden"");};function removeHiddenClass() {	const consentPopup = document.getElementById(""consent-popup"");	consentPopup.classList.remove(""hidden"");};function setConsentCookie() {	var div = document.createElement(""div"");	div.id = ""consent-popup"";	div.innerHTML = '<p>' + decodeHtml(translations[locale]['consent']) + ' <a id=""consent-readmore"" href=""https://silkroadtechnology.com/privacy/"" target=""_blank"">' + decodeHtml(translations[locale]['readmore']) + '</a> <button id=""gotit"" type=""button"" onClick=""gotitFn()"">' + translations[locale]['gotit'] + '</button></p>';	div.className = 'hidden';	document.body.appendChild(div);	if (shouldShowPopup()) {	setTimeout(removeHiddenClass, 2000);	}};</script>
+<title>Boston University Careers</title>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+<meta name=""viewport"" content=""width=device-width,minimum-scale=1"">
+<link rel=""STYLESHEET"" type=""text/css"" href=""https://bucareers.silkroad.com/map_images/main/SiteGen/buext/Admin/Skins/Generic_Settings.css"">
+<link rel=""STYLESHEET"" type=""text/css"" href=""https://bucareers.silkroad.com/map_images/main/SiteGen/buext/Admin/Skins/openhire.css"">
+<!--[if lt IE 9]>
+<script src=""https://cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js""></script>
+<script src=""https://bucareers.silkroad.com/eprise/main/SiteGen/Skins/ps_resp_layout/SupportPages/respond.js""></script>
+<![endif]-->
+<link rel=""shortcut icon"" href=""https://bucareers.silkroad.com/map_images/main/SiteGen/buext/Content/Uploads/Images/skin/bu-favicon.jpeg"">
+<script src=""https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"" type=""text/javascript"" async=""""></script><script type=""text/javascript"" src=""https://bucareers.silkroad.com/map_images/main/SiteGen/Skins/ps_resp_layout/SupportPages/incJavascript.js""></script>
+<script type=""text/javascript"" src=""https://bucareers.silkroad.com/map_images/main/SiteGen/Skins/ps_resp_layout/SupportPages/niftycube.js""></script>
+<script type=""text/javascript"">function clear_search() {document.search_form.search_phrase.value= """";}</script>
+<script type=""text/javascript"">
+window.onload=function()
+{
+if(""""==""yes"")
+{
+}
+}
+</script>
+<script src=""https://code.jquery.com/jquery-latest.min.js""></script>
+<script src=""https://bucareers.silkroad.com/eprise/main/SiteGen/Skins/ps_resp_layout/SupportPages/doubletaptogo.min.js"" <="""" script="""">
+<script>
+$( function()
+{
+$( '#nav_main li:has(ul)' ).attr('aria-haspopup','true').doubleTapToGo();
+});
+</script>
+<meta name=""description"" content=""&nbsp;"">
+<meta name=""keywords"" content="","">
+<!---->
+<!--<script type=""text/javascript"" src=""https://bucareers.silkroad.com/eprise/RedCarpetDotNet/PhysicalMaps/JS/TurboTask.js""></script>-->
+<script>
+function funcWriteBreadcrumbNav(BreadCrumbList) {
+var sOutputBreadcrumbNav = new String();
+var sClass = null;
+var sUrl = null;
+var sText = null;
+var nLevel = null;
+var aryThisLink = null;
+var sBreadCrumbOnOff =""Off"";
+if (sBreadCrumbOnOff.length ==0) sBreadCrumbOnOff = ""Off"";
+if (sBreadCrumbOnOff.toLowerCase() == ""off"") return sOutputBreadcrumbNav;
+if ("""" == ""8"") return sOutputBreadcrumbNav;
+//alert(""BreadCrumbList is "" + BreadCrumbList);
+var sTemp = """";
+//Added variables to grab information for the current page
+var sCurrentPath = ""/buext/UnplacedPages/OH_JobWrapper"";
+var sCurrentPage = ""OpenHire Internal Page [do not delete]"";
+var arySubNav = unescape(BreadCrumbList);
+//arySubNav = arySubNav.split("""");
+arySubNav = arySubNav.split("";"");
+//sOutputBreadcrumbNav += ""<div id='breadcrumbs'>""
+var nLen = arySubNav.length;
+for(var i = 0; i < nLen; i++) {
+//aryThisLink = arySubNav[i].split("""");
+aryThisLink = arySubNav[i].split("","");
+sText = aryThisLink[0];
+sUrl = aryThisLink[1];
+sClass = (parseInt(aryThisLink[2])) ? ""_on"" : """";
+pageLevel = aryThisLink[3];
+sOutputBreadcrumbNav += ""<!-- breadcrumb trail -->"";
+// items
+var sIndex = sText.indexOf(""_subnav"");
+// sOutputBreadcrumbNav += sIndex;
+if(sText!=sTemp && sIndex < 0){ // added to prevent duplicates in list
+if (i<nLen-1) {
+//--- loop thru regular items
+//sOutputBreadcrumbNav += ""<a href='https://bucareers.silkroad.com/buext/UnplacedPages/OH_JobWrapper/"" + sUrl + ""'>"" + sText.toLowerCase() + ""</a> &gt; "";
+sOutputBreadcrumbNav += ""<a href='https://bucareers.silkroad.com/buext/UnplacedPages/OH_JobWrapper/"" + sUrl + ""'>"" + sText + ""&gt; </a>"";
+//check if page is a bodylink	
+} else if (i>=nLen-1 && sUrl!=sCurrentPath){
+//--write out last page in bc list
+sOutputBreadcrumbNav += ""<a href='https://bucareers.silkroad.com/buext/UnplacedPages/OH_JobWrapper/"" + sUrl + ""'>"" + sText + ""&gt; </a>"";
+//--- bl-last item
+sOutputBreadcrumbNav += ""<span class='breadcrumb_item"" + sClass + ""'>"" + sCurrentPage + ""</span>"";
+} else {
+//--- last item
+sOutputBreadcrumbNav += ""<span class='breadcrumb_item"" + sClass + ""'>"" + sText + ""</span>"";
+}
+sTemp = sText;
+}
+}
+sOutputBreadcrumbNav += ""<!-- end breadcrumb trail -->"";
+//sOutputBreadcrumbNav += ""</div>"";
+return sOutputBreadcrumbNav;
+}
+</script>
+
+			<meta property=""og:title"" content=""RESEARCH COMPUTING APPS &amp; DATA SPECIALIST III, Information Services &amp; Technology, Research Computing - BOSTON, Massachusetts, United States - Boston University"">
+			<meta property=""og:description"" content=""Lead the technical aspects of Research Computing services and service components related to consulting, training, scientific application package support, and the development, porting, and optimization of research computing software focused on comp..."">
+			<meta property=""og:type"" content=""website"">
+			<meta property=""og:url"" content=""https://bu.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&amp;jobid=314317&amp;version=1"">
+		<script type=""text/javascript"" src=""/javascript/fCountChar.js?v=f9f7d9dd9""></script>
+					<!-- OpenHire: 2024.29 -->
+					<link rel=""P3Pv1"" href=""/w3c/p3p.xml"">
+					<link rel=""stylesheet"" href=""/ats/themes/silkroad/jquery-ui.css?v=f9f7d9dd9"">
+					<link rel=""stylesheet"" href=""/uilib/assets/styles/uilib.css?v=f9f7d9dd9"">
+					<link rel=""stylesheet"" href=""/epostings/assets/styles/main.css?v=f9f7d9dd9"">
+					<!-- /epostings/assets/styles/app/jobinfo.css -->
+					
+					
+	
+					<script>var cacheBuster = ""f9f7d9dd9""; var timeoutSeconds = 3600; var timeoutWarningSeconds = 300; var displayTimeWarning = 0; var isCandidateLoggedIn = false; var companyId = 15509; var ep_version = 1;</script>
+					<script src=""/uilib/plugins/jquery/jquery.min.js?v=1.4.4""></script>
+					<script src=""/uilib/plugins/jquery/jquery-ui.min.js?v=1.8.12""></script>
+					<script src=""/uilib/plugins/jquery/i18n/jquery.ui.datepicker-en.js""></script>
+					<script src=""/uilib/assets/scripts/uilib.js?v=f9f7d9dd9""></script>
+					
+					<script src=""/epostings/assets/scripts/main.js?v=f9f7d9dd9""></script>
+					<!-- /epostings/assets/scripts/app/jobinfo.js -->
+					
+				<link rel=""stylesheet"" href=""https://fonts.googleapis.com/css?family=PT+Sans:400,700%7CVollkorn:400,700&amp;subset=latin,latin"" media=""all""><style type=""text/css"">#consent-popup {position: fixed;bottom: 0;left: 0;right: 0; padding: 2rem 2rem;background-color: #002F6D; color:#fff; transition: opacity 1s ease;	} #gotit { background-color: #F14D62;	color:#fff;}#consent-popup>p {	color: #fff;}#consent-popup >p>a#consent-readmore {	color: #FECA42;	background-color: transparent;	text-decoration: none; }#consent-popup.hidden { 	display: none; }</style></head>
+<body class=""yui-skin-sam"" id=""ps-body"">
+<div id=""page_container"">
+<header id=""main_header"">
+<div id=""box_header"">
+<script type=""text/javascript"">
+WebFontConfig = {
+google: { families: [ 'PT+Sans:400,700:latin' , 'Vollkorn:400,700:latin' ] }
+};
+(function() {
+var wf = document.createElement('script');
+wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+wf.type = 'text/javascript';
+wf.async = 'true';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(wf, s);
+})(); </script>
+<div id=""pslogo""><a href=""http://www.bu.edu/hr""><img src=""https://bucareers.silkroad.com/map_images/main/SiteGen/buext/Content/Uploads/Images/skin/logo.png"" border=""0""></a></div>
+</div>
+<nav id=""nav_main"" role=""navigation"">
+<a href=""https://bucareers.silkroad.com/buext/UnplacedPages/OH_JobWrapper/#nav_main"" title=""Show navigation"">Show navigation</a>
+<a href=""https://bucareers.silkroad.com/buext/UnplacedPages/OH_JobWrapper/#"" title=""Hide navigation"">Hide navigation</a>
+<ul id=""nav_main_list"">
+<li aria-haspopup=""true""><a href=""https://bucareers.silkroad.com/"" title=""Home"">Home</a></li><li aria-haspopup=""true""><a href=""https://bucareers.silkroad.com/buext/Back.html"" title=""Back to Careers"">Back to Careers</a></li>
+</ul>
+</nav>
+<nav id=""breadcrumbs"" role=""breadcrumb"">
+<script language=""JavaScript"">
+var sPageName = ""OH_JobWrapper"";
+if (sPageName.length !=0) sPageName = sPageName.toLowerCase();
+if(sPageName !=""home.html"")
+document.write(funcWriteBreadcrumbNav(""Home,/""));
+</script>
+</nav>
+</header>
+<div id=""body_container""> <!-- 0_Col -->
+<div id=""box_col_center_0_Col"">
+<div id=""dialog-confirm"" class=""ui-dialog"" title=""Session Timeout Approaching"">
+<p><span class=""ui-icon ui-icon-alert"" style=""float:left""></span>Your user session will timeout in 5 minutes. Please click OK to continue with your application.</p>
+</div>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+function URLReplacePlus(strIn) {
+var a = ""+"";
+var b = ""%43"";
+var c = strIn;
+var i = c.indexOf(a);
+var l = b.length;
+while (i != -1) { c = c.substring(0,i) + b + c.substring(i + a.length,c.length); i = c.indexOf(a,i); }
+return c;
+}
+function emailFriend()
+{
+var loc, coname, jobtitle;
+coname=document.applyjob.companyname.value;
+coname=URLReplacePlus(coname);
+coname=escape(coname);
+jobtitle=document.applyjob.job_title.value;
+jobtitle=URLReplacePlus(jobtitle);
+jobtitle=escape(jobtitle);
+var applyJob = document.getElementById(""applyJob"");
+var jobid = applyJob.jobid.value;
+var source = applyJob.source.value;
+var jobOwner = applyJob.JobOwner.value;
+var version = applyJob.version.value;
+var jobAttrib = ""jobid="" + jobid + ""&source="" + source + ""&jobOwner="" + jobOwner;
+loc = ""http://bu.silkroad.com/epostings/submit.cfm?fuseaction=app.mailform&company_id=15509&companyname=""+coname+""&job_title=""+jobtitle+""&version=1&server=bu.silkroad.com&mapping=/epostings/&showtemp=0&"" + jobAttrib;
+window.open(loc,""emform"",""resizable=yes,scrollbars=yes,width=650,height=400"");
+}
+/* ]]> */
+</script>
+<form id=""applyJob"" method=""post"" action=""index.cfm?fuseaction=app.presubmission"">
+<input type=""hidden"" name=""gotofuse"" value=""app.newsubmission"">
+<input type=""hidden"" name=""submissiontype"" value=""4"">
+<input type=""hidden"" name=""previewedit"" value=""1"">
+<input type=""hidden"" name=""altsource"" value=""0"">
+<input type=""hidden"" name=""jobid"" value=""314317"">
+<input type=""hidden"" name=""job_title"" value=""RESEARCH COMPUTING APPS &amp; DATA SPECIALIST III, Information Services &amp; Technology, Research Computing (24500400790716)"">
+<input type=""hidden"" name=""JobOwner"" value=""1018687"">
+<input type=""hidden"" name=""source"" value=""ONLINE"">
+<input type=""hidden"" name=""company_id"" value=""15509"">
+<input type=""hidden"" name=""companyname"" value=""Boston University"">
+<input type=""hidden"" name=""version"" value=""1"">
+<input type=""hidden"" name=""location_id"" value=""61012"">
+<input type=""hidden"" name=""resumetype"" value=""0"">
+<input type=""hidden"" name=""backaction"" value=""company_id=15509&amp;source=ONLINE&amp;version=1&amp;fuseaction=app.jobinfo&amp;level=levelid2&amp;JobOwner=1018687&amp;jobid=314317&amp;id=23&amp;levelid2=4269&amp;startflag=3"">
+<p id=""jobTitleDiv"" class=""cssDspJobTitle"">
+RESEARCH COMPUTING APPS &amp; DATA SPECIALIST III, Information Services &amp; Technology, Research Computing
+</p>
+<dl>
+<dt id=""trackCodeDiv"" class=""cssDspJobHead"">
+Tracking Code
+</dt>
+<dd id=""jobCodeDiv"" class=""cssDspJobBody"">
+24500400790716
+</dd>
+<dt id=""dspJobTxtDescDiv"" class=""cssDspJobHead"">
+Job Description
+</dt>
+<dd id=""jobDesciptionDiv"" class=""cssDspJobBody"">
+<p class=""p1"" style=""margin: 0in;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">Lead the technical aspects of Research Computing services and service components related to consulting, training, scientific application package support, and the development, porting, and optimization of research computing software focused on computational neuroscience, neuroimaging, neuro-engineering, and synthetic biology.&nbsp; Serve as the primary support contact for faculty and graduate students working in the above areas, particularly those located in the Rajen Kilachand Center for Integrated Life Sciences and Engineering, on complex projects and issues that require in-depth knowledge of the multiple technical areas, as well as the core computational research tools which they utilize. Work directly with faculty and other academic stakeholders to assess needs and recommend solutions as a representative of the Research Computing team. Coordinate with Desktop Support and other IS&amp;T groups to ensure the most efficient and effective solutions to researcher computing needs.</span></p>
+<p>&nbsp;</p>
+<p><span style=""font-family: georgia, palatino, serif; font-size: 10pt;""><em>Boston University offers an excellent benefits package including: </em></span></p>
+<ul>
+<li style=""font-family: georgia, palatino, serif; font-size: 10pt;""><span style=""font-family: georgia, palatino, serif; font-size: 10pt;"">Time Off: In addition to generous time off, BU employees have a paid intersession break, and 13 paid holidays.</span></li>
+<li style=""font-family: georgia, palatino, serif; font-size: 10pt;""><span style=""font-family: georgia, palatino, serif; font-size: 10pt;"">Retirement: University-funded retirement plan with full vesting after 2 years of eligible service.</span></li>
+<li style=""font-family: georgia, palatino, serif; font-size: 10pt;""><span style=""font-family: georgia, palatino, serif; font-size: 10pt;"">Tuition Assistance Program: Competitive tuition assistance program for yourself and family members.</span></li>
+<li style=""font-family: georgia, palatino, serif; font-size: 10pt;""><span style=""font-family: georgia, palatino, serif; font-size: 10pt;"">Transportation: BU offers a discounted MBTA pass as well as additional options to assist employees in their daily commute.</span></li>
+<li style=""font-family: georgia, palatino, serif; font-size: 10pt;""><span style=""font-family: georgia, palatino, serif; font-size: 10pt;"">Wellness: BU offers programs and classes at little or no cost, including workshops and personal counseling, please check out https://www.bu.edu/wellness/ for more information!</span></li>
+<li style=""font-family: georgia, palatino, serif; font-size: 10pt;""><span style=""font-family: georgia, palatino, serif; font-size: 10pt;"">Culture &amp; Community: BU also offers access to discounts or free admission to various city art/cultural institutes around Boston.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style=""font-family: georgia, palatino, serif; font-size: 10pt;"">Our mission is to provide best-in-class technology and data services to support outstanding education, groundbreaking research, effective administration, and a connected, secure community to Boston University, one of the largest private employers in Boston with almost 10,000 faculty and staff BU. IS&amp;T invests in our staff and their personal and professional growth. We promote staff learning including lunch and learn sessions, an extensive library of online courses, and opportunities to engage with peers at NERCOMP and EDUCAUSE events. Our Fun Advisory Board (FAB) arranges a number of events throughout the year; recent events included a night a Lucky Strikes Boston, karaoke night, BU hockey game, a night at Symphony Hall, pancake breakfast, and a department holiday lunch. If you require a reasonable accommodation in order to complete the employment application process, please contact the Equal Opportunity Office at 617-353-6474.</span></p>
+</dd>
+<dt id=""dspJobTxtReqSkillsDiv"" class=""cssDspJobHead"">
+Required Skills
+</dt>
+<dd id=""jobRequiredSkillsDiv"" class=""cssDspJobBody"">
+<p class=""p1"" style=""margin: 0in;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Graduate training in Engineering, Bioinformatics, Neuroscience, or a related technical field or an equivalent combination of education and experience required. Three to five years of relative work experience is preferred.</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Extensive knowledge of neuroimaging and computational neuroscience software packages such as Freesurfer, FSL, SPM, etc.</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Experience with fMRI analysis and constructing and optimizing analysis pipelines.</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Fluency in multiple programming languages (including MATLAB, R, and Python) and the ability to quickly learn new programming languages and tools as required</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Experience with command-line development tools in a Linux environment is desired</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Experience with the architecture, design, and implementation of the software and hardware computational frameworks for neuroimaging, including familiarity with XNAT/ DICOM file processing and NiFTI-1 file processing, is highly desirable</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Extensive experience with supporting life sciences research, including neuroscience and neuroimaging research</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Strong analytical skills are required, with an ability to manage multiple projects and deliverables</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;""><span style=""font-size: 10pt; font-family: georgia, palatino, serif; color: rgb(33, 33, 33);"">- Excellent communication and presentation skills, the ability to convey technical information in a clear and thorough manner</span></p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;"">&nbsp;</p>
+<p class=""p1"" style=""margin: 0in; caret-color: rgb(33, 33, 33); font-variant-caps: normal; orphans: auto; text-align: start; widows: auto; -webkit-text-stroke-width: 0px; word-spacing: 0px;"">&nbsp;</p>
+<p><span style=""font-family: georgia, palatino, serif; font-size: 10pt;""><em><span class=""TextRun SCXW13608234 BCX0"" lang=""EN-US"" xml:lang=""EN-US"" data-contrast=""auto""><span class=""NormalTextRun SCXW13608234 BCX0"">We</span><span class=""NormalTextRun SCXW13608234 BCX0""> are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, natural or protective hairstyle, religion, sex, age, national origin, physical or mental disability, sexual orientation, gender identity, genetic information, military service, </span><span class=""NormalTextRun SCXW13608234 BCX0"">pregnancy</span><span class=""NormalTextRun SCXW13608234 BCX0""> or pregnancy-related condition, or because of marital, parental, or veteran status. </span><span class=""NormalTextRun SCXW13608234 BCX0"">We are a VEVRAA Federal Contractor</span><span class=""NormalTextRun SCXW13608234 BCX0"">.</span></span><span class=""EOP SCXW13608234 BCX0"" data-ccp-props=""{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"">&nbsp;</span></em></span></p>
+</dd>
+<dt id=""dspJobTxtJobLocDiv"" class=""cssDspJobHead"">
+Job Location
+</dt>
+<dd id=""jobPositionLocationDiv"" class=""cssDspJobBody"">
+BOSTON, Massachusetts, United States
+</dd>
+<dt id=""dspJobTxtPosTypeDiv"" class=""cssDspJobHead"">
+Position Type
+</dt>
+<dd id=""translatedJobPostingTypeDiv"" class=""cssDspJobBody"">
+Full-Time/Regular
+</dd>
+</dl>
+<div class=""cssDspJobHead"">Salary Grade</div>
+<div class=""cssDspJobBody"">Grade 50</div>
+<div class=""footerActionBar"">
+<div id=""applyBubble"" class=""actionBubble"">
+<div class=""actionBubble-header"">
+<h4>
+Apply
+</h4>
+</div>
+<div class=""actionBubble-content"">
+<input type=""button"" class=""ui-form-field-button"" id=""newResumeButton"" value=""New Resume/CV"" onclick=""document.getElementById('applyJob').submit();"">
+<br>
+<br>
+<input type=""button"" class=""ui-form-field-button"" id=""existingResumeButton"" value=""Existing Resume/CV"" onclick=""window.location='submit.cfm?fuseaction=app.presubmission&amp;gotofuse=app.res_login&amp;id=23&amp;jobid=314317&amp;company_id=15509&amp;version=1&amp;jobowner=1018687&amp;aid=0&amp;fid=0&amp;bystate=0&amp;bylocation=NULL&amp;bycountry=0&amp;bycat=NULL&amp;keywords='"">
+</div>
+</div>
+</div>
+<div id=""backPageButton1Div"" class=""cssDspJobHead"">
+<a id=""returnLink"" href=""/epostings/index.cfm?fuseaction=app.welcome&amp;company_id=15509&amp;version=1&amp;byBusinessUnit=&amp;bycountry=0&amp;bystate=0&amp;bylocation=NULL&amp;keywords=&amp;byCat=NULL&amp;proximityCountry=&amp;postalCode=&amp;radiusDistance=&amp;isKilometers=&amp;tosearch=no&amp;startflag=0"">
+Return To Job Listings
+</a>
+<input type=""hidden"" name=""returnParm"" value=""/epostings/index.cfm?fuseaction=app.welcome&amp;company_id=15509&amp;version=1&amp;byBusinessUnit=&amp;bycountry=0&amp;bystate=0&amp;bylocation=NULL&amp;keywords=&amp;byCat=NULL&amp;proximityCountry=&amp;postalCode=&amp;radiusDistance=&amp;isKilometers=&amp;tosearch=no&amp;startflag=0"">
+</div>
+</form>
+<br>
+</div>
+</div>
+</div>
+<script type=""text/javascript"">
+function docReady(fn) {
+if (document.readyState === ""complete"" || document.readyState === ""interactive"") {
+setTimeout(fn, 1);
+} else {
+document.addEventListener(""DOMContentLoaded"", fn);
+}
+} 
+docReady(function() {
+var css = '#consent-popup {'
++'position: fixed;bottom: 0;left: 0;right: 0; padding: 2rem 2rem;'
++'background-color: #002F6D; color:#fff; transition: opacity 1s ease;	} '
++'#gotit { background-color: #F14D62;'	+'	color:#fff;'
++'}'
++'#consent-popup>p {'
++'	color: #fff;'
++'}'
++'#consent-popup >p>a#consent-readmore {'
++'	color: #FECA42;'
++'	background-color: transparent;'
++'	text-decoration: none;'
++' }'
++'#consent-popup.hidden { '
++'	display: none; '
++'}';
+var head = document.head || document.getElementsByTagName('head')[0];
+var style = document.createElement('style');
+head.appendChild(style);
+style.type = 'text/css';
+if (style.styleSheet){
+style.styleSheet.cssText = css;
+} else {
+style.appendChild(document.createTextNode(css));
+}
+var scriptTag = document.createElement('script');
+scriptTag.type = 'text/javascript'
+if (head.firstChild) {
+head.insertBefore(scriptTag, head.firstChild);
+}
+else {
+head.appendChild(scriptTag);
+}
+//head.appendChild(scriptTag);
+scriptTag.innerHTML = 'var locale = window.navigator.language.split(""-"")[0];'
++'var translations = {'	+'	en: {'	+'	consent: ""We use essential cookies to make our site work. For example, we use cookies to enable security and network management functionality. You may be presented with choices in parts of this application that allow you to consent to the use of additional cookies. You can read more about our use of cookies by clicking Read More. "",'	+'	readmore: ""Read More..."",'	+'	gotit: ""Got It""'	+'	},'	+'	es : {'	+'	consent: ""Usamos cookies esenciales para que nuestro sitio funcione. Por ejemplo, usamos cookies para habilitar la seguridad y la funcionalidad de administraci&oacute;n de red. Es posible que se le presenten opciones en partes de esta aplicaci&oacute;n que le permitan dar su consentimiento para el uso de cookies adicionales. Puede leer m&aacute;s sobre nuestro uso de cookies haciendo clic en Leer m&aacute;s. "",'	+'	readmore: ""Leer m&aacute;s..."",'	+'	gotit: ""Acepto""'	+'	},'	+'	fr : {'	+'	consent: ""Nous utilisons des cookies n&eacute;cessaires pour faire fonctionner notre site. Par exemple, nous utilisons des cookies pour activer les fonctionnalit&eacute;s de s&eacute;curit&eacute; et de gestion du r&eacute;seau. Des choix peuvent vous &ecirc;tre pr&eacute;sent&eacute;s dans certaines parties de cette application qui vous permettent de consentir &agrave; l\'utilisation de cookies suppl&eacute;mentaires. Vous pouvez en savoir plus sur notre utilisation de cookies en cliquant sur Lire la suite. "",'	+'	readmore: ""Lire la suite..."",'	+'	gotit: ""Accepter""'	+'	}'	+'};'
++'function getDomain(hostName) {'
++'	var domain = hostName;'
++'	if (hostName != null) {'
++'	var parts = hostName.split(""."").reverse();'
++'	if (parts != null && parts.length > 1) {'
++'	domain = parts[1] + ""."" + parts[0];'
++'	}'
++'	}'
++'	return domain;'
++'};'
++'function getItem(cname) {'
++'	let name = cname + ""="";'
++'	let decodedCookie = decodeURIComponent(document.cookie);'
++'	var ca = decodedCookie.split("";"");'
++'	for (let i = 0; i < ca.length; i++) {'
++'	var c = ca[i];'
++'	while (c.charAt(0) == "" "") {'
++'	c = c.substring(1);'
++'	}'
++'	if (c.indexOf(name) == 0) {'
++'	return c.substring(name.length, c.length);'
++'	}'
++'	}'
++'	return """";'
++'};'
++'function setItem(item, value) {'
++'	const domain = getDomain(window.location.hostname);'
++'	const daysToExpire = new Date(2147483647 * 1000).toUTCString();'
++'	document.cookie = item + ""=""+value+"";domain=""+domain+"";expires=""+daysToExpire+"";path=/"";'
++'}'
++'var consentPropertyName = ""srt_cookie_consent"";'
++'	function shouldShowPopup() {'
++'	return !getItem(consentPropertyName);'
++'};'
++'function decodeHtml(html) {'
++'	var txt = document.createElement(""textarea"");'
++'	txt.innerHTML = html;'
++'	txt.classList.add(""hidden"");'
++'	return txt.value;'
++'};'
++'function saveToStorage() {'
++'	setItem(consentPropertyName, true);'
++'}'
++'function gotitFn() {'
++'	const consentPopup = document.getElementById(""consent-popup"");'
++'	saveToStorage();'
++'	consentPopup.classList.add(""hidden"");'
++'};'
++'function removeHiddenClass() {'
++'	const consentPopup = document.getElementById(""consent-popup"");'
++'	consentPopup.classList.remove(""hidden"");'
++'};'
++'function setConsentCookie() {'
++'	var div = document.createElement(""div"");'
++'	div.id = ""consent-popup"";'
++'	div.innerHTML = \'<p>\' + decodeHtml(translations[locale][\'consent\']) + \' <a id=""consent-readmore"" href=""https://silkroadtechnology.com/privacy/"" target=""_blank"">\' + decodeHtml(translations[locale][\'readmore\']) + \'</a> <button id=""gotit"" type=""button"" onClick=""gotitFn()"">\' + translations[locale][\'gotit\'] + \'</button></p>\';'
++'	div.className = \'hidden\';'
++'	document.body.appendChild(div);'
++'	if (shouldShowPopup()) {'
++'	setTimeout(removeHiddenClass, 2000);'
++'	}'
++'};'
+setConsentCookie(); 
+});
+</script>
+<footer id=""box_footer"">
+<div id=""footer_extra"">
+</div>
+<div>
+<div id=""clearfix"">
+<!--<div class=""first"">
+<ul>
+<li>
+<a href=""https://bucareers.silkroad.com/hr/home/disclaimer/"">Disclaimer</a>
+</li>
+<li>
+<a href=""http://www.bu.edu/tech/services/security/services/incidents/copyright/"">Copyright</a>
+</li>
+<li>617-353-2380</li>
+<li>
+<a class=""linkedin"" href=""https://www.linkedin.com/company/boston-university"">LinkedIn</a>
+</li>
+</ul>
+</div>
+<div class=""second"">
+<p>
+Charles River Campus Offices
+<br>
+25 Buick Street
+<br>
+Boston, MA 02215
+</p>
+<p>
+<a class=""directions"" href=""http://www.bu.edu/maps/?id=211"">
+Get Directions
+<span>Google Maps</span>
+</a>
+</p>
+</div>
+<div class=""third"">
+<p>
+Medical Campus Offices
+<br>
+801 Massachusetts Avenue, Suite 400
+<br>
+Boston, MA 02119
+</p>
+<p>
+<a class=""directions"" href=""http://www.bu.edu/maps/?id=1880"">
+Get Directions
+<span>Google Maps</span>
+</a>
+</p>
+</div>-->
+<a href=""https://bucareers.silkroad.com/buext/SiteMap.html"">Site Map</a>
+©2024 Boston University
+</div>
+</div>
+</footer>
+<!--[if lt IE 8]>&nbsp;<![endif]--><!--THERE MUST BE SOMETHING HERE ELSE IE6 AND IE7 WILL IGNORE BOTTOM PAGE MARGIN-->
+<!-- NEW LEAF MENU ADMIN TOOLBAR START HERE -->
+<div id=""leafToolbar"" class=""leafToolbarStyle"">
+<span id=""toolbar_options"" style=""float:right; display:inline""></span>
+</div> 
+
+
+
+<script type=""text/javascript"">
+$(""document"").ready(function(){
+$(""#cookieSnackbar"").slideDown();
+$(""#CookieSnackbar_Accept"").click(function(){
+$.get( ""/epostings/?fuseaction=app.acceptcookies"" );
+$(""#cookieSnackbar"").slideUp(""fast"");
+});
+});
+</script>
+<div id=""consent-popup"" class=""""><p>We use essential cookies to make our site work. For example, we use cookies to enable security and network management functionality. You may be presented with choices in parts of this application that allow you to consent to the use of additional cookies. You can read more about our use of cookies by clicking Read More.  <a id=""consent-readmore"" href=""https://silkroadtechnology.com/privacy/"" target=""_blank"">Read More...</a> <button id=""gotit"" type=""button"" onclick=""gotitFn()"">Got It</button></p></div><div class=""ui-ajax ui-widget ui-corner-bl"" style=""display: none;"" id=""ajaxLoaderContainer""><span class=""ui-ajax-loader""></span><em>Loading...</em></div></body></html>"
