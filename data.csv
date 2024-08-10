@@ -22915,3 +22915,1266 @@ e)}return c}catch(m){f.log(""Tag"",""GA Preloader"",""mapToProduct error: ""+m,"
 (function(b,a,c,d,e){b=a.createElement(c);a=a.getElementsByTagName(c)[0];b.async=1;b.src=_jibeGtmSource.src[_jibeGtmSource.env]+d;a.parentNode.insertBefore(b,a)})(window,document,""script"",_jibeGtmSource.js[_jibeGtmSource.env]);delete _jibeGtmSource;</script>
 <script type=""text/javascript"" id="""" charset="""">function icims_waitForAndStoreJibeAnalyticsSessionDataToCookie(){var a=""icims_JibeSessionId"",b=""icims_JibeUserId"";if(window._jibe&&window._jibe.session){try{document.cookie=a+""\x3d""+window._jibe.session.id+"";SameSite\x3dStrict;Secure;path\x3d/""}catch(c){}try{document.cookie=b+""\x3d""+window._jibe.session.duid+"";SameSite\x3dStrict;Secure;path\x3d/""}catch(c){}document.dispatchEvent(new CustomEvent(""_jibeLoadedFromGTM""))}else setTimeout(function(){icims_waitForAndStoreJibeAnalyticsSessionDataToCookie()},
 100)}icims_waitForAndStoreJibeAnalyticsSessionDataToCookie();</script><div id=""fb-root"" class="" fb_reset""><div style=""position: absolute; top: -10000px; width: 0px; height: 0px;""><div></div></div></div></body></html>"
+2024-08-10 03:19:51,https://opportunities.columbia.edu/jobs/sr-research-systems-engineer-linux-manhattanville-new-york-united-states,"<html lang=""en-US""><head><style class=""vjs-styles-defaults"">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid:not(.vjs-audio-only-mode) {
+        padding-top: 56.25%
+      }
+    </style><style type=""text/css"">.turbo-progress-bar {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #0076ff;
+  z-index: 2147483647;
+  transition:
+    width 300ms ease-out,
+    opacity 150ms 150ms ease-in;
+  transform: translate3d(0, 0, 0);
+}
+</style>
+<title>Sr. Research Systems Engineer (Linux) - Manhattanville, New York, United States</title>
+<script type=""text/javascript"" id=""www-widgetapi-script"" src=""https://www.youtube.com/s/player/28fd7348/www-widgetapi.vflset/www-widgetapi.js"" async=""""></script><script src=""https://www.youtube.com/iframe_api""></script><script type=""importmap"" data-turbo-track=""reload"" nonce=""xRBs77lxNM4flVw3NlxLtA=="">{
+  ""imports"": {
+    ""bootstrap"": ""/assets/bootstrap5.bundle.min-3494b352.js"",
+    ""bootstrap4"": ""/assets/bootstrap4.bundle.min-d7959006.js"",
+    ""bootstrap3"": ""/assets/bootstrap3.min-1f4007be.js"",
+    ""popper"": ""/assets/popper-449549cf.js"",
+    ""@hotwired/stimulus"": ""/assets/stimulus.min-4b1e420e.js"",
+    ""@hotwired/stimulus-loading"": ""/assets/stimulus-loading-1fc53fe7.js"",
+    ""@hotwired/turbo-rails"": ""/assets/turbo.min-29118695.js"",
+    ""@rails/actioncable/src"": ""/assets/actioncable.esm-d6375855.js"",
+    ""video.js"": ""https://ga.jspm.io/npm:video.js@8.17.2/dist/video.es.js"",
+    ""@babel/runtime/helpers/extends"": ""https://ga.jspm.io/npm:@babel/runtime@7.25.0/helpers/esm/extends.js"",
+    ""@videojs/vhs-utils/es/byte-helpers"": ""https://ga.jspm.io/npm:@videojs/vhs-utils@4.1.1/es/byte-helpers.js"",
+    ""@videojs/vhs-utils/es/containers"": ""https://ga.jspm.io/npm:@videojs/vhs-utils@4.1.1/es/containers.js"",
+    ""@videojs/vhs-utils/es/decode-b64-to-uint8-array"": ""https://ga.jspm.io/npm:@videojs/vhs-utils@4.1.1/es/decode-b64-to-uint8-array.js"",
+    ""@videojs/vhs-utils/es/"": ""https://ga.jspm.io/npm:@videojs/vhs-utils@3.0.5/es/"",
+    ""@videojs/vhs-utils/es/id3-helpers"": ""https://ga.jspm.io/npm:@videojs/vhs-utils@4.1.1/es/id3-helpers.js"",
+    ""@videojs/vhs-utils/es/media-groups"": ""https://ga.jspm.io/npm:@videojs/vhs-utils@4.1.1/es/media-groups.js"",
+    ""@videojs/vhs-utils/es/resolve-url"": ""https://ga.jspm.io/npm:@videojs/vhs-utils@4.1.1/es/resolve-url.js"",
+    ""@videojs/xhr"": ""https://ga.jspm.io/npm:@videojs/xhr@2.7.0/lib/index.js"",
+    ""@xmldom/xmldom"": ""https://ga.jspm.io/npm:@xmldom/xmldom@0.8.10/lib/index.js"",
+    ""dom-walk"": ""https://ga.jspm.io/npm:dom-walk@0.1.2/index.js"",
+    ""global/document"": ""https://ga.jspm.io/npm:global@4.4.0/document.js"",
+    ""global/window"": ""https://ga.jspm.io/npm:global@4.4.0/window.js"",
+    ""is-function"": ""https://ga.jspm.io/npm:is-function@1.0.2/index.js"",
+    ""keycode"": ""https://ga.jspm.io/npm:keycode@2.2.1/index.js"",
+    ""m3u8-parser"": ""https://ga.jspm.io/npm:m3u8-parser@7.1.0/dist/m3u8-parser.es.js"",
+    ""min-document"": ""https://ga.jspm.io/npm:min-document@2.19.0/index.js"",
+    ""mpd-parser"": ""https://ga.jspm.io/npm:mpd-parser@1.3.0/dist/mpd-parser.es.js"",
+    ""mux.js/lib/tools/parse-sidx"": ""https://ga.jspm.io/npm:mux.js@7.0.3/lib/tools/parse-sidx.js"",
+    ""mux.js/lib/utils/clock"": ""https://ga.jspm.io/npm:mux.js@7.0.3/lib/utils/clock.js"",
+    ""safe-json-parse/tuple"": ""https://ga.jspm.io/npm:safe-json-parse@4.0.0/tuple.js"",
+    ""url-toolkit"": ""https://ga.jspm.io/npm:url-toolkit@2.2.5/src/url-toolkit.js"",
+    ""videojs-vtt.js"": ""https://ga.jspm.io/npm:videojs-vtt.js@0.15.5/lib/browser-index.js"",
+    ""videojs-youtube"": ""https://ga.jspm.io/npm:videojs-youtube@3.0.1/dist/Youtube.js"",
+    ""jquery"": ""/assets/jquery-50ed4c0e.js"",
+    ""rails-ujs"": ""https://ga.jspm.io/npm:rails-ujs@5.2.8-1/lib/assets/compiled/rails-ujs.js"",
+    ""urijs"": ""https://ga.jspm.io/npm:urijs@1.19.11/src/URI.js"",
+    ""js-cookie"": ""/assets/js-cookie-fd674fab.js"",
+    ""selectize"": ""/assets/selectize.min-39919ed8.js"",
+    ""intl-tel-input"": ""/assets/intl-tel-input-a312dce1.js"",
+    ""@googlemaps/markerclustererplus"": ""/assets/@googlemaps--markerclusterplus-f024e1ac.js"",
+    ""sifter"": ""/assets/sifter-f29b9961.js"",
+    ""microplugin"": ""/assets/microplugin-5e90f84f.js"",
+    ""local-time"": ""https://ga.jspm.io/npm:local-time@3.0.2/app/assets/javascripts/local-time.es2017-esm.js"",
+    ""public/apply_url"": ""/assets/public/apply_url-26c99f5a.js"",
+    ""public/beacons/abstract_beacon"": ""/assets/public/beacons/abstract_beacon-b08e92f4.js"",
+    ""public/beacons/abstract_view_beacon"": ""/assets/public/beacons/abstract_view_beacon-d4f27ea9.js"",
+    ""public/beacons/location_beacon"": ""/assets/public/beacons/location_beacon-cac23ae5.js"",
+    ""public/beacons/page_events_beacon"": ""/assets/public/beacons/page_events_beacon-0bc368ad.js"",
+    ""public/beacons/video_beacon"": ""/assets/public/beacons/video_beacon-54317864.js"",
+    ""public/beacons/view_beacon"": ""/assets/public/beacons/view_beacon-8d9cc5fa.js"",
+    ""public/boot"": ""/assets/public/boot-a1016b34.js"",
+    ""public/bootstrap5_hoisting"": ""/assets/public/bootstrap5_hoisting-95b6837c.js"",
+    ""public/bootstrap_wrapper"": ""/assets/public/bootstrap_wrapper-26a17bfe.js"",
+    ""public/candidate_populator"": ""/assets/public/candidate_populator-4c6fc16f.js"",
+    ""public/chatbot_initialisation"": ""/assets/public/chatbot_initialisation-8925c792.js"",
+    ""public/common_pages"": ""/assets/public/common_pages-74e6d0a0.js"",
+    ""public/controllers/application"": ""/assets/public/controllers/application-385a27bb.js"",
+    ""public/controllers/blocks/call_to_action_controller"": ""/assets/public/controllers/blocks/call_to_action_controller-e09de94f.js"",
+    ""public/controllers/blocks/candidate_favourite_controller"": ""/assets/public/controllers/blocks/candidate_favourite_controller-4d3a1507.js"",
+    ""public/controllers/blocks/carousel/video_block_controller"": ""/assets/public/controllers/blocks/carousel/video_block_controller-afb20fe4.js"",
+    ""public/controllers/blocks/google_map/map_controller"": ""/assets/public/controllers/blocks/google_map/map_controller-4650e31d.js"",
+    ""public/controllers/blocks/job_search_form_controller"": ""/assets/public/controllers/blocks/job_search_form_controller-15e9c9f6.js"",
+    ""public/controllers/blocks/jobs_controller"": ""/assets/public/controllers/blocks/jobs_controller-046289f4.js"",
+    ""public/controllers/blocks/linked_image_controller"": ""/assets/public/controllers/blocks/linked_image_controller-af416b1d.js"",
+    ""public/controllers/blocks/near_me_controller"": ""/assets/public/controllers/blocks/near_me_controller-b1e38038.js"",
+    ""public/controllers/candidate/sign_out_controller"": ""/assets/public/controllers/candidate/sign_out_controller-d674e9d3.js"",
+    ""public/controllers/chatbot_controller"": ""/assets/public/controllers/chatbot_controller-c9b4d4e9.js"",
+    ""public/controllers/exit_call_to_action_modal_controller"": ""/assets/public/controllers/exit_call_to_action_modal_controller-329c906b.js"",
+    ""public/controllers"": ""/assets/public/controllers/index-9d3b6133.js"",
+    ""public/controllers/init/explicit_consent_modal_controller"": ""/assets/public/controllers/init/explicit_consent_modal_controller-9e807233.js"",
+    ""public/controllers/init/implied_consent_controller"": ""/assets/public/controllers/init/implied_consent_controller-a1f5b31d.js"",
+    ""public/controllers/jobs/filter_controller"": ""/assets/public/controllers/jobs/filter_controller-b261d82e.js"",
+    ""public/controllers/jobs/search_controller"": ""/assets/public/controllers/jobs/search_controller-ca21e71e.js"",
+    ""public/controllers/jobs/table_results_controller"": ""/assets/public/controllers/jobs/table_results_controller-3c2152b2.js"",
+    ""public/controllers/kiosk_controller"": ""/assets/public/controllers/kiosk_controller-d511d8dc.js"",
+    ""public/controllers/manage_cookies_link_reloader_controller"": ""/assets/public/controllers/manage_cookies_link_reloader_controller-860dd65a.js"",
+    ""public/controllers/phone_validator_controller"": ""/assets/public/controllers/phone_validator_controller-8c54de77.js"",
+    ""public/controllers/signin_linkedin_controller"": ""/assets/public/controllers/signin_linkedin_controller-25bae512.js"",
+    ""public/controllers/stream_invoker_controller"": ""/assets/public/controllers/stream_invoker_controller-2228a793.js"",
+    ""public/controllers/tracking_controller"": ""/assets/public/controllers/tracking_controller-9ce93909.js"",
+    ""public/cookie_check"": ""/assets/public/cookie_check-a394f634.js"",
+    ""public/cookie_utils"": ""/assets/public/cookie_utils-a7b19574.js"",
+    ""public/cookie_utils_old"": ""/assets/public/cookie_utils_old-7bbfcbac.js"",
+    ""public/cookies"": ""/assets/public/cookies-ad90af97.js"",
+    ""public/document_variables"": ""/assets/public/document_variables-04d19bbf.js"",
+    ""public/easy-autocomplete"": ""/assets/public/easy-autocomplete-66f05834.js"",
+    ""public/explicit_consent_modal_launcher"": ""/assets/public/explicit_consent_modal_launcher-d0d696ca.js"",
+    ""public/fixed_layout"": ""/assets/public/fixed_layout-5ba7f18c.js"",
+    ""public/form_submission_redirection_helper"": ""/assets/public/form_submission_redirection_helper-663f04d0.js"",
+    ""public/greenhouse_job_questions"": ""/assets/public/greenhouse_job_questions-3e453b46.js"",
+    ""public/job_questions"": ""/assets/public/job_questions-a5f76f5e.js"",
+    ""public/local_time"": ""/assets/public/local_time-2153e464.js"",
+    ""public/log_requests"": ""/assets/public/log_requests-4c491138.js"",
+    ""public/page_init_utils"": ""/assets/public/page_init_utils-1f218889.js"",
+    ""public/page_initialisation"": ""/assets/public/page_initialisation-7b54186b.js"",
+    ""public/pages_bs3_im"": ""/assets/public/pages_bs3_im-0fa7c52f.js"",
+    ""public/pages_bs4_im"": ""/assets/public/pages_bs4_im-2d740f84.js"",
+    ""public/pages_bs5_im"": ""/assets/public/pages_bs5_im-e2a948e5.js"",
+    ""public/post_search_control"": ""/assets/public/post_search_control-492b84c4.js"",
+    ""public/public"": ""/assets/public/public-d4e7d8b4.js"",
+    ""public/rails"": ""/assets/public/rails-e78178d6.js"",
+    ""public/search_control"": ""/assets/public/search_control-ab4253d8.js"",
+    ""public/third_party_libraries"": ""/assets/public/third_party_libraries-520f2c03.js"",
+    ""public/track_video"": ""/assets/public/track_video-93ad47ca.js"",
+    ""public/track_view"": ""/assets/public/track_view-ebdb83cc.js"",
+    ""public/turbo"": ""/assets/public/turbo-d7cf07f6.js"",
+    ""public/uri"": ""/assets/public/uri-d111543a.js"",
+    ""public/url_utils"": ""/assets/public/url_utils-604f5312.js"",
+    ""public/videojs"": ""/assets/public/videojs-4ccfd84d.js"",
+    ""public/videojsandyoutube"": ""/assets/public/videojsandyoutube-35c7a836.js"",
+    ""common/controllers/base_controller"": ""/assets/common/controllers/base_controller-6dcafa6e.js"",
+    ""common/controllers/base_phone_validator_controller"": ""/assets/common/controllers/base_phone_validator_controller-4aec6fb6.js"",
+    ""common/fetch_utils"": ""/assets/common/fetch_utils-e7bde16d.js"",
+    ""common/google_maps"": ""/assets/common/google_maps-7911cd4a.js"",
+    ""common/jquery_hoisting"": ""/assets/common/jquery_hoisting-40c1f769.js"",
+    ""common/namespace_jquery"": ""/assets/common/namespace_jquery-7bdd2a5d.js"",
+    ""common/ready"": ""/assets/common/ready-da958d74.js"",
+    ""common/storage"": ""/assets/common/storage-2a93f1c2.js""
+  }
+}</script>
+<link rel=""modulepreload"" href=""/assets/stimulus.min-4b1e420e.js"" nonce=""xRBs77lxNM4flVw3NlxLtA=="">
+<link rel=""modulepreload"" href=""/assets/stimulus-loading-1fc53fe7.js"" nonce=""xRBs77lxNM4flVw3NlxLtA=="">
+<script src=""/assets/es-module-shims.min-295257ea.js"" async=""async"" data-turbo-track=""reload"" nonce=""xRBs77lxNM4flVw3NlxLtA==""></script>
+<script type=""module"" nonce=""xRBs77lxNM4flVw3NlxLtA=="">import ""public/pages_bs5_im""</script>
+  <script type=""module"" nonce=""xRBs77lxNM4flVw3NlxLtA=="">import ""public/videojsandyoutube""</script>
+
+
+<meta name=""turbo-cache-control"" content=""no-cache"">
+
+<meta name=""csrf-param"" content=""authenticity_token"">
+<meta name=""csrf-token"" content=""7I_mDP17Cw8Fpsa6QGBLzUEeys20FkkbflFk7p_eUHoiSWPMo0JmIjbg8DaQfZlMlF3vL1AgW9PwRmV-JyERCw"">
+
+
+
+<link rel=""alternate"" hreflang=""en-us"" href=""https://opportunities.columbia.edu/jobs/sr-research-systems-engineer-linux-manhattanville-new-york-united-states"">   
+
+
+
+  <meta charset=""utf-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+
+    <meta name=""description"" content=""Job Type: Officer of Administration
+Regular/Temporary: Regular
+Hours Per Week: 35
+Salary Range: $100,000 - $125,000
+
+The salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.
+
+Position Summary
+Reporting to the Manager, High Performance Computing; the Sr. Research Systems Engineer participates in the design, development, implementation, and operations of Columbia’s portfolio of high-performance computing services.&nbsp;..."" id=""meta_tag_description"">
+        <meta name=""twitter:creator"" property=""twitter:creator"" content="""" id=""meta_tag_twitter_creator"">
+        <meta name=""twitter:site"" property=""twitter:site"" content="""" id=""meta_tag_twitter_site"">
+        <meta name=""twitter:card"" property=""twitter:card"" content=""gallery"" id=""meta_tag_twitter_card"">
+        <meta name=""og:title"" property=""og:title"" content=""Sr. Research Systems Engineer (Linux) - Manhattanville, New York, United States"" id=""meta_tag_og_title"">
+        <meta name=""og:description"" property=""og:description"" content=""Job Type: Officer of Administration
+Regular/Temporary: Regular
+Hours Per Week: 35
+Salary Range: $100,000 - $125,000
+
+The salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.
+
+Position Summary
+Reporting to the Manager, High Performance Computing; the Sr. Research Systems Engineer participates in the design, development, implementation, and operations of Columbia’s portfolio of high-performance computing services.&nbsp;..."" id=""meta_tag_og_description"">
+        <meta name=""og:url"" property=""og:url"" content=""https://opportunities.columbia.edu/jobs/sr-research-systems-engineer-linux-manhattanville-new-york-united-states"" id=""meta_tag_og_url"">
+        <meta name=""twitter:image0:src"" property=""twitter:image0:src"" content=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/66ff43ab6fda1477f2b8398ad4850075/large/Cu_Rocks.jpg?1666584098"" id=""meta_tag_twitter_image0_src"">
+        <meta name=""twitter:image1:src"" property=""twitter:image1:src"" content=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/c84c2c51de33eceb70c6d9a59bfa8e19/large/lamont_door.jpg?1666585109"" id=""meta_tag_twitter_image1_src"">
+        <meta name=""twitter:image2:src"" property=""twitter:image2:src"" content=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/9631a8d6507796c681366babc97c7ccb/large/1920x342.jpg?1666584153"" id=""meta_tag_twitter_image2_src"">
+          <meta name=""og:image"" property=""og:image"" content=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/66ff43ab6fda1477f2b8398ad4850075/large/Cu_Rocks.jpg?1666584098"">
+          <meta name=""og:image"" property=""og:image"" content=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/c84c2c51de33eceb70c6d9a59bfa8e19/large/lamont_door.jpg?1666585109"">
+          <meta name=""og:image"" property=""og:image"" content=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/9631a8d6507796c681366babc97c7ccb/large/1920x342.jpg?1666584153"">
+
+  <link rel=""stylesheet"" href=""https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/fontawesome.css"">
+<link rel=""stylesheet"" href=""https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/solid.css"">
+<link rel=""stylesheet"" href=""https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/brands.css"">
+<link rel=""stylesheet"" href=""https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/regular.css"">
+<link rel=""stylesheet"" href=""https://ga.jspm.io/npm:@fortawesome/fontawesome-free@6.4.2/css/v4-shims.css"">
+
+  <link rel=""stylesheet"" href=""/assets/public/pages_bs5-8ecba7c8.css"" media=""all"">
+<link rel=""stylesheet"" href=""/assets/public/themes/modern_bs5-653b06c0.css"" media=""all"">
+<link rel=""stylesheet"" href=""/assets/public/chatbot-699ae805.css"" media=""all"">
+  <link rel=""icon"" type=""image/x-icon"" href=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/companies/favicons/de5c5e196bc2fb8b8ba55c158b2dd8de/basic/favicon-crown.png?1660645281"">
+
+<link rel=""stylesheet"" href=""/themes/eac7a049a9da20115b64a13e75f1b175/branded_stylesheet/branded_stylesheet-1720806432.css"" id=""branded_style"">
+<link rel=""stylesheet"" href=""/themes/eac7a049a9da20115b64a13e75f1b175/custom_stylesheet/custom_stylesheet-1720806432.css"" id=""custom_css"">
+<script src=""https://583ec472ee7d.edge.sdk.awswaf.com/583ec472ee7d/ff2b87c263f8/challenge.js"" defer=""defer""></script>
+<!-- default jquery is available here <script src=""https://d3ooc9jud7priz.cloudfront.net/static-assets/jquery/jquery-3.4.1.min.js""></script> -->
+<style type=""text/css"">.vjs-youtube .vjs-iframe-blocker { display: none; }.vjs-youtube.vjs-user-inactive .vjs-iframe-blocker { display: block; }.vjs-youtube .vjs-poster { background-size: cover; }.vjs-youtube-mobile .vjs-big-play-button { display: none; }</style></head>
+<body data-controller=""tracking kiosk candidate--populator manage-cookies-link-reloader"" class=""tracking-active modal-open"" style=""overflow: hidden; padding-right: 15px;"">
+<!-- custom headers and menus -->
+<div class=""header-text d-none d-md-block "">
+<div class=""container"">
+      <div class=""row"">
+      <div class=""col-10"">
+  <p><a href=""https://www.columbia.edu/"">COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</a></p>
+      </div>
+        <div class=""col-2"">
+<a class=""search-icon"" href=""/jobs/search""><i class=""fa-solid fa-magnifying-glass""></i></a>
+        </div>
+</div>
+</div>
+</div>
+<nav class=""navbar navbar1 navbar-expand-lg navbar-light navbar-main"">
+  <div class=""container"">
+    <div class=""nav-text""><a href=""https://careers.columbia.edu/""><p>Careers at Columbia</p></a></div> <button aria-controls=""navbarToggler"" aria-expanded=""false"" aria-label=""Toggle navigation"" class=""navbar-toggler"" data-bs-target=""#navbarToggler"" data-bs-toggle=""collapse"" type=""button""><span class=""navbar-toggler-icon""></span></button>
+    <div class=""collapse navbar-collapse"" id=""navbarToggler"">
+      <ul class=""navbar-nav ml-auto"">
+        <li class=""nav-item"">
+          <a class=""nav-link"" href=""/job-alerts"">Sign up for staff job alerts</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<nav class="" navbar navbar2 navbar-expand-lg navbar-light navbar-main"">
+  <div class=""container"">
+    <div class=""collapse navbar-collapse"" id=""navbarToggler"">
+      <ul class=""navbar-nav ms-start"">
+        <li class=""nav-item"">
+          <a class=""nav-link"" href=""/home"">Home</a>
+        </li>
+        <li class=""nav-item"">
+          <a class=""nav-link"" href=""/jobs/search"">Search all jobs</a>
+        </li>
+        <li class=""nav-item dropdown"">
+          <a aria-expanded=""false"" class=""nav-link dropdown-toggle"" data-bs-toggle=""dropdown"" href=""#"" id=""navbarDropdown"" role=""button"">Featured Career Areas</a>
+          <ul aria-labelledby=""navbarDropdown"" class=""dropdown-menu"">
+            <li>
+              <a class=""dropdown-item"" href=""/development"">Alumni Relations &amp; Development</a>
+            </li>
+            <li>
+              <a class=""dropdown-item"" href=""/facilities-and-operations"">Facilities and Operations</a>
+            </li>
+            <li>
+              <a class=""dropdown-item"" href=""/healthcare"">Healthcare</a>
+            </li>
+            <li>
+              <a class=""dropdown-item"" href=""/information-technology"">Information technology</a>
+            </li>
+          </ul>
+          </li><li class=""nav-item"">
+          <a class=""nav-link"" href=""/temporary-opportunities"">Temporary Opportunities</a>
+        </li>
+        
+        <li class=""nav-item"">
+          <a class=""nav-link"" href=""https://secure.dc4.pageuppeople.com/apply/884/cw/applicationForm/"">My application</a>
+        </li>
+      	<li class=""nav-item"">
+		 
+			<span><a class=""nav-link"" href=""/me/settings""><i class=""fas fa-cog""></i> My Profile</a></span> 
+			
+		</li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  <div id=""kiosk_mode_active"" class=""alert alert-success visible-in-kiosk-mode"" role=""alert"">Kiosk mode</div>
+
+<div class=""page-body page not-editing"">
+  <script id=""js_variables"" nonce=""xRBs77lxNM4flVw3NlxLtA=="">
+//<![CDATA[
+window.js_vars={};js_vars.priority_country_codes=[""US"",""GB"",""AU"",""IE""];js_vars.cta_redirection_target=""_blank"";js_vars.company={""uid"":""de5c5e196bc2fb8b8ba55c158b2dd8de""};js_vars.page={""uid"":""d88e5f5c5b0ccfe750dd5490d6d35840""};js_vars.i18n={""enable_cookies"":""We've detected that your browser cookies are disabled. Please enable your cookies to use this website"",""form_error"":""Sorry! There was a problem sending this form""};js_vars.configuration={""field_mapping_names"":[""string_field_1"",""string_field_2"",""string_field_3"",""string_field_4"",""string_field_5"",""string_field_6"",""string_field_7"",""string_field_8"",""string_field_9"",""string_field_10"",""dropdown_field_1"",""dropdown_field_2"",""dropdown_field_3"",""dropdown_field_4"",""dropdown_field_5"",""dropdown_field_6"",""dropdown_field_7"",""dropdown_field_8"",""dropdown_field_9"",""dropdown_field_10"",""dropdown_field_11"",""dropdown_field_12"",""dropdown_field_13"",""dropdown_field_14"",""dropdown_field_15""]};js_vars.migrate_cookie={""active"":false,""from_domain"":null};js_vars.heatmap_tracking={""active"":true,""links"":{""create"":{""url"":""/api/v1/public/page_event_sequences.json""}}};js_vars.ct={""active"":true,""links"":{""create"":{""url"":""/api/v1/public/candidate_events.json""}}};js_vars.bot=false;js_vars.job={""uid"":""61bbbb129903178c0ace23d7738b1d81""};js_vars.links={""meta_data"":{""url"":""/me/candidates/meta_data?company_id=de5c5e196bc2fb8b8ba55c158b2dd8de&page_id=d88e5f5c5b0ccfe750dd5490d6d35840"",""method"":""GET"",""format"":""json""},""consent"":{""url"":""/me/candidates/consent?company_id=de5c5e196bc2fb8b8ba55c158b2dd8de"",""method"":""GET"",""format"":""json""},""location"":{""url"":""/me/candidates/location"",""method"":""POST"",""format"":""json""},""country_code"":{""url"":""/me/candidates/countries"",""method"":""GET"",""format"":""json""},""job_search"":{""url"":""https://opportunities.columbia.edu/jobs/search""}};js_vars.nonce=""xRBs77lxNM4flVw3NlxLtA=="";js_vars.third_party_libraries={};
+//]]>
+</script>
+  
+  <div class=""page-rows"">
+    <div class=""page-row  height-300  "" id=""page_row_0"">
+      <div class=""page-row-inner"">
+        <div class=""container-fluid page-row-container"">
+          <div class=""page-row-and-new-button"">
+            <div class=""row page-row-border"">
+              
+              <div class=""col-md-12"">
+      <div class=""block-wrapper "" data-uid=""79d5f974ff9b0e263afdc054b175b86f"">
+      <div class=""block-image"">
+  
+    <div style=""background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/9631a8d6507796c681366babc97c7ccb/large/1920x342.jpg?1666584153');background-position: 50% 50%"" class=""page-block block-image-cover "" id=""page_block_0_0"" data-open-newtab=""false"" data-controller="""" data-action=""click->blocks--linked-image#click keydown.enter->blocks--linked-image#click"" tabindex=""0"">
+  <span class=""on-page-invisible-image"">
+    <img alt=""Parliament, Office Building, Building, Architecture, Urban, Postal Office, Grass, Plant, City, Town"" loading=""lazy"" src=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/images/files/9631a8d6507796c681366babc97c7ccb/large/1920x342.jpg?1666584153"">
+  </span>
+  <div class=""block-image-text"" id=""block_image_text_0_0"" role=""presentation"">
+    <h1 style=""text-align:center;""><span class=""editor-placeholder"">Sr. Research Systems Engineer (Linux)</span></h1>
+<h1 style=""text-align:center;""><span class=""editor-placeholder"">Columbia University Information Technology</span></h1>
+  </div>
+</div>
+</div>
+
+    </div>
+  
+
+</div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=""page-row p-t-30 p-b-30  row-background-brand_color_1 "" id=""page_row_1"">
+      <div class=""page-row-inner"">
+        <div class=""container page-row-container"">
+          <div class=""page-row-and-new-button"">
+            <div class=""row page-row-border"">
+              
+              <div class=""col-md-12"">
+      <div class=""block-wrapper "" data-uid=""2fd0df2f3062d5fb1a05d9c3241c5543"">
+      <div class=""block-job-search-form"" data-controller=""blocks--job-search-form"" data-blocks--job-search-form-autocomplete-categories-value=""[{&quot;listLocation&quot;:&quot;jobs&quot;,&quot;header&quot;:&quot;Jobs&quot;},{&quot;listLocation&quot;:&quot;categories&quot;,&quot;header&quot;:&quot;Categories&quot;},{&quot;listLocation&quot;:&quot;departments&quot;,&quot;header&quot;:&quot;Departments&quot;},{&quot;listLocation&quot;:&quot;cities&quot;,&quot;header&quot;:&quot;Cities&quot;}]"">
+  
+  <div class=""page-block"" id=""page_block_1_0"">
+    <div class=""row"">
+  <div class=""col-md-12 block-content"">
+    
+  </div>
+</div>
+    <form data-action=""blocks--job-search-form#submit"" action=""https://opportunities.columbia.edu/jobs/search"" accept-charset=""UTF-8"" method=""get"">
+      <div class=""job-search-control"">
+  <div class=""row"">
+    <div class=""col"">
+      <label class=""ada-label"" for=""search_control_query_1_0"">Search by job title, location, department, category, etc.</label>
+      <div class=""input-group"">
+        <div class=""easy-autocomplete form-control form-control-sm fix-autocomplete"" style=""width: 509px;""><input type=""text"" name=""query"" id=""search_control_query_1_0"" class=""form-control historical"" maxlength=""100"" placeholder=""Search by job title, location, department, category, etc."" autocomplete=""off"" data-autocomplete-enabled=""true"" data-autocomplete-url=""/jobs/search_preview?block_id=2fd0df2f3062d5fb1a05d9c3241c5543&amp;page_id=d88e5f5c5b0ccfe750dd5490d6d35840""><div class=""easy-autocomplete-container"" id=""eac-container-search_control_query_1_0""><ul></ul></div></div>
+        <span class=""input-group-btn"">
+          <button name=""button"" type=""submit"" class=""btn btn-primary"" id=""search_control_button_1_0"">Search</button>
+        </span>
+          <span class=""input-group-btn"">
+            <span class=""near-me-control"">
+              <button name=""button"" type=""button"" class=""btn btn-success near-me-btn"" id=""near_me_button_1_0"" data-controller=""blocks--near-me"" data-action=""blocks--near-me#trackLocation"" data-blocks--near-me-trackable-value=""false"">Jobs Near Me</button>
+            </span>
+          </span>
+      </div>
+    </div>
+  </div>
+</div>
+</form>  </div>
+</div>
+    </div>
+  
+
+</div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=""page-row p-t-30 p-b-0 job-page-job-container  "" id=""page_row_2"">
+      <div class=""page-row-inner"">
+        <div class=""container page-row-container"">
+          <div class=""page-row-and-new-button"">
+            <div class=""row page-row-border"">
+              
+              <div class=""col-md-8"">
+      <div class=""block-wrapper "" data-uid=""70d097e864f6107d92589ca965578d46"">
+      <div class=""block-job-description"">
+  <div class="""">
+    
+      <div class=""page-block"" id=""page_block_2_0"">
+        <h3 class=""job-title"" id=""job_title_2_0"">
+          Sr. Research Systems Engineer (Linux)
+        </h3>
+        <div class=""job-component-details job-component-details-61bbbb129903178c0ace23d7738b1d81"">
+  <div class=""job-component-list"">
+    <ul>
+        <li class=""job-component-icon-and-text job-component-requisition-identifier"">
+    <i class=""fas fa-passport"" aria-hidden=""true""></i>
+    <span id=""requisition_identifier_2_0_0"">
+      545447
+</span></li>
+      
+      
+    </ul>
+  </div>
+  <div class=""job-component-list job-component-list-location"">
+  <ul>
+        <li class=""job-component-icon-and-text job-component-location"">
+    <i class=""fas fa-location-arrow"" aria-hidden=""true""></i>
+    <span id=""location_2_0_0_0"">
+      Manhattanville
+</span></li>
+  </ul>
+</div>
+
+  
+  <div class=""job-component-list job-component-list-department"">
+  <ul>
+        <li class=""job-component-icon-and-text job-component-department"">
+    <i class=""fas fa-user-friends"" aria-hidden=""true""></i>
+    <span id=""department_2_0_0_0"">
+      Columbia University Information Technology
+</span></li>
+  </ul>
+</div>
+
+  
+  
+  <div class=""job-component-list job-component-list-employment_type"">
+  <ul>
+        <li class=""job-component-icon-and-text job-component-employment-type"">
+    <i class=""far fa-clock"" aria-hidden=""true""></i>
+    <span id=""employment_type_2_0_0_0"">
+      Full Time
+</span></li>
+  </ul>
+</div>
+
+  <div class=""job-component-list"">
+    <ul>
+      
+        <li class=""job-component-icon-and-text job-component-opening-on"">
+    <i class=""fas fa-calendar-day"" aria-hidden=""true""></i>
+    <span id=""opening_on_2_0_0"">
+      Opening on: Aug 5 2024
+</span></li>
+      
+      
+    </ul>
+  </div>
+  
+  
+  <div class=""job-component-list"">
+    <ul>
+    </ul>
+  </div>
+  
+  <div class=""job-component-list"">
+    <ul>
+      
+    </ul>
+  </div>
+  <div class=""job-component-list"">
+    <ul>
+          <li class=""job-component-icon-and-text job-component-dropdown-field-1"">
+    <i class=""fas fa-asterisk"" aria-hidden=""true""></i>
+    <span id=""dropdown_field_1_2_0_0"">
+      Grade 13
+</span></li>
+    </ul>
+  </div>
+</div>
+        <div class=""job-description-controls hide-when-tracking-inactive"">
+            <a id=""link_candidate_favourite_2_0"" class=""btn btn-primary candidate-favourite d-none"" data-candidate-favourite-source-uid=""61bbbb129903178c0ace23d7738b1d81"" data-controller=""blocks--candidate-favourite"" data-action=""blocks--candidate-favourite#toggle"" data-link-favourite-url=""https://opportunities.columbia.edu/me/jobs/61bbbb129903178c0ace23d7738b1d81/favourites.json"" data-link-unfavourite-url=""https://opportunities.columbia.edu/me/jobs/61bbbb129903178c0ace23d7738b1d81/favourites.json"" style="""" href="""" data-stimulus=""connected"">
+              <span class=""favourites-button-text"">
+                <i class=""fa fa-star add-to-favourites-text""></i>
+                <span class=""add-to-favourites-text"">Add to favorites</span>
+                <i class=""fa fa-check favourited-text""></i>
+                <span class=""favourited-text"">Favorited</span>
+              </span>
+</a>            <a id=""link_view_favourites_2_0"" class=""btn btn-primary view-favourites d-none"" href=""/me/settings"">
+              <i class=""fa fa-cog""></i>
+              View favorites
+</a>        </div>
+
+
+
+        <div class=""job-description"" id=""job_description_2_0"">
+          <ul class=""job-attributes"">
+<li>Job Type: Officer of Administration</li>
+<li>Regular/Temporary: Regular</li>
+<li>Hours Per Week: 35</li>
+<li>Salary Range: $100,000 - $125,000</li>
+</ul>
+<div><em>The salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.</em></div>
+<hr>
+<p>Position Summary</p>
+<p>Reporting to the Manager, High Performance Computing; the Sr. Research Systems Engineer participates in the design, development, implementation, and operations of Columbia’s portfolio of high-performance computing services.&nbsp; The position collaborates with other CUIT technical teams and Columbia researchers to support research computing resources, including but not limited to high-performance computing (HPC) clusters, ensuring user requirements are met and planning ongoing improvements and modifications to these systems and services.</p>
+<hr>
+<p>Responsibilities</p>
+<ul>
+<li>Takes a primary role in the planning and design of research computing services.</li>
+<li>Investigates new and emerging technologies, evaluating usefulness to Columbia researchers and making recommendations for future services.</li>
+<li>Interacts with Columbia researchers on various topics, including (but not limited to) the use of existing services, service policies, and research requirements.</li>
+<li>Takes a primary role in HPC system troubleshooting including coordinating with users, vendors, and other CUIT departments to resolve system problems.</li>
+<li>Manage storage systems.</li>
+<li>Resolves incidents and service requests.&nbsp;</li>
+<li>Administration of systems in the research computing infrastructure, including the installation and management of configuration, monitoring, and notification tools, as well as basic network administration.&nbsp;</li>
+<li>Assists in the creation and maintenance of user documentation.</li>
+<li>Interacts with vendors, assessing products and making purchasing recommendations.</li>
+<li>All other duties as assigned.</li>
+</ul>
+<hr>
+<p>Minimum Qualifications</p>
+<ul>
+<li>Bachelor’s degree or equivalent experience required.</li>
+<li>Minimum 4-6 years’ related experience.</li>
+<li>4 years of Linux/Unix experience.</li>
+<li>Prior experience in programming, software development, or system administration.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Demonstrated ability to work in a fast-paced, deadline-driven environment.</li>
+<li>Demonstrated excellence in a variety of competencies including teamwork/collaboration, analytical thinking, communication and influencing skills, and technical expertise.</li>
+<li>Ability to work with changing priorities and with multiple projects.</li>
+<li>Ability to be precise and attentive to detail is essential.</li>
+<li>Ability to work with minimal supervision.</li>
+<li>Ability to work weekends and off-hour work on occasion.</li>
+</ul>
+<hr>
+<p>Preferred Qualifications</p>
+<p>The following qualifications are not requirements, but highly advantageous.&nbsp; We will provide on-the-job training in High Performance Computing (HPC) and related topics to individuals who are otherwise skilled and motivated.</p>
+<ul>
+<li>Experience with Linux system administration, particularly Red Hat (7, 8).</li>
+<li>Experience with SLURM or other workload management services.</li>
+<li>Experience with Bright (Base Command Manager), OpenHPC, SGE, Confluent, or other clusterware.</li>
+<li>Knowledge of GPFS, Lustre, ZFS, NFS, or other network or parallel file systems.</li>
+<li>Familiarity with Ansible, Puppet, or other Linux configuration management tools.</li>
+<li>Familiarity with other HPC components, such as Infiniband network and GPU.</li>
+<li>Experience with Shell scripting and Python.</li>
+<li>Experience with version control systems, such as Git, and monitoring tools like Grafana or Nagios.</li>
+<li>Familiarity with HPC programming technologies (such as MPI, OpenMP, or CUDA).</li>
+<li>Familiarity with other HPC technologies (such as Infiniband, or GPU, and DDN appliance).</li>
+<li>Familiarity with JupyterHub.</li>
+<li>Familiarity with standard programming languages (such as C, C++, Fortran, or Java).</li>
+<li>Knowledge of TCP/IP.</li>
+<li>Familiarity with statistical tools (such as R) or mathematical tools (such as Matlab).</li>
+<li>Knowledge of technology, applications, and interfaces designed to support research, such as Globus.</li>
+</ul>
+<hr>
+<p>Equal Opportunity Employer / Disability / Veteran</p>
+<p>Columbia University is committed to the hiring of qualified local residents.</p>
+        </div>
+
+      </div>
+  </div>
+</div>
+
+    </div>
+  
+
+  
+  
+  
+</div>
+<div class=""col-md-4"">
+      <div class=""block-wrapper sidebar"" data-uid=""a30ead8352b23ac2ce5b9f7d33a45dd1"">
+      <div class="""">
+  
+  <div class=""page-block"" id=""page_block_2_1"">
+    <h3 style=""text-align:justify;""><strong>Commitment to Diversity&nbsp;</strong></h3>
+<h3 style=""text-align:justify;"">Columbia University is dedicated to increasing diversity in its workforce, its student body, and its educational programs. Achieving continued academic excellence and creating a vibrant university community require nothing less. In fulfilling its mission to advance diversity at the University, Columbia seeks to hire, retain, and promote exceptionally talented individuals from diverse backgrounds. &nbsp;</h3>
+  </div>
+</div>
+
+    </div>
+  
+
+      <div class=""block-wrapper sidebar"" data-uid=""01753de008435acdb4f075820bafb248"">
+      <div class="""">
+  
+  <div class=""page-block"" id=""page_block_2_3"">
+    <p style=""text-align:center;""><a class=""button button1"" href=""#applycta"">Apply Now</a></p>
+  </div>
+</div>
+
+    </div>
+  
+
+      <div class=""block-wrapper sidebar"" data-uid=""7c7960a479fb5d0e3f5e9aef3c7e4cdb"">
+      <div class=""block-call-to-action "" data-controller=""blocks--call-to-action"" data-blocks--call-to-action-cta-uid-value=""af061000b93401a1d1b97d14d1a15c5d"" data-stimulus=""connected"">
+  
+  <div class=""page-block"" id=""page_block_2_5"">
+      <div class=""call-to-action form-call-to-action"" data-blocks--call-to-action-target=""callToActionContainer"">
+        <div class=""row"">
+  <div class=""col-md-12 block-content"">
+    <h2 style=""text-align:center;"">Job Alert</h2>
+  </div>
+</div>
+          <div class=""call-to-action-create call-to-action-form candidate-form candidate-unknown show-call-to-action"" data-blocks--call-to-action-target=""createSection"">
+    <div class=""errors""></div>
+    <form class=""form-template"" id=""new_form_submission_2_5"" data-blocks--call-to-action-target=""form"" action=""https://opportunities.columbia.edu/call_to_actions/af061000b93401a1d1b97d14d1a15c5d/form_submissions?job_id=61bbbb129903178c0ace23d7738b1d81&amp;page_id=d88e5f5c5b0ccfe750dd5490d6d35840"" accept-charset=""UTF-8"" method=""post""><input type=""hidden"" name=""authenticity_token"" value=""7I_mDP17Cw8Fpsa6QGBLzUEeys20FkkbflFk7p_eUHoiSWPMo0JmIjbg8DaQfZlMlF3vL1AgW9PwRmV-JyERCw"" autocomplete=""off"">
+      <input type=""hidden"" name=""exit_call_to_action_configuration_id"" id=""exit_call_to_action_configuration_id_2_5"" autocomplete=""off"">
+      <input type=""hidden"" name=""pass_through"" id=""pass_through_2_5"" value=""{}"" autocomplete=""off"">
+      
+      
+        <div class=""form-group form-template-field-string first-name"" data-form-template-field-binding=""first_name_binding"">
+  <label for=""form_first_name_2_5_0"" class=""form-template-field-label ada-label first-name"">
+  
+  <span class=""ada-label-text"">
+    First Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">f5e869ee</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""First Name"" required=""required"" aria-required=""true"" data-uid=""e1e5146277e238da08224b2a968de858"" data-candidate-field=""candidate_first_name"" id=""form_first_name_2_5_0"" autocomplete=""given-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][0][string_value]"">
+
+  <input id=""form_field_kind_2_5_0"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][0][kind]"">
+  <input id=""form_form_template_field_id_2_5_0"" autocomplete=""off"" type=""hidden"" value=""e1e5146277e238da08224b2a968de858"" name=""form_submission[fields_attributes][0][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-string last-name"" data-form-template-field-binding=""last_name_binding"">
+  <label for=""form_last_name_2_5_1"" class=""form-template-field-label ada-label last-name"">
+  
+  <span class=""ada-label-text"">
+    Last Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">e75b9ce1</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""Last Name"" required=""required"" aria-required=""true"" data-uid=""9e7b0789546dce61476e788826b0e63e"" data-candidate-field=""candidate_last_name"" id=""form_last_name_2_5_1"" autocomplete=""family-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][1][string_value]"">
+
+  <input id=""form_field_kind_2_5_1"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][1][kind]"">
+  <input id=""form_form_template_field_id_2_5_1"" autocomplete=""off"" type=""hidden"" value=""9e7b0789546dce61476e788826b0e63e"" name=""form_submission[fields_attributes][1][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-email email"" data-form-template-field-binding=""email_binding"">
+  <label for=""form_email_2_5_2"" class=""form-template-field-label ada-label email"">
+  
+  <span class=""ada-label-text"">
+    Email
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">e9568d86</span>
+</label>
+
+  <input class=""form-control"" maxlength=""150"" autocomplete=""email"" data-candidate-field=""candidate_email"" data-uid=""5e60892e563343242ca5fe20eeddddaa"" id=""form_email_2_5_2"" required=""required"" aria-required=""true"" placeholder=""Email"" size=""150"" type=""email"" name=""form_submission[fields_attributes][2][email_value]"">
+  <input id=""form_field_kind_2_5_2"" autocomplete=""off"" type=""hidden"" value=""email"" name=""form_submission[fields_attributes][2][kind]"">
+  <input id=""form_form_template_field_id_2_5_2"" autocomplete=""off"" type=""hidden"" value=""5e60892e563343242ca5fe20eeddddaa"" name=""form_submission[fields_attributes][2][form_template_field_uid]"">
+</div>
+
+
+        <div class=""form-group form-template-field-job-alert job-alert"" data-form-template-field-binding=""form_binding"">
+  <fieldset>
+    <legend hidden="""">&nbsp;</legend>
+      <label for=""form_job_alert_2_5_3"" class=""form-template-field-label ada-label job-alert"">
+  
+  <span class=""ada-label-text"">
+    Job Alert
+    
+  </span>
+  <span class=""ada-unique-content"">28b3cfcf</span>
+</label>
+
+        <input id=""form_job_alert_2_5_3"" autocomplete=""off"" type=""hidden"" value=""job_alert"" name=""form_submission[fields_attributes][3][kind]""> 
+<input id=""form_field_kind_2_5_3"" autocomplete=""off"" type=""hidden"" value=""job_alert"" name=""form_submission[fields_attributes][3][kind]"">
+<input id=""form_form_template_field_id_2_5_3"" autocomplete=""off"" type=""hidden"" value=""d54fc863d852c88ab9673f6c5c204cc8"" name=""form_submission[fields_attributes][3][form_template_field_uid]"">
+          <div class=""form-group departments-form-group"">
+            
+<label class=""ada-remove-selectize ada-label"" for=""form_departments_2_5"">
+  <span class=""ada-label-text"">Departments</span>
+  <span class=""ada-unique-content"">62b5cd75</span>
+</label>
+<label class=""ada-label ada-keep-selectize"" for=""form_departments_2_5-selectized"">
+  <span class=""ada-label-text"">Departments</span>
+  <span class=""ada-unique-content"">b0244a29</span>
+</label>
+            <select name=""form_submission[fields_attributes][3][department_uids][]"" id=""form_departments_2_5"" multiple=""multiple"" placeholder=""Please choose the department(s)"" data-job-alert-field=""departments"" tabindex=""-1"" class=""selectized"" style=""display: none;""><option value=""6bb83368fd005657759078101bf5bad3"" selected=""selected"">Columbia University Information Technology</option></select><div class=""selectize-control multi""><div class=""selectize-input items not-full has-options has-items""><div class=""item"" data-value=""6bb83368fd005657759078101bf5bad3"">Columbia University Information Technology</div><input type=""select-multiple"" autocomplete=""off"" tabindex="""" id=""form_departments_2_5-selectized"" style=""width: 4px;""></div><div class=""selectize-dropdown multi"" style=""display: none; width: 182px; top: 95px; left: 0px;""><div class=""selectize-dropdown-content""></div></div></div>
+          </div>
+          <div class=""form-group categories-form-group"">
+            
+<label class=""ada-remove-selectize ada-label"" for=""form_categories_2_5"">
+  <span class=""ada-label-text"">Categories</span>
+  <span class=""ada-unique-content"">5f03ccda</span>
+</label>
+<label class=""ada-label ada-keep-selectize"" for=""form_categories_2_5-selectized"">
+  <span class=""ada-label-text"">Categories</span>
+  <span class=""ada-unique-content"">6f077e69</span>
+</label>
+            <select name=""form_submission[fields_attributes][3][category_uids][]"" id=""form_categories_2_5"" multiple=""multiple"" placeholder=""Please choose the category/categories"" data-job-alert-field=""categories"" tabindex=""-1"" class=""selectized"" style=""display: none;""><option value=""e5025ee9881cbbeae6ba234e836479e4"" selected=""selected"">Information Technology</option></select><div class=""selectize-control multi""><div class=""selectize-input items not-full has-options has-items""><div class=""item"" data-value=""e5025ee9881cbbeae6ba234e836479e4"">Information Technology</div><input type=""select-multiple"" autocomplete=""off"" tabindex="""" id=""form_categories_2_5-selectized"" style=""width: 4px;""></div><div class=""selectize-dropdown multi"" style=""display: none; width: 182px; top: 75px; left: 0px;""><div class=""selectize-dropdown-content""></div></div></div>
+          </div>
+          <div class=""form-group employment-types-form-group"">
+            
+<label class=""ada-remove-selectize ada-label"" for=""form_locations_2_5"">
+  <span class=""ada-label-text"">Employment Type</span>
+  <span class=""ada-unique-content"">49e811b6</span>
+</label>
+<label class=""ada-label ada-keep-selectize"" for=""form_locations_2_5-selectized"">
+  <span class=""ada-label-text"">Employment Type</span>
+  <span class=""ada-unique-content"">fc18b5e4</span>
+</label>
+            <select name=""form_submission[fields_attributes][3][employment_type_uids][]"" id=""form_employment_types_2_5"" multiple=""multiple"" placeholder=""Please choose the employment type(s)"" data-job-alert-field=""employment_types"" tabindex=""-1"" class=""selectized"" style=""display: none;""><option value=""874088ab1598f5fd27779504dc693093"" selected=""selected"">Full Time</option></select><div class=""selectize-control multi""><div class=""selectize-input items not-full has-options has-items""><div class=""item"" data-value=""874088ab1598f5fd27779504dc693093"">Full Time</div><input type=""select-multiple"" autocomplete=""off"" tabindex="""" id=""form_employment_types_2_5-selectized"" style=""width: 4px;""></div><div class=""selectize-dropdown multi"" style=""display: none; width: 182px; top: 34px; left: 0px;""><div class=""selectize-dropdown-content""></div></div></div>
+          </div>
+          <div class=""form-group locations-form-group"">
+            
+<label class=""ada-remove-selectize ada-label"" for=""form_locations_2_5"">
+  <span class=""ada-label-text"">Locations</span>
+  <span class=""ada-unique-content"">7787ba90</span>
+</label>
+<label class=""ada-label ada-keep-selectize"" for=""form_locations_2_5-selectized"">
+  <span class=""ada-label-text"">Locations</span>
+  <span class=""ada-unique-content"">53f49486</span>
+</label>
+            <select name=""form_submission[fields_attributes][3][locations_json][]"" id=""form_locations_2_5"" multiple=""multiple"" placeholder=""Please choose the location(s)"" data-job-alert-field=""locations"" tabindex=""-1"" class=""selectized"" style=""display: none;""><option value=""{&quot;city&quot;:&quot;Manhattanville&quot;,&quot;state&quot;:&quot;New York&quot;,&quot;country_code&quot;:&quot;US&quot;}"" selected=""selected"">Manhattanville, New York, United States</option></select><div class=""selectize-control multi""><div class=""selectize-input items not-full has-options has-items""><div class=""item"" data-value=""{&quot;city&quot;:&quot;Manhattanville&quot;,&quot;state&quot;:&quot;New York&quot;,&quot;country_code&quot;:&quot;US&quot;}"">Manhattanville, New York, United States</div><input type=""select-multiple"" autocomplete=""off"" tabindex="""" id=""form_locations_2_5-selectized"" style=""width: 4px;""></div><div class=""selectize-dropdown multi"" style=""display: none; width: 182px; top: 75px; left: 0px;""><div class=""selectize-dropdown-content""></div></div></div>
+          </div>
+  </fieldset>
+</div>
+      <input type=""hidden"" name=""_empty"" id=""empty_field_2_5"" value="""" autocomplete=""off"">
+      
+      <div class=""form-group form-group-submit"">
+  <button name=""button"" type=""submit"" class=""btn btn-primary"" data-action=""blocks--call-to-action#sendFormSubmission"" data-blocks--call-to-action-target=""submitButton"" id=""form_submit_2_5"">
+    <span class=""submit-state submit-start"">Send</span>
+    <span class=""submit-state submit-in-progress""><i class=""fa fa-spinner fa-spin fa-fw""></i> Please wait...</span>
+    <span class=""submit-state submit-finished""><i class=""fa fa-check""></i> Done</span>
+</button></div>
+
+      <p class=""show-when-candidate-known"">
+  <a id=""link_not_candidate_2_5"" class=""not-candidate"" href=""/me/settings"">
+    <span data-candidate-field=""candidate_first_name"" data-format=""Not %{candidate_first_name}?"" data-fallback=""Not You?"">
+      Not You?
+</span></a></p>
+      
+</form>  </div>
+  <div class=""call-to-action-get"" id=""call_to_action_response_2_5"" data-blocks--call-to-action-target=""getSection"">
+      <p>Thank you</p>
+  </div>
+
+      </div>
+  </div>
+</div>
+    </div>
+  
+
+      <div class=""block-wrapper sidebar"" data-uid=""ab289f56e4ccfb42808f5742cb8ae288"">
+      <div class=""block-call-to-action "" data-controller=""blocks--call-to-action"" data-blocks--call-to-action-cta-uid-value=""0979cfcfce0518f29342a5bccceb0f93"" data-stimulus=""connected"">
+  
+  <div class=""page-block"" id=""page_block_2_7"">
+      <div class=""call-to-action form-call-to-action"" data-blocks--call-to-action-target=""callToActionContainer"">
+        <div class=""row"">
+  <div class=""col-md-12 block-content"">
+    <h2 style=""text-align:center;"">Share this job</h2>
+  </div>
+</div>
+          <div class=""call-to-action-create call-to-action-form candidate-form candidate-unknown show-call-to-action"" data-blocks--call-to-action-target=""createSection"">
+    <div class=""errors""></div>
+    <form class=""form-template"" id=""new_form_submission_2_7"" data-blocks--call-to-action-target=""form"" action=""https://opportunities.columbia.edu/call_to_actions/0979cfcfce0518f29342a5bccceb0f93/form_submissions?job_id=61bbbb129903178c0ace23d7738b1d81&amp;page_id=d88e5f5c5b0ccfe750dd5490d6d35840"" accept-charset=""UTF-8"" method=""post""><input type=""hidden"" name=""authenticity_token"" value=""7I_mDP17Cw8Fpsa6QGBLzUEeys20FkkbflFk7p_eUHoiSWPMo0JmIjbg8DaQfZlMlF3vL1AgW9PwRmV-JyERCw"" autocomplete=""off"">
+      <input type=""hidden"" name=""exit_call_to_action_configuration_id"" id=""exit_call_to_action_configuration_id_2_7"" autocomplete=""off"">
+      <input type=""hidden"" name=""pass_through"" id=""pass_through_2_7"" value=""{}"" autocomplete=""off"">
+      
+      
+        <div class=""form-group form-template-field-string first-name"" data-form-template-field-binding=""first_name_binding"">
+  <label for=""form_first_name_2_7_0"" class=""form-template-field-label ada-label first-name"">
+  
+  <span class=""ada-label-text"">
+    First Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">4021ebee</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""First Name"" required=""required"" aria-required=""true"" data-uid=""42976e7162b85056504f72937ec03752"" data-candidate-field=""candidate_first_name"" id=""form_first_name_2_7_0"" autocomplete=""given-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][0][string_value]"">
+
+  <input id=""form_field_kind_2_7_0"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][0][kind]"">
+  <input id=""form_form_template_field_id_2_7_0"" autocomplete=""off"" type=""hidden"" value=""42976e7162b85056504f72937ec03752"" name=""form_submission[fields_attributes][0][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-string last-name"" data-form-template-field-binding=""last_name_binding"">
+  <label for=""form_last_name_2_7_1"" class=""form-template-field-label ada-label last-name"">
+  
+  <span class=""ada-label-text"">
+    Last Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">c366c9b6</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""Last Name"" required=""required"" aria-required=""true"" data-uid=""28f2f0a5df13b6087031455db1fdeffb"" data-candidate-field=""candidate_last_name"" id=""form_last_name_2_7_1"" autocomplete=""family-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][1][string_value]"">
+
+  <input id=""form_field_kind_2_7_1"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][1][kind]"">
+  <input id=""form_form_template_field_id_2_7_1"" autocomplete=""off"" type=""hidden"" value=""28f2f0a5df13b6087031455db1fdeffb"" name=""form_submission[fields_attributes][1][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-email email"" data-form-template-field-binding=""email_binding"">
+  <label for=""form_email_2_7_2"" class=""form-template-field-label ada-label email"">
+  
+  <span class=""ada-label-text"">
+    Email
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">2c0d6f93</span>
+</label>
+
+  <input class=""form-control"" maxlength=""150"" autocomplete=""email"" data-candidate-field=""candidate_email"" data-uid=""401aeb790da4f769dfae028002fee76c"" id=""form_email_2_7_2"" required=""required"" aria-required=""true"" placeholder=""Email"" size=""150"" type=""email"" name=""form_submission[fields_attributes][2][email_value]"">
+  <input id=""form_field_kind_2_7_2"" autocomplete=""off"" type=""hidden"" value=""email"" name=""form_submission[fields_attributes][2][kind]"">
+  <input id=""form_form_template_field_id_2_7_2"" autocomplete=""off"" type=""hidden"" value=""401aeb790da4f769dfae028002fee76c"" name=""form_submission[fields_attributes][2][form_template_field_uid]"">
+</div>
+
+
+          <div class=""form-group form-template-field-candidate-referral share-job"">
+      <label for=""form_share_job_2_7_3"" class=""form-template-field-label share-job"">
+  
+  <span class=""ada-label-text"">
+    Enter the details of the person you would like to share this job with
+    
+  </span>
+  <span class=""ada-unique-content"">20dd379a</span>
+</label>
+
+
+    <div class=""candidate-referral-fields "">
+        <div class=""row"">
+          <div class=""col-md-6"">
+            <div class=""form-group"">
+              <input class=""form-control"" maxlength=""150"" required=""required"" placeholder=""First name"" id=""form_share_job_first_name_2_7_3"" size=""150"" type=""text"" name=""form_submission[fields_attributes][3][candidate_referral_first_name]"">
+            </div>
+          </div>
+          <div class=""col-md-6"">
+            <div class=""form-group"">
+              <input class=""form-control"" maxlength=""150"" required=""required"" placeholder=""Last name"" id=""form_share_job_last_name_2_7_3"" size=""150"" type=""text"" name=""form_submission[fields_attributes][3][candidate_referral_last_name]"">
+            </div>
+          </div>
+        </div>
+        <input class=""form-control"" maxlength=""150"" required=""required"" placeholder=""Email"" id=""form_share_job_email_2_7_3"" size=""150"" type=""email"" name=""form_submission[fields_attributes][3][candidate_referral_email]"">
+      <input id=""form_field_kind_2_7_3"" autocomplete=""off"" type=""hidden"" value=""candidate_referral"" name=""form_submission[fields_attributes][3][kind]"">
+      <input id=""form_form_template_field_id_2_7_3"" autocomplete=""off"" type=""hidden"" value=""9d9df0dbc3c5c37277ed6c2d74ff3c52"" name=""form_submission[fields_attributes][3][form_template_field_uid]"">
+    </div>
+  </div>
+
+      <input type=""hidden"" name=""_empty"" id=""empty_field_2_7"" value="""" autocomplete=""off"">
+      
+      <div class=""form-group form-group-submit"">
+  <button name=""button"" type=""submit"" class=""btn btn-primary"" data-action=""blocks--call-to-action#sendFormSubmission"" data-blocks--call-to-action-target=""submitButton"" id=""form_submit_2_7"">
+    <span class=""submit-state submit-start"">Share job</span>
+    <span class=""submit-state submit-in-progress""><i class=""fa fa-spinner fa-spin fa-fw""></i> Please wait...</span>
+    <span class=""submit-state submit-finished""><i class=""fa fa-check""></i> Done</span>
+</button></div>
+
+      <p class=""show-when-candidate-known"">
+  <a id=""link_not_candidate_2_7"" class=""not-candidate"" href=""/me/settings"">
+    <span data-candidate-field=""candidate_first_name"" data-format=""Not %{candidate_first_name}?"" data-fallback=""Not You?"">
+      Not You?
+</span></a></p>
+      
+</form>  </div>
+  <div class=""call-to-action-get"" id=""call_to_action_response_2_7"" data-blocks--call-to-action-target=""getSection"">
+      <p>Thank you - we'll send an email shortly.</p>
+  </div>
+
+      </div>
+  </div>
+</div>
+    </div>
+  
+
+</div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=""page-row p-t-0 p-b-60 job-page-job-container  "" id=""page_row_3"">
+      <div class=""page-row-inner"">
+        <div class=""container page-row-container"">
+          <div class=""page-row-and-new-button"">
+            <div class=""row page-row-border"">
+              
+              <div class=""col-md-8"">
+  
+</div>
+<div class=""col-md-4"">
+      <div class=""block-wrapper sidebar"" data-uid=""8a9a2131fa559764b5ac446137711919"">
+      <div class=""block-jobs"" data-controller=""stream-invoker blocks--jobs"" data-stream-invoker-url-value=""https://opportunities.columbia.edu/blocks/favourite_jobs"">
+  <div class=""row"">
+  <div class=""col-md-12 block-content"">
+    <p>Other Recently Posted Jobs</p>
+  </div>
+</div>
+    <div class=""row"">
+    </div>
+  
+  <div class=""page-block"" id=""page_block_3_1"">
+      <div class=""jobs-list"">
+    <div class=""job"" data-department=""[&quot;Campus Services&quot;]"" data-category=""[&quot;Facilities/Maint/Trades/RealEs&quot;]"" data-country-code=""[&quot;US&quot;]"" data-country-text=""[&quot;United States&quot;]"" data-city=""[&quot;Morningside&quot;]"">
+      <a id=""link_page_title_3_1_0"" href=""https://opportunities.columbia.edu/jobs/audio-visual-technician-morningside-new-york-united-states-5383ef69-3df9-479e-9c7a-138016333b52"">
+        <h3 id=""job_title_3_1_0"" class=""job-field job-title "">Audio Visual Technician</h3>
+          <span id=""job_grade_3_1_0"" class=""job-field job-grade job-hidden-field"">
+            Grade 8
+          </span>
+        <span id=""job_requisition_identifier_3_1_0"" class=""job-field job-requisition-identifier job-hidden-field"">545559</span>
+        <span id=""job_cities_3_1_0"" class=""job-field job-city job-hidden-field"">Morningside</span>
+        <span id=""job_states_3_1_0"" class=""job-field job-state job-hidden-field"">New York</span>
+        <span id=""job_country_codes_3_1_0"" class=""job-field job-country job-hidden-field"">United States</span>
+        <span id=""job_locations_3_1_0"" class=""job-field job-location "">Morningside</span>
+        <span id=""job_departments_3_1_0"" class=""job-field job-department "">Campus Services</span>
+        <span id=""job_categories_3_1_0"" class=""job-field job-category job-hidden-field"">Facilities/Maint/Trades/RealEs</span>
+        <span id=""job_employment_types_3_1_0"" class=""job-field job-employment-type job-hidden-field"">Full Time</span>
+        <span id=""job_levels_3_1_0"" class=""job-field job-level job-hidden-field""></span>
+        <div class=""job_spacer""></div>
+</a>      <div id=""page_summary_3_1_0"" class=""job-summary "">Columbia University’s department of University Event Management is the center of event planning and related services for undergraduate students, graduate students, faculty, staff and alumni. It is our goal to provide excellent facilities and excep...</div>
+      <span class=""job-favourited job-favourited-c851355cde2251c435e749f0554e3579"">
+</span>
+</div>    <div class=""job"" data-department=""[&quot;School of Law&quot;]"" data-category=""[&quot;Administrative Support&quot;,&quot;General Administration&quot;]"" data-country-code=""[&quot;US&quot;]"" data-country-text=""[&quot;United States&quot;]"" data-city=""[&quot;Morningside&quot;]"">
+      <a id=""link_page_title_3_1_1"" href=""https://opportunities.columbia.edu/jobs/program-coordinator-morningside-new-york-united-states-4bdc794b-0f16-4dff-95eb-5ac706ee5fcb"">
+        <h3 id=""job_title_3_1_1"" class=""job-field job-title "">Program Coordinator</h3>
+          <span id=""job_grade_3_1_1"" class=""job-field job-grade job-hidden-field"">
+            Grade 9A
+          </span>
+        <span id=""job_requisition_identifier_3_1_1"" class=""job-field job-requisition-identifier job-hidden-field"">545520</span>
+        <span id=""job_cities_3_1_1"" class=""job-field job-city job-hidden-field"">Morningside</span>
+        <span id=""job_states_3_1_1"" class=""job-field job-state job-hidden-field"">New York</span>
+        <span id=""job_country_codes_3_1_1"" class=""job-field job-country job-hidden-field"">United States</span>
+        <span id=""job_locations_3_1_1"" class=""job-field job-location "">Morningside</span>
+        <span id=""job_departments_3_1_1"" class=""job-field job-department "">School of Law</span>
+        <span id=""job_categories_3_1_1"" class=""job-field job-category job-hidden-field"">Administrative Support, General Administration</span>
+        <span id=""job_employment_types_3_1_1"" class=""job-field job-employment-type job-hidden-field"">Full Time</span>
+        <span id=""job_levels_3_1_1"" class=""job-field job-level job-hidden-field""></span>
+        <div class=""job_spacer""></div>
+</a>      <div id=""page_summary_3_1_1"" class=""job-summary "">The Coordinator is part of a team of professional staff who provide administrative and programmatic support to Law School faculty and researchers. Coordinators facilitate the teaching, scholarship, and service of full-time faculty, and support the...</div>
+      <span class=""job-favourited job-favourited-594dfaa13ef9211328cf62cc2f3b5518"">
+</span>
+</div>    <div class=""job"" data-department=""[&quot;School of Law&quot;]"" data-category=""[&quot;Administrative Support&quot;,&quot;General Administration&quot;]"" data-country-code=""[&quot;US&quot;]"" data-country-text=""[&quot;United States&quot;]"" data-city=""[&quot;Morningside&quot;]"">
+      <a id=""link_page_title_3_1_2"" href=""https://opportunities.columbia.edu/jobs/coordinator-morningside-new-york-united-states-903f5556-d007-490d-a05d-bdb00c632f59"">
+        <h3 id=""job_title_3_1_2"" class=""job-field job-title "">Coordinator</h3>
+          <span id=""job_grade_3_1_2"" class=""job-field job-grade job-hidden-field"">
+            Grade 9A
+          </span>
+        <span id=""job_requisition_identifier_3_1_2"" class=""job-field job-requisition-identifier job-hidden-field"">545519</span>
+        <span id=""job_cities_3_1_2"" class=""job-field job-city job-hidden-field"">Morningside</span>
+        <span id=""job_states_3_1_2"" class=""job-field job-state job-hidden-field"">New York</span>
+        <span id=""job_country_codes_3_1_2"" class=""job-field job-country job-hidden-field"">United States</span>
+        <span id=""job_locations_3_1_2"" class=""job-field job-location "">Morningside</span>
+        <span id=""job_departments_3_1_2"" class=""job-field job-department "">School of Law</span>
+        <span id=""job_categories_3_1_2"" class=""job-field job-category job-hidden-field"">Administrative Support, General Administration</span>
+        <span id=""job_employment_types_3_1_2"" class=""job-field job-employment-type job-hidden-field"">Full Time</span>
+        <span id=""job_levels_3_1_2"" class=""job-field job-level job-hidden-field""></span>
+        <div class=""job_spacer""></div>
+</a>      <div id=""page_summary_3_1_2"" class=""job-summary "">The Coordinator is part of a team of professional staff who provide administrative and programmatic support to Law School faculty and researchers. Coordinators facilitate the teaching, scholarship, and service of full-time faculty, and support the...</div>
+      <span class=""job-favourited job-favourited-af62b5e853109d1ea3d32c25f75aeb69"">
+</span>
+</div></div>
+  </div>
+</div>
+    </div>
+  
+
+</div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=""page-row p-t-60 p-b-60   "" id=""page_row_4"">
+      <div class=""page-row-inner"">
+        <div class=""container page-row-container"">
+          <div class=""page-row-and-new-button"">
+            <div class=""row page-row-border"">
+              
+              <div class=""col-md-12"">
+  
+</div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=""page-row p-t-30 p-b-30  row-background-brand_color_1 row-foreground-brand_color_3"" id=""page_row_5"">
+      <div class=""page-row-inner"">
+        <div class=""container page-row-container"">
+          <div class=""page-row-and-new-button"">
+            <div class=""row page-row-border"">
+              
+              <div class=""col-md-12"">
+      <div class=""block-wrapper "" data-uid=""7115d386aae9e8d414c024045f9fea94"">
+      <div class=""block-call-to-action "" data-controller=""blocks--call-to-action"" data-blocks--call-to-action-cta-uid-value=""9dffc4c948a159543a2ddecce94e7375"" data-stimulus=""connected"">
+  
+  <div class=""page-block"" id=""page_block_5_0"">
+      <div class=""call-to-action apply_url-call-to-action"" data-blocks--call-to-action-target=""callToActionContainer"">
+        <div class=""row"">
+  <div class=""col-md-12 block-content"">
+    <h2 style=""text-align:center;"">
+<a id=""applycta""></a>Apply Now</h2>
+  </div>
+</div>
+          <div class=""call-to-action-create call-to-action-form candidate-form candidate-unknown show-call-to-action"" data-blocks--call-to-action-target=""createSection"">
+    <div class=""errors""></div>
+    <form class=""form-template"" id=""new_form_submission_5_0"" data-blocks--call-to-action-target=""form"" action=""https://opportunities.columbia.edu/call_to_actions/9dffc4c948a159543a2ddecce94e7375/form_submissions?job_id=61bbbb129903178c0ace23d7738b1d81&amp;page_id=d88e5f5c5b0ccfe750dd5490d6d35840"" accept-charset=""UTF-8"" method=""post""><input type=""hidden"" name=""authenticity_token"" value=""7I_mDP17Cw8Fpsa6QGBLzUEeys20FkkbflFk7p_eUHoiSWPMo0JmIjbg8DaQfZlMlF3vL1AgW9PwRmV-JyERCw"" autocomplete=""off"">
+      <input type=""hidden"" name=""exit_call_to_action_configuration_id"" id=""exit_call_to_action_configuration_id_5_0"" autocomplete=""off"">
+      <input type=""hidden"" name=""pass_through"" id=""pass_through_5_0"" value=""{}"" autocomplete=""off"">
+      
+      
+        <div class=""form-group form-template-field-string first-name"" data-form-template-field-binding=""first_name_binding"">
+  <label for=""form_first_name_5_0_0"" class=""form-template-field-label ada-label first-name"">
+  
+  <span class=""ada-label-text"">
+    First Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">8cb35471</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""First Name"" required=""required"" aria-required=""true"" data-uid=""b1a1a4ddaedef4d69801ce8841cf0ed0"" data-candidate-field=""candidate_first_name"" id=""form_first_name_5_0_0"" autocomplete=""given-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][0][string_value]"">
+
+  <input id=""form_field_kind_5_0_0"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][0][kind]"">
+  <input id=""form_form_template_field_id_5_0_0"" autocomplete=""off"" type=""hidden"" value=""b1a1a4ddaedef4d69801ce8841cf0ed0"" name=""form_submission[fields_attributes][0][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-string last-name"" data-form-template-field-binding=""last_name_binding"">
+  <label for=""form_last_name_5_0_1"" class=""form-template-field-label ada-label last-name"">
+  
+  <span class=""ada-label-text"">
+    Last Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">1cefc390</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""Last Name"" required=""required"" aria-required=""true"" data-uid=""66a12c26661ba19338fdd4772a0c9459"" data-candidate-field=""candidate_last_name"" id=""form_last_name_5_0_1"" autocomplete=""family-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][1][string_value]"">
+
+  <input id=""form_field_kind_5_0_1"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][1][kind]"">
+  <input id=""form_form_template_field_id_5_0_1"" autocomplete=""off"" type=""hidden"" value=""66a12c26661ba19338fdd4772a0c9459"" name=""form_submission[fields_attributes][1][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-email email"" data-form-template-field-binding=""email_binding"">
+  <label for=""form_email_5_0_2"" class=""form-template-field-label ada-label email"">
+  
+  <span class=""ada-label-text"">
+    Email
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">49e63794</span>
+</label>
+
+  <input class=""form-control"" maxlength=""150"" autocomplete=""email"" data-candidate-field=""candidate_email"" data-uid=""4a3f1d0cde70e1b39442a470431f28d6"" id=""form_email_5_0_2"" required=""required"" aria-required=""true"" placeholder=""Email"" size=""150"" type=""email"" name=""form_submission[fields_attributes][2][email_value]"">
+  <input id=""form_field_kind_5_0_2"" autocomplete=""off"" type=""hidden"" value=""email"" name=""form_submission[fields_attributes][2][kind]"">
+  <input id=""form_form_template_field_id_5_0_2"" autocomplete=""off"" type=""hidden"" value=""4a3f1d0cde70e1b39442a470431f28d6"" name=""form_submission[fields_attributes][2][form_template_field_uid]"">
+</div>
+
+
+        <div class=""form-group form-template-field-job-alert job-alert"" data-form-template-field-binding=""form_binding"">
+  <fieldset>
+    <legend hidden="""">&nbsp;</legend>
+      <input id=""form_job_alert_5_0_3"" autocomplete=""off"" type=""hidden"" value=""job_alert"" name=""form_submission[fields_attributes][3][kind]""> 
+<input id=""form_field_kind_5_0_3"" autocomplete=""off"" type=""hidden"" value=""job_alert"" name=""form_submission[fields_attributes][3][kind]"">
+<input id=""form_form_template_field_id_5_0_3"" autocomplete=""off"" type=""hidden"" value=""e874311c12d81a8d9f458f8043608fbe"" name=""form_submission[fields_attributes][3][form_template_field_uid]"">
+      <label class=""ada-unique-content"" for=""form_agreement_5_0"">527473d6</label>
+      <input name=""form_submission[fields_attributes][3][agreement]"" type=""hidden"" value=""0"" autocomplete=""off""><input id=""form_agreement_5_0"" type=""checkbox"" value=""1"" name=""form_submission[fields_attributes][3][agreement]"">
+      <span class=""checkbox-label-text"">Alert me about jobs like this</span>
+          <input type=""hidden"" name=""form_submission[fields_attributes][3][category_uids][]"" id=""form_categories_5_0_0"" value=""e5025ee9881cbbeae6ba234e836479e4"" autocomplete=""off"">
+
+  </fieldset>
+</div>
+      <input type=""hidden"" name=""_empty"" id=""empty_field_5_0"" value="""" autocomplete=""off"">
+        <input type=""hidden"" name=""candidate_referral_uid"" id=""candidate_referral_uid_5_0"" value="""" autocomplete=""off"">
+        <p><a class=""referral-link"" target=""_blank"" rel=""nofollow"" href=""https://secure.dc4.pageuppeople.com/apply/884/gateway/default.aspx?c=employeereferral&amp;lJobID=545447&amp;lJobSourceTypeID=796&amp;sHome=https%3A%2F%2Fopportunities.columbia.edu%2Fjob%2Fsr-research-systems-engineer-linux-manhattanville-new-york-united-states&amp;sLanguage=en-us"">Refer someone to this job</a></p>
+
+      <div class=""form-group form-group-submit"">
+  <button name=""button"" type=""submit"" class=""btn btn-primary"" data-action=""blocks--call-to-action#sendFormSubmission"" data-blocks--call-to-action-target=""submitButton"" id=""form_submit_5_0"">
+    <span class=""submit-state submit-start"">Apply</span>
+    <span class=""submit-state submit-in-progress""><i class=""fa fa-spinner fa-spin fa-fw""></i> Please wait...</span>
+    <span class=""submit-state submit-finished""><i class=""fa fa-check""></i> Done</span>
+</button></div>
+
+      <p class=""show-when-candidate-known"">
+  <a id=""link_not_candidate_5_0"" class=""not-candidate"" href=""/me/settings"">
+    <span data-candidate-field=""candidate_first_name"" data-format=""Not %{candidate_first_name}?"" data-fallback=""Not You?"">
+      Not You?
+</span></a></p>
+      
+</form>  </div>
+  <div class=""call-to-action-get"" id=""call_to_action_response_5_0"" data-blocks--call-to-action-target=""getSection"">
+      <p>Thank you</p>
+  </div>
+
+      </div>
+  </div>
+</div>
+    </div>
+  
+
+</div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+</div>
+
+<!-- custom footer -->
+<footer class=""text-dark"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-sm-12 col-md-4"">
+        <h3>Human Resources</h3>
+          <p>615 West 131 Street, Studebaker Building 4th Floor · New York, NY 10027</p>
+      </div>
+      <div class=""col-sm-12 col-md-8"">
+        <ul class=""footer-links list-unstyled"">
+          <li><a href=""https://eoaa.columbia.edu/"">Equal Opportunity Employer/Disability/Veteran</a></li>
+          <li><a href=""https://humanresources.columbia.edu/content/our-services-and-mission"">Columbia University is committed to the hiring of qualified local residents</a></li>
+          <li><a href=""https://www.cuit.columbia.edu/privacy-notice "">Columbia University is committed to protecting your privacy</a></li>
+          <li><a href=""https://eoaa.columbia.edu/content/disability-and-accommodations"">Columbia University provides reasonable accommodations to applicants with disabilities</a></li>
+          <li><a href=""https://humanresources.columbia.edu/content/ncaa-statement"">NCAA Statement</a></li>
+          <li><a href=""https://eoaa.columbia.edu/content/pay-transparency-notice"">Pay Transparency</a></li>
+          <li><a href=""https://publicsafety.columbia.edu/sites/default/files/content/SecurityReport2022.pdf"">Clery Act Notification</a></li>
+          <li><a href=""https://isso.columbia.edu/content/lca-notifications"">Labor Condition Applications (LCA) Notices</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<div class=""secondary-footer"">
+    <div class=""container"">
+    <div class=""row"">
+      <div class=""col-sm-12 col-md-6""><img src=""https://files.clinchtalent.com/b55c8ea21eccd854cd4d71c00d5b72be/eac7a049a9da20115b64a13e75f1b175/ColumbiaLogo.png""></div>
+      <div class=""col-sm-12 col-md-6"">
+        <ul class=""footer-links list-unstyled"">
+          <li><a href=""https://www.columbia.edu/content/copyright"">©2022 Columbia University</a></li>
+          <li><a href=""https://careers.columbia.edu/content/digital-accessibility-notice""> Accessibility</a></li>
+          <li><a href=""https://cas.columbia.edu/cas/login?service=https%3A%2F%2Fshibboleth.columbia.edu%2Fidp%2FAuthn%2FExternal%3Fconversation%3De1s1%26entityId%3Dhttps%3A%2F%2Fadmin.dc4.pageuppeople.com%2F""> Administrator Log in</a></li>
+        </ul>
+        
+      </div>
+    </div>
+    </div>
+</div>
+
+      <script type=""application/ld+json"">
+    {""@context"":""http://schema.org/"",""@type"":""JobPosting"",""title"":""Sr. Research Systems Engineer (Linux)"",""description"":""\u003cul class=\""job-attributes\""\u003e\n\u003cli\u003eJob Type: Officer of Administration\u003c/li\u003e\n\u003cli\u003eRegular/Temporary: Regular\u003c/li\u003e\n\u003cli\u003eHours Per Week: 35\u003c/li\u003e\n\u003cli\u003eSalary Range: $100,000 - $125,000\u003c/li\u003e\n\u003c/ul\u003e\n\u003cdiv\u003e\u003cem\u003eThe salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.\u003c/em\u003e\u003c/div\u003e\n\u003chr\u003e\n\u003cp\u003ePosition Summary\u003c/p\u003e\n\u003cp\u003eReporting to the Manager, High Performance Computing; the Sr. Research Systems Engineer participates in the design, development, implementation, and operations of Columbia’s portfolio of high-performance computing services.  The position collaborates with other CUIT technical teams and Columbia researchers to support research computing resources, including but not limited to high-performance computing (HPC) clusters, ensuring user requirements are met and planning ongoing improvements and modifications to these systems and services.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003eResponsibilities\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eTakes a primary role in the planning and design of research computing services.\u003c/li\u003e\n\u003cli\u003eInvestigates new and emerging technologies, evaluating usefulness to Columbia researchers and making recommendations for future services.\u003c/li\u003e\n\u003cli\u003eInteracts with Columbia researchers on various topics, including (but not limited to) the use of existing services, service policies, and research requirements.\u003c/li\u003e\n\u003cli\u003eTakes a primary role in HPC system troubleshooting including coordinating with users, vendors, and other CUIT departments to resolve system problems.\u003c/li\u003e\n\u003cli\u003eManage storage systems.\u003c/li\u003e\n\u003cli\u003eResolves incidents and service requests. \u003c/li\u003e\n\u003cli\u003eAdministration of systems in the research computing infrastructure, including the installation and management of configuration, monitoring, and notification tools, as well as basic network administration. \u003c/li\u003e\n\u003cli\u003eAssists in the creation and maintenance of user documentation.\u003c/li\u003e\n\u003cli\u003eInteracts with vendors, assessing products and making purchasing recommendations.\u003c/li\u003e\n\u003cli\u003eAll other duties as assigned.\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003cp\u003eMinimum Qualifications\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eBachelor’s degree or equivalent experience required.\u003c/li\u003e\n\u003cli\u003eMinimum 4-6 years’ related experience.\u003c/li\u003e\n\u003cli\u003e4 years of Linux/Unix experience.\u003c/li\u003e\n\u003cli\u003ePrior experience in programming, software development, or system administration.\u003c/li\u003e\n\u003cli\u003eExcellent written and verbal communication skills.\u003c/li\u003e\n\u003cli\u003eDemonstrated ability to work in a fast-paced, deadline-driven environment.\u003c/li\u003e\n\u003cli\u003eDemonstrated excellence in a variety of competencies including teamwork/collaboration, analytical thinking, communication and influencing skills, and technical expertise.\u003c/li\u003e\n\u003cli\u003eAbility to work with changing priorities and with multiple projects.\u003c/li\u003e\n\u003cli\u003eAbility to be precise and attentive to detail is essential.\u003c/li\u003e\n\u003cli\u003eAbility to work with minimal supervision.\u003c/li\u003e\n\u003cli\u003eAbility to work weekends and off-hour work on occasion.\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003cp\u003ePreferred Qualifications\u003c/p\u003e\n\u003cp\u003eThe following qualifications are not requirements, but highly advantageous.  We will provide on-the-job training in High Performance Computing (HPC) and related topics to individuals who are otherwise skilled and motivated.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eExperience with Linux system administration, particularly Red Hat (7, 8).\u003c/li\u003e\n\u003cli\u003eExperience with SLURM or other workload management services.\u003c/li\u003e\n\u003cli\u003eExperience with Bright (Base Command Manager), OpenHPC, SGE, Confluent, or other clusterware.\u003c/li\u003e\n\u003cli\u003eKnowledge of GPFS, Lustre, ZFS, NFS, or other network or parallel file systems.\u003c/li\u003e\n\u003cli\u003eFamiliarity with Ansible, Puppet, or other Linux configuration management tools.\u003c/li\u003e\n\u003cli\u003eFamiliarity with other HPC components, such as Infiniband network and GPU.\u003c/li\u003e\n\u003cli\u003eExperience with Shell scripting and Python.\u003c/li\u003e\n\u003cli\u003eExperience with version control systems, such as Git, and monitoring tools like Grafana or Nagios.\u003c/li\u003e\n\u003cli\u003eFamiliarity with HPC programming technologies (such as MPI, OpenMP, or CUDA).\u003c/li\u003e\n\u003cli\u003eFamiliarity with other HPC technologies (such as Infiniband, or GPU, and DDN appliance).\u003c/li\u003e\n\u003cli\u003eFamiliarity with JupyterHub.\u003c/li\u003e\n\u003cli\u003eFamiliarity with standard programming languages (such as C, C++, Fortran, or Java).\u003c/li\u003e\n\u003cli\u003eKnowledge of TCP/IP.\u003c/li\u003e\n\u003cli\u003eFamiliarity with statistical tools (such as R) or mathematical tools (such as Matlab).\u003c/li\u003e\n\u003cli\u003eKnowledge of technology, applications, and interfaces designed to support research, such as Globus.\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003cp\u003eEqual Opportunity Employer / Disability / Veteran\u003c/p\u003e\n\u003cp\u003eColumbia University is committed to the hiring of qualified local residents.\u003c/p\u003e"",""datePosted"":""2024-08-05T15:30:01Z"",""employmentType"":""FULL_TIME"",""validThrough"":""2024-11-07T17:23:26Z"",""hiringOrganization"":{""@type"":""Organization"",""name"":""Columbia University"",""sameAs"":null,""logo"":""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/companies/logos/de5c5e196bc2fb8b8ba55c158b2dd8de/thumb/cu-blue-logo.png?1663670090""},""identifier"":{""@type"":""PropertyValue"",""name"":""Columbia University"",""value"":""61bbbb129903178c0ace23d7738b1d81""},""jobLocation"":[{""@type"":""Place"",""address"":{""@type"":""PostalAddress"",""streetAddress"":"""",""addressLocality"":""Manhattanville"",""addressRegion"":""New York"",""postalCode"":""10027"",""addressCountry"":""US""}}]}
+  </script>
+
+  <div class=""modal exit-call-to-action-modal animate__animated animate__fadeIn"" tabindex=""-1"" role=""dialog"" data-controller=""exit-call-to-action-modal"" data-exit-call-to-action-modal-uid-value=""b1e9a06fa8d17321da30f251da86ae12"" data-exit-call-to-action-modal-delay-in-seconds-value=""2"" data-exit-call-to-action-modal-display-strategy-value=""unknown_candidates"">
+  <div class=""modal-dialog modal-md"" role=""document"">
+    <div class=""modal-content"">
+      <div class=""modal-header"">
+          <button type=""button"" class=""btn-close"" data-dismiss=""modal"" data-bs-dismiss=""modal"" aria-label=""Close""></button>
+
+      </div>
+      <div class=""modal-body"" data-controller=""blocks--call-to-action"" data-stimulus=""connected"">
+        <div class=""call-to-action form-call-to-action"" data-blocks--call-to-action-target=""callToActionContainer"">
+          <div class=""html-content"">
+            <p>Wait! Before you go, are you interested in a career at Columbia University? Sign up here!&nbsp;</p>
+          </div>
+            <div class=""call-to-action-create call-to-action-form candidate-form candidate-unknown show-call-to-action"" data-blocks--call-to-action-target=""createSection"">
+    <div class=""errors""></div>
+    <form class=""form-template"" id=""new_form_submission_exit_call_to_action"" data-blocks--call-to-action-target=""form"" action=""https://opportunities.columbia.edu/call_to_actions/2fb38f79cde66fac344c9b02d83a27b7/form_submissions?job_id=61bbbb129903178c0ace23d7738b1d81&amp;page_id=d88e5f5c5b0ccfe750dd5490d6d35840"" accept-charset=""UTF-8"" method=""post""><input type=""hidden"" name=""authenticity_token"" value=""7I_mDP17Cw8Fpsa6QGBLzUEeys20FkkbflFk7p_eUHoiSWPMo0JmIjbg8DaQfZlMlF3vL1AgW9PwRmV-JyERCw"" autocomplete=""off"">
+      <input type=""hidden"" name=""exit_call_to_action_configuration_id"" id=""exit_call_to_action_configuration_id_exit_call_to_action"" value=""b1e9a06fa8d17321da30f251da86ae12"" autocomplete=""off"">
+      <input type=""hidden"" name=""pass_through"" id=""pass_through_exit_call_to_action"" value=""{}"" autocomplete=""off"">
+      
+      
+        <div class=""form-group form-template-field-string first-name"" data-form-template-field-binding=""first_name_binding"">
+  <label for=""form_first_name_exit_call_to_action_0"" class=""form-template-field-label ada-label first-name"">
+  
+  <span class=""ada-label-text"">
+    First Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">45c04f48</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""First Name"" required=""required"" aria-required=""true"" data-uid=""0fdb3b87bae7bdc1735d7256cc2ac0e8"" data-candidate-field=""candidate_first_name"" id=""form_first_name_exit_call_to_action_0"" autocomplete=""given-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][0][string_value]"">
+
+  <input id=""form_field_kind_exit_call_to_action_0"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][0][kind]"">
+  <input id=""form_form_template_field_id_exit_call_to_action_0"" autocomplete=""off"" type=""hidden"" value=""0fdb3b87bae7bdc1735d7256cc2ac0e8"" name=""form_submission[fields_attributes][0][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-string last-name"" data-form-template-field-binding=""last_name_binding"">
+  <label for=""form_last_name_exit_call_to_action_1"" class=""form-template-field-label ada-label last-name"">
+  
+  <span class=""ada-label-text"">
+    Last Name
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">af324f80</span>
+</label>
+  <input class=""form-control"" maxlength=""150"" placeholder=""Last Name"" required=""required"" aria-required=""true"" data-uid=""3ffc5087397ae321baf40ee7de568a64"" data-candidate-field=""candidate_last_name"" id=""form_last_name_exit_call_to_action_1"" autocomplete=""family-name"" size=""150"" type=""text"" name=""form_submission[fields_attributes][1][string_value]"">
+
+  <input id=""form_field_kind_exit_call_to_action_1"" autocomplete=""off"" type=""hidden"" value=""string"" name=""form_submission[fields_attributes][1][kind]"">
+  <input id=""form_form_template_field_id_exit_call_to_action_1"" autocomplete=""off"" type=""hidden"" value=""3ffc5087397ae321baf40ee7de568a64"" name=""form_submission[fields_attributes][1][form_template_field_uid]"">
+</div>
+
+        <div class=""form-group form-template-field-email email"" data-form-template-field-binding=""email_binding"">
+  <label for=""form_email_exit_call_to_action_2"" class=""form-template-field-label ada-label email"">
+  
+  <span class=""ada-label-text"">
+    Email
+    <small class=""question-label-required"">(required)</small>
+  </span>
+  <span class=""ada-unique-content"">39ae7d1c</span>
+</label>
+
+  <input class=""form-control"" maxlength=""150"" autocomplete=""email"" data-candidate-field=""candidate_email"" data-uid=""237b97b3933e74222dcb5b1e57b6fbd5"" id=""form_email_exit_call_to_action_2"" required=""required"" aria-required=""true"" placeholder=""Email"" size=""150"" type=""email"" name=""form_submission[fields_attributes][2][email_value]"">
+  <input id=""form_field_kind_exit_call_to_action_2"" autocomplete=""off"" type=""hidden"" value=""email"" name=""form_submission[fields_attributes][2][kind]"">
+  <input id=""form_form_template_field_id_exit_call_to_action_2"" autocomplete=""off"" type=""hidden"" value=""237b97b3933e74222dcb5b1e57b6fbd5"" name=""form_submission[fields_attributes][2][form_template_field_uid]"">
+</div>
+
+      <input type=""hidden"" name=""_empty"" id=""empty_field_exit_call_to_action"" value="""" autocomplete=""off"">
+      
+      <div class=""form-group form-group-submit"">
+  <button name=""button"" type=""submit"" class=""btn btn-primary"" data-action=""blocks--call-to-action#sendFormSubmission"" data-blocks--call-to-action-target=""submitButton"" id=""form_submit_exit_call_to_action"">
+    <span class=""submit-state submit-start"">Submit your information</span>
+    <span class=""submit-state submit-in-progress""><i class=""fa fa-spinner fa-spin fa-fw""></i> Please wait...</span>
+    <span class=""submit-state submit-finished""><i class=""fa fa-check""></i> Done</span>
+</button></div>
+
+      <p class=""show-when-candidate-known"">
+  <a id=""link_not_candidate_exit_call_to_action"" class=""not-candidate"" href=""/me/settings"">
+    <span data-candidate-field=""candidate_first_name"" data-format=""Not %{candidate_first_name}?"" data-fallback=""Not You?"">
+      Not You?
+</span></a></p>
+      
+</form>  </div>
+  <div class=""call-to-action-get"" id=""call_to_action_response_exit_call_to_action"" data-blocks--call-to-action-target=""getSection"">
+      <p>Thank you, for sharing your information. A member of our team will reach out to you soon!</p>
+  </div>
+
+        </div>
+      </div>
+      <div class=""modal-footer"">
+        <button type=""button"" class=""btn btn-primary"" id=""close_exit_call_to_action"" data-bs-dismiss=""modal"" data-dismiss=""modal"">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<a id=""link_candidate_details"" style=""display: none"" aria-hidden=""true"" href=""/v1/candidate_details"">Candidate Details</a>
+  <div class=""consent-modal modal show"" tabindex=""-1"" role=""dialog"" aria-modal=""true"" aria-describedby=""cookie_consent_description"" aria-label=""Cookie consent"" data-controller=""init--explicit-consent-modal"" data-init--explicit-consent-modal-expires-value=""120"" data-init--explicit-consent-modal-consent-strategy-value=""explicit_consent"" data-modal-static-backdrop=""false"" style=""display: block;"">
+  <div class=""modal-dialog"" role=""document"">
+    <div class=""modal-content"">
+      <div class=""modal-header"">
+        <div class=""image-wrapper"" role=""img"" aria-label=""Columbia University logo""><img alt=""Columbia University logo"" src=""https://d25wby5c7p9100.cloudfront.net/public/uploads/de5c5e196bc2fb8b8ba55c158b2dd8de/companies/logos/de5c5e196bc2fb8b8ba55c158b2dd8de/thumb/cu-blue-logo.png?1663670090""></div>
+          <button type=""button"" class=""btn-close"" data-dismiss=""modal"" data-bs-dismiss=""modal"" aria-label=""Close""></button>
+
+      </div>
+      <div class=""modal-body"">
+        <div id=""cookie_consent_description"">
+          <p>This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Columbia University's usage of cookies and similar technologies, in accordance with the <a href=""https://www.cuit.columbia.edu/content/columbia-university-website-cookie-notice"" target=""_blank"">Columbia University Website Cookie Notice</a>.</p>
+        </div>
+          
+      </div>
+        <div class=""modal-footer"">
+    <button name=""button"" type=""button"" id=""consent_reject"" class=""btn btn-info consent-reject"" data-bs-dismiss=""modal"" data-dismiss=""modal"" data-init--explicit-consent-modal-target=""consentRejectButton"" data-action=""init--explicit-consent-modal#rejectCookies"">
+      <span>I do not accept</span>
+</button>    <button name=""button"" type=""button"" id=""consent_agree"" class=""btn btn-success consent-agree"" data-bs-dismiss=""modal"" data-dismiss=""modal"" data-init--explicit-consent-modal-target=""consentAgreeButton"" data-action=""init--explicit-consent-modal#acceptCookies"">
+  <span>I accept</span>
+</button>
+  </div>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+<span style=""position: absolute; top: -99999px; left: -99999px; width: auto; padding: 0px; white-space: pre;"">Please choose the location(s)</span><div class=""modal-backdrop show""></div></body></html>"
