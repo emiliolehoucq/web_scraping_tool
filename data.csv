@@ -24635,3 +24635,697 @@ callFnWhenReady(() => window._INDEED.shared.v1.load(""module"", {""urls"":[""htt
         <noscript><iframe src=""https://sgtm.indeed.com/ns.html?id=GTM-M7N65VVK""
         height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>
         <!-- End Google Tag Manager (noscript) --> <script src=""https://accounts.google.com/gsi/client""></script><iframe id=""SA_PRELOAD_ASSETS_IFRAME_ID"" src=""https://smartapply.indeed.com/beta/indeedapply/preloadresumeapply"" hidden=""""></iframe></body></html>"
+2024-09-01 03:22:29,https://careers.drexel.edu/en-us/job/503500/research-computing-specialist,"<html class="" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"" lang=""en""><!--<![endif]--><head><meta http-equiv=""origin-trial"" content=""3NNj0GXVktLOmVKwWUDendk4Vq2qgMVDBDX+Sni48ATJl9JBj+zF+9W2HGB3pvt6qowOihTbQgTeBm9SKbdTwYAAABfeyJvcmlnaW4iOiJodHRwczovL3JlY2FwdGNoYS5uZXQ6NDQzIiwiZmVhdHVyZSI6IlRwY2QiLCJleHBpcnkiOjE3MzUzNDM5OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=""><meta http-equiv=""origin-trial"" content=""A7uxtj3+hJmOcZFooFT0Ps276PuOqGnM1jfoPbFvxWp73VC60LnYGzayHVvcFeEiF0qrwy7fQAL+gGVXU+f9IQcAAACTeyJvcmlnaW4iOiJodHRwczovL3JlY2FwdGNoYS5uZXQ6NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"">
+    <!--imports mobile starting point, base styles, libraries, resets-->
+	<link rel=""stylesheet"" href=""https://drexel.edu/~/stylesheets/component/pagenotfound/mobile/?hash=c6335aea589a6e9093cca4ad7519ab80"">
+
+
+
+	<meta id=""ctl01"" http-equiv=""X-UA-Compatible"" content=""IE=8,9,10"">
+  <meta id=""ctl02"" charset=""utf-8"">
+  <meta id=""ctl03"" name=""viewport"" content=""width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no""> <!-- disable zooming -->
+    <title>
+      Careers at Drexel | Human Resources | Drexel University
+    </title>
+    <link id=""ctl05"" rel=""shortcut icon"" href=""https://drexel.edu/~/media/Images/core/FavIcon.ashx"">
+    <link id=""lkCanonical"" rel=""canonical"" href=""https://drexel.edu/hr/atDrexel/careers/"">
+    <meta id=""metaDescription"" name=""Description"" content=""Drexel University's Department of Human Resources serves to support the University's most important element ? people. Learn more about Careers at Drexel today.""><meta id=""metaServer"" name=""Server"" content=""SCFUTUREEDIT""><meta id=""ogTitle"" property=""og:title"" content=""Careers at Drexel - Human Resources""><meta id=""ogType"" property=""og:type"" content=""article""><meta id=""ogSiteName"" property=""og:site_name"" content=""Human Resources""><meta id=""ogURL"" property=""og:url"" content=""https://drexel.edu/hr/atDrexel/careers/""><meta id=""ogImage"" property=""og:image"" content=""https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"">
+
+
+
+    <!----- CAREERS CSS START ----->
+
+	    <!--imports mobile starting point, base styles, libraries, resets-->
+	<link rel=""stylesheet"" href=""https://drexel.edu/~/stylesheets/hr/careers/mobile/?hash=a8254117a6be8fadf90d5dcf9a819da9"">
+
+
+	<!--720 for (ipad-y)screens-->
+	<!--[if gte IE 9]><!-->
+	<style type=""text/css"" media=""all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)"">@import url(""https://drexel.edu/~/stylesheets/hr/careers/portrait/?hash=a4e6244a969671150655a9b3a6e385a8"");</style>
+	<!--<![endif]-->
+
+
+	<!--default non-mobile layout for legacy-->
+	<!--[if (lt IE 9)&(!IEMobile)]>
+	<style type=""text/css"" media=""all"">@import url(""https://drexel.edu/~/stylesheets/hr/careers/landscape/?hash=da19c9f0abd572f98f1848b16d70eb66"");</style>
+	<![endif]-->
+
+	<!--960 for appropriate screens. Bumped out 20 to accomodate design-->
+	<!--[if gte IE 9]><!-->
+	<style type=""text/css"" media=""all and (min-width: 1020px) and (min-device-width: 1020px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"">@import url(""https://drexel.edu/~/stylesheets/hr/careers/landscape/?hash=da19c9f0abd572f98f1848b16d70eb66"");</style>
+	<!--<![endif]-->
+
+
+	<!--1200 for larger screens-->
+	<!--[if gte IE 9]><!-->
+	<style type=""text/css"" media=""all and (min-width: 1260px)"">@import url(""https://drexel.edu/~/stylesheets/hr/careers/computer/?hash=f049fa66691809808a0d6447abeba437"");</style>
+	<!--<![endif]-->
+
+    <!----- CAREERS CSS END ----->
+
+
+
+
+    <!--imports mobile starting point, base styles, libraries, resets-->
+	<link rel=""stylesheet"" href=""https://drexel.edu/~/stylesheets/hr/mobile/?hash=f51962a9dd74b9f40095c967d5793636"">
+
+
+	<!--720 for (ipad-y)screens-->
+	<!--[if gte IE 9]><!-->
+	<style type=""text/css"" media=""all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)"">@import url(""https://drexel.edu/~/stylesheets/hr/portrait/?hash=28bd5859023ad853e276bba63ed0d5f9"");</style>
+	<!--<![endif]-->
+
+
+	<!--default non-mobile layout for legacy-->
+	<!--[if (lt IE 9)&(!IEMobile)]>
+	<style type=""text/css"" media=""all"">@import url(""https://drexel.edu/~/stylesheets/hr/landscape/?hash=e11c2d4ffbded6567d9daf976936f409"");</style>
+	<![endif]-->
+
+	<!--960 for appropriate screens. Bumped out 20 to accomodate design-->
+	<!--[if gte IE 9]><!-->
+	<style type=""text/css"" media=""all and (min-width: 1020px) and (min-device-width: 1020px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"">@import url(""https://drexel.edu/~/stylesheets/hr/landscape/?hash=e11c2d4ffbded6567d9daf976936f409"");</style>
+	<!--<![endif]-->
+
+	<!--1200 for larger screens-->
+	<!--[if gte IE 9]><!-->
+	<style type=""text/css"" media=""all and (min-width: 1260px)"">@import url(""https://drexel.edu/~/stylesheets/hr/computer/?hash=c30baedd21e352a626eb99f738154de9"");</style>
+	<!--<![endif]-->
+ 
+
+	<script type=""text/javascript"" async="""" src=""https://analytics.tiktok.com/i18n/pixel/static/identify_7bf75739.js""></script><script type=""text/javascript"" async="""" src=""https://analytics.tiktok.com/i18n/pixel/static/main.MTZlYmMyNjliMQ.js"" data-id=""CDDEEI3C77U1JEFR7PNG""></script><script id=""vpr-capture"" async="""" src=""https://cdn.veritonic.com/static/vpr.min.js""></script><script type=""text/javascript"" async="""" src=""https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CDDEEI3C77U1JEFR7PNG&amp;lib=ttq""></script><script type=""text/javascript"" async="""" src=""https://snap.licdn.com/li.lms-analytics/insight.min.js""></script><script async="""" src=""https://www.clarity.ms/s/0.7.45/clarity.js""></script><script async="""" src=""https://sc-static.net/scevent.min.js""></script><script async="""" src=""https://www.clarity.ms/tag/90zzugyhni?ref=gtm2""></script><script src=""https://connect.facebook.net/signals/config/176150353765937?v=2.9.166&amp;r=stable&amp;domain=careers.drexel.edu&amp;hme=da9a399065fb1c492026018b9e54864148adfb49d800f41752428fb7b59190f8&amp;ex_m=69%2C118%2C104%2C108%2C60%2C4%2C97%2C68%2C16%2C94%2C86%2C50%2C53%2C168%2C171%2C183%2C179%2C180%2C182%2C29%2C98%2C52%2C75%2C181%2C163%2C166%2C176%2C177%2C184%2C127%2C40%2C34%2C139%2C15%2C49%2C190%2C189%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C164%2C167%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110%2C196%2C195%2C197%2C202%2C203%2C204%2C200%2C192%2C128%2C130%2C159%2C191%2C193%2C119%2C153%2C141%2C147%2C185%2C186%2C125%2C228%2C113%2C123%2C124%2C229%2C161%2C116%2C231%2C162%2C132%2C120%2C150%2C144"" async=""""></script><script src=""https://connect.facebook.net/signals/config/821157078785204?v=2.9.166&amp;r=stable&amp;domain=careers.drexel.edu&amp;hme=da9a399065fb1c492026018b9e54864148adfb49d800f41752428fb7b59190f8&amp;ex_m=69%2C118%2C104%2C108%2C60%2C4%2C97%2C68%2C16%2C94%2C86%2C50%2C53%2C168%2C171%2C183%2C179%2C180%2C182%2C29%2C98%2C52%2C75%2C181%2C163%2C166%2C176%2C177%2C184%2C127%2C40%2C34%2C139%2C15%2C49%2C190%2C189%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C164%2C167%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110%2C196%2C195%2C197%2C202%2C203%2C204%2C200%2C192%2C128%2C130%2C159%2C191%2C193%2C119%2C153%2C141%2C147%2C185%2C186%2C125%2C228%2C113%2C123%2C124%2C229%2C161%2C116%2C231%2C162%2C132%2C120%2C150%2C144"" async=""""></script><script src=""https://connect.facebook.net/signals/config/2087170944850202?v=2.9.166&amp;r=stable&amp;domain=careers.drexel.edu&amp;hme=da9a399065fb1c492026018b9e54864148adfb49d800f41752428fb7b59190f8&amp;ex_m=69%2C118%2C104%2C108%2C60%2C4%2C97%2C68%2C16%2C94%2C86%2C50%2C53%2C168%2C171%2C183%2C179%2C180%2C182%2C29%2C98%2C52%2C75%2C181%2C163%2C166%2C176%2C177%2C184%2C127%2C40%2C34%2C139%2C15%2C49%2C190%2C189%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C164%2C167%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110"" async=""""></script><script async="""" src=""https://connect.facebook.net/en_US/fbevents.js""></script><script async="""" src=""https://www.googletagmanager.com/gtm.js?id=GTM-KQV5JFP""></script><script type=""text/javascript"" async="""" src=""https://www.googletagmanager.com/gtag/destination?id=AW-16652750553&amp;l=dataLayer&amp;cx=c""></script><script type=""text/javascript"" async="""" src=""https://www.google-analytics.com/analytics.js""></script><script type=""text/javascript"" async="""" src=""https://www.googletagmanager.com/gtag/js?id=G-6KJ1PNLE19&amp;l=dataLayer&amp;cx=c""></script><script type=""text/javascript"" async="""" src=""https://www.googletagmanager.com/gtag/js?id=G-H9NXSPBKEB&amp;l=dataLayer&amp;cx=c""></script><script type=""text/javascript"" src=""https://careers.drexel.edu/cw/en-us/jobs.json?callback=PU.Widgets.jobListingInstances[&quot;campaigns&quot;].setData&amp;dt=1725160963369&amp;system-type=GENERAL&amp;system-type=REDEPLOYMENT&amp;system-type=GRADUATECAMPAIGN""></script><script type=""text/javascript"" async="""" src=""https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16652750553/?random=1725160964221&amp;cv=11&amp;fst=1725160964221&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be48s0z872434421za201zb72434421&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fcareers.drexel.edu%2Fen-us%2Fjob%2F503500%2Fresearch-computing-specialist&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Careers%20at%20Drexel%20%7C%20Human%20Resources%20%7C%20Drexel%20University&amp;npa=0&amp;pscdl=noapi&amp;auid=641702490.1725160964&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=Linux&amp;uapv=&amp;uaw=0&amp;fledge=1&amp;rfmt=3&amp;fmt=4""></script></head><body id=""htmlBody"" class=""alt-layout""><div style=""display:none"" class=""component-exception"" data-type=""ASP.layouts_v2_core_css_placer_ascx"" data-exception-count=""3""></div>
+  <script type=""text/javascript"" async="""" charset=""utf-8"" src=""https://www.gstatic.com/recaptcha/releases/WV-mUKO4xoWKy9M4ZzRyNrP_/recaptcha__en.js"" crossorigin=""anonymous"" integrity=""sha384-1TUNDcvWQ6Ms5xMd7JPWn58lx7KCTI21j1WEYm2E+AxZi1T3AogJVuz8TFKxqipQ""></script><script async="""" src=""//www.googletagmanager.com/gtm.js?id=GTM-TJCKC2""></script><script type=""text/javascript"" async="""" src=""https://www.googletagmanager.com/gtag/js?id=G-8MJYP9RHDL""></script><script src=""https://drexel.edu/bundles/v2-core-js?v=Rigw49qVsXGfapgTkNmG4epHb1cqYMKLEer0bRy8HCQ1""></script>­<style>@font-face {font-family:""font"";src:url(""https://"")}@media (touch-enabled),(-webkit-touch-enabled),(-moz-touch-enabled),(-o-touch-enabled),(-ms-touch-enabled),(modernizr){#touch{top:9px;position:absolute}}@media (transform-3d),(-webkit-transform-3d),(-moz-transform-3d),(-o-transform-3d),(-ms-transform-3d),(modernizr){#csstransforms3d{left:9px;position:absolute;height:3px;}}#generatedcontent:after{content:"":)"";visibility:hidden}</style>
+
+<!--[if IE 8]>
+    <script src=""https://drexel.edu/sc_scripts/V2/libs/ie8_fix_maxwidth.js"" type=""text/javascript""></script>
+<![endif]-->
+
+
+
+<!----- ADOBE TYPEKIT ----->
+<!-- <link rel=""stylesheet"" href=""https://use.typekit.net/aof2fpk.css""> -->
+
+
+
+<script src=""https://careers-static.pageuppeople.com/Jobs-39170149918616823646177135332332305121163.js"" type=""text/javascript""></script>
+	<script>PU.Jobs.source = {""instId"":820,""sourcePointer"":""cw"",""language"":""en-us"",""baseDomain"":""https://careers.drexel.edu"",""dynamicTemplate"":true,""action"":""Detail""};PU.Analytics.init({""TrackingId"":""G-8MJYP9RHDL"",""InstanceTrackingId"":null});if (PU.LocationSearch) { PU.LocationSearch.setIPLocation({""Lat"":38,""Lon"":-97,""Country"":""United States"",""State"":null,""City"":null})};</script><link href=""https://careers-static.pageuppeople.com/jobs-shared-010005202249131221250017020413143166133192.css"" rel=""stylesheet"" type=""text/css"">
+
+<link id=""https://drexel.edu/sc_scripts/jquery-ui-1.8.23/css/smoothness/jquery-ui-1.8.23.custom.css"" type=""text/css"" rel=""stylesheet"" href=""https://drexel.edu/sc_scripts/jquery-ui-1.8.23/css/smoothness/jquery-ui-1.8.23.custom.css"">
+
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src=""//www.googletagmanager.com/ns.html?id=GTM-TJCKC2""
+    height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TJCKC2');</script>
+    <!-- End Google Tag Manager -->
+
+
+<!--<script src=""https://drexel.edu/bundles/v2-pagenotfound-js?v=8lqYvpjOwX4-ySsDwSm00Q2Rjbq-OmK8boYwqgBLMt81""></script>-->
+
+
+
+
+
+
+
+<ul class=""bg-images"" id=""bg-images"">
+    <li><noscript data-path=""https://drexel.edu/~/media/Images/coresite/backgrounds/colored-backgrounds/blue-bg"" data-alt="" "" class=""responsive-image""><img src=""https://drexel.edu/~/media/Images/coresite/backgrounds/colored-backgrounds/blue-bg/mobile.ashx"" alt="" "" /></noscript><img src=""https://drexel.edu/~/media/Images/coresite/backgrounds/colored-backgrounds/blue-bg/narrow.ashx"" title="""" alt="" "" style=""z-index: 3; display: block;""></li>
+</ul>
+
+<div class=""page-top"">
+	<div class=""wrap row "">
+		<header id=""header"" style=""height: 219px;"">
+            <div id=""bodytag_1_divSiteBar"">
+
+                <h1 id=""logo"" style=""bottom: 79px;""><a href=""https://drexel.edu"">Drexel University</a></h1>
+			    <h2 id=""site-title"" style=""bottom: 79px;""><a id=""bodytag_1_hlSiteName"" href=""https://drexel.edu/hr/"">Human Resources</a></h2>
+
+</div>
+
+
+            <div id=""bodytag_1_pnlNav"">
+
+			    <nav id=""global-nav"" class=""row"">
+				    <div id=""site-search-custom"">
+					    <input type=""search"" class=""header-search"" placeholder=""Search..."" aria-label=""Search Terms"">
+
+                        <script type=""text/javascript"">
+                            $(document).ready(function () { DREXEL.Wrapper.OverrideSearchBox(""/hr/search/"") });
+                        </script>
+
+				    </div>
+                    <ul><li><a href=""https://drexel.edu/hr/atDrexel/employmentOps/"">Career Opportunities</a></li><li><a href=""https://drexel.edu/hr/about/contact/"">Contact Directory</a></li><li><a href=""https://drexel.edu/hr/about/forms/"">Forms</a></li></ul>
+
+<ul id=""alt-layout-nav"">
+    <li><a href=""https://drexel.edu/hr/"">Site Home</a><ul><li><a href=""https://drexel.edu/"">Drexel University</a></li><li class=""bordered""><a href=""https://drexel.edu/treasurer/"">Office of the Executive Vice President, Treasurer and COO</a></li><li><a href=""https://drexel.edu/business-services/"">Business Services</a></li><li><a href=""https://drexel.edu/cpo/"">Corporate Compliance and Privacy Office</a></li><li><a href=""https://drexel.edu/it/"">Drexel University Information Technology</a></li><li class=""current""><a href=""https://drexel.edu/hr/"">Human Resources</a></li><li><a href=""https://drexel.edu/audit/"">Internal Audit Department</a></li><li><a href=""https://drexel.edu/budget/"">Office of Budget and Financial Planning</a></li><li><a href=""https://drexel.edu/oed/"">Office of Equality and Diversity</a></li><li><a href=""https://drexel.edu/pmoe/"">Office of Program Management and Organizational Effectiveness</a></li><li><a href=""https://drexel.edu/tax/"">Office of Tax Compliance</a></li><li><a href=""https://drexel.edu/comptroller/"">Office of the Comptroller</a></li><li><a href=""https://drexel.edu/procurement/"">Procurement Services</a></li><li><a href=""https://drexel.edu/publicsafety/"">Public Safety</a></li><li class=""bordered""><a href=""https://drexel.edu/facilities/"">University Facilities and Real Estate</a></li></ul></li>
+</ul>
+			    </nav>
+
+</div>
+            <div id=""bodytag_1_pnlSiteNav"">
+
+			    <div id=""main-nav"">
+
+<nav style=""height: 55px;"">
+    <h1>Main Sections</h1>
+    <ul class=""top-level"" style=""width: 447px; margin: 0px auto;""><li class=""active section"" style=""height: 55px;""><a href=""https://drexel.edu/hr/atDrexel/"" class=""section"" style=""height: 55px;"">Working Here</a><ul style=""top: 55px;""><li><a href=""https://drexel.edu/hr/atDrexel/Overview/"">Overview</a></li><li><a href=""https://drexel.edu/hr/atDrexel/employmentOps/"">Career Opportunities</a></li><li><a href=""https://drexel.edu/hr/atDrexel/studentEmployment/"">Student Employment</a></li><li><a href=""https://drexel.edu/hr/atDrexel/new/"">New to Drexel or ANS?</a></li><li><a href=""https://drexel.edu/hr/atDrexel/culture/"">Culture and History</a></li><li><a href=""https://drexel.edu/hr/atDrexel/whosWho/"">Who's Who </a></li><li><a href=""https://drexel.edu/hr/atDrexel/campusLife/"">Campus Life</a></li><li><a href=""https://drexel.edu/hr/atDrexel/philly/"">Attractions and Resources</a></li></ul></li><li class=""section"" style=""height: 55px;""><a href=""https://drexel.edu/hr/benefits/"" class=""section"" style=""height: 55px;"">Benefits</a><ul style=""top: 55px;""><li><a href=""https://drexel.edu/hr/benefits/overview/"">Overview</a></li><li><a href=""https://drexel.edu/hr/benefits/health-coverage/"">Health Coverage</a></li><li><a href=""https://drexel.edu/hr/benefits/insurance/"">Life, Accident, Disability Insurance</a></li><li><a href=""https://drexel.edu/hr/benefits/life-event/"">Mid-Year Life Changes</a></li><li><a href=""https://drexel.edu/hr/benefits/leave/"">FMLA and Leave of Absence</a></li><li><a href=""https://drexel.edu/hr/benefits/tuition/"">Tuition Benefits</a></li><li><a href=""https://drexel.edu/hr/benefits/retirement/"">Retirement</a></li><li><a href=""https://drexel.edu/hr/benefits/days-off/"">Time Off Benefits</a></li><li><a href=""https://drexel.edu/hr/benefits/other-benefits/"">Other Benefits</a></li><li><a href=""https://drexel.edu/hr/benefits/a-healthier-u/"">A Healthier U</a></li><li><a href=""https://drexel.edu/hr/benefits/resources/"">Resources and FAQs</a></li><li><a href=""https://drexel.edu/hr/benefits/duo-benefits/"">Benefits for Drexel University Online Employees</a></li></ul></li><li class=""section"" style=""height: 55px;""><a href=""https://drexel.edu/hr/career/"" class=""section"" style=""height: 55px;"">Your Career</a><ul style=""top: 55px;""><li><a href=""https://drexel.edu/hr/career/overview/"">Overview</a></li><li><a href=""https://drexel.edu/hr/career/career-pathway/"">Career Pathway</a></li><li><a href=""https://drexel.edu/hr/career/development/"">Learning &amp; Development</a></li><li><a href=""https://drexel.edu/hr/career/ducomp/"">Compensation and Salaries</a></li><li><a href=""https://drexel.edu/hr/career/review/"">Performance Management Process</a></li><li><a href=""https://drexel.edu/hr/career/engaging-u/"">Engaging U</a></li><li><a href=""https://drexel.edu/hr/career/tuition/"">Tuition Remission Program</a></li></ul></li><li class=""section"" style=""height: 55px;""><a href=""https://drexel.edu/hr/resources/"" class=""section"" style=""height: 55px;"">Employee Resources</a><ul style=""top: 55px;""><li><a href=""https://drexel.edu/hr/resources/employee-resources/"">Overview</a></li><li><a href=""https://drexel.edu/hr/resources/er/"">Employee Relations</a></li><li><a href=""https://drexel.edu/hr/resources/forms/"">Employee Forms</a></li><li><a href=""https://drexel.edu/hr/resources/policies/"">University Policies</a></li><li><a href=""https://drexel.edu/hr/resources/software/"">Software for Employees</a></li><li><a href=""https://drexel.edu/hr/resources/links/"">Helpful Links</a></li><li><a href=""https://drexel.edu/hr/resources/faqs/"">FAQs</a></li></ul></li><li class=""section"" style=""height: 55px;""><a href=""https://drexel.edu/hr/management/"" class=""section"" style=""height: 55px;"">Manager Tools</a><ul style=""top: 55px;""><li><a href=""https://drexel.edu/hr/management/Overview/"">Overview</a></li><li><a href=""https://drexel.edu/hr/management/staffing/"">Staff Your Organization</a></li><li><a href=""https://drexel.edu/hr/management/budget/"">Budget Administration Resources</a></li><li><a href=""https://drexel.edu/hr/management/reports/"">Reports</a></li><li><a href=""https://drexel.edu/hr/management/forms/"">Management Forms</a></li><li><a href=""https://drexel.edu/hr/management/links/"">Resources</a></li></ul></li><li class=""section"" style=""height: 55px;""><a href=""https://drexel.edu/hr/about/"" class=""section"" style=""height: 55px;"">About</a><ul style=""top: 55px;""><li><a href=""https://drexel.edu/hr/about/Overview/"">About</a></li><li><a href=""https://drexel.edu/hr/about/departments/"">Departments</a></li><li><a href=""https://drexel.edu/hr/about/calendar-events/"">Events Calendar</a></li><li><a href=""https://drexel.edu/hr/about/events/"">Special Events</a></li><li><a href=""https://drexel.edu/hr/about/news/"">News and Announcements</a></li><li><a href=""https://drexel.edu/hr/about/volunteers/"">Volunteers</a></li><li><a href=""https://drexel.edu/hr/about/forms/"">Forms</a></li><li><a href=""https://drexel.edu/hr/about/contact/"">Contact Directory</a></li></ul></li></ul>
+</nav>
+			    </div><!--main-nav-->
+
+</div>
+		</header>
+	</div><!--wrap-->
+</div><!--top-border-->
+<div class=""wrap row"">
+	<div id=""page"" class=""two-col-right"">
+        <div class=""grid-24""></div>
+        <div class=""grid-24 breadcrumbs"">
+
+<nav id=""breadcrumbs"">
+    <ul><li><a href=""https://drexel.edu/hr/"">Home</a></li><li><a href=""https://drexel.edu/hr/atDrexel/"">Working Here</a></li><li>Careers at Drexel</li></ul>
+</nav>
+		</div><!--grid-->
+
+        <div class=""row""><form action=""/en-us/search/"" method=""get"" id=""jobs-form"" class=""careers-browse"">
+
+			<div id=""center-rail"" class=""grid-18"">
+
+				<article>
+					<hgroup>
+						<h1>Careers at Drexel</h1>
+
+					</hgroup>
+
+
+
+
+                    <div id=""snippet_Body_Content_Top_divSnippet"" class="""">
+                    	<h2>About Drexel University</h2>
+					    <p>Located in the heart of Philadelphia, Drexel University is a world‐class, comprehensive, R1 research institution and a global leader in experiential education. For more than 100 years, our renowned <a href=""https://drexel.edu/academics/co-op"" target=""_blank"">Cooperative Education (co-op) program</a> has enabled students to gain professional work experience before they graduate, setting them apart from their peers.</p>
+
+						<p>Committed to becoming the nation’s most civically engaged university, Drexel supports engagement along three dimensions: research and academic programs that directly benefit communities, business practices that support equitable local and regional economic development, and public service by students, faculty, and staff. Our engagement is long‐term, multigenerational, and fundamental to the University’s mission, heritage, and future.</p>
+
+						<p>At Drexel, we are devoted to fostering an inclusive and welcoming environment that promotes healthy lifestyles and is based on integrity, trust, and respect. We center equity, inclusion and belonging, and incorporate an anti‐racism approach to our strategic plan, organizational systems, policies and structures.</p>
+
+						<p>Drexel offers its highly engaged faculty and professional staff a comprehensive and world‐class benefits package that includes generous vacation and paid time off as applicable (including civic engagement days), up to an 11% 403(b) Retirement Plan match with immediate vesting, and remote and flexible work options for many roles. Our exceptional medical plans include domestic partner and fertility assistance and our award‐winning <em>A Healthier U</em> wellness program. In addition, faculty and professional
+						staff at Drexel enjoy free tuition for themselves and their dependents for Drexel degree programs, certification, and non‐certification programs. And as part of the tuition offering to employees, Drexel participates in a tuition exchange program for dependents with other higher education institutions. These are just a sample of our extensive benefit offerings. Please see this <a href=""https://issuu.com/csbcommunications/docs/drexel_ft_staff_benefits_bro_v1?fr=sZDc2YjMyNzYzOTM"" target=""_blank"">Benefits Brochure</a> for more information.</p>
+
+</div>
+
+<div id=""message-list"" style=""display: block; font-weight:bold;font: bold 18px/1 FuturaCnd,arial,sans-serif;text-transform: uppercase;color: #006298;""></div>
+
+    <div id=""messages"" style=""display: block;""></div><div id=""waiting"" class=""waiting"" style=""display: none;""></div><div id=""job""><div id=""job-content"">
+<h2>Research Computing Specialist</h2>
+<style>
+  .jobDutyRow .level {display:none;}
+</style>
+<p>
+  <span style=""float:right""><a class=""apply-link button"" href=""https://secure.dc4.pageuppeople.com/apply/820/gateway/default.aspx?c=apply&amp;lJobID=503500&amp;lJobSourceTypeID=796&amp;sLanguage=en-us"">Apply now</a></span>
+  <b>Job no:</b> <span class=""job-externalJobNo"">503500</span><br>
+  <b>Work type:</b> <span class=""work-type full-time"">Full-Time</span><br>
+  <b>Location:</b> <span class=""location"">Hybrid/Flexible Work Arrangement</span><br>
+  <b>Categories:</b> <span class=""categories"">Drexel University, Office of Research &amp; Innovation</span><br>
+  <!--<b>Job Duties:</b> <div class=""jobDutyRow"">
+<span class=""percentage""></span><span class=""duties"">•	Additional Leadership Activities for Senior-Level Position
+o	Provide advisory support to faculty/users for grant and manuscript preparation. 
+o	Contribute to the development of a core business plan for the URCF that includes sustainability and optimization of existing services and identifies priorities and opportunities for future instrumentation and services.
+o	Direct involvement in the planning, design and implementation of the next shared HPC systems at Drexel. This includes serving as Principal Investigator or Co-investigator on NSF or NIH proposals for shared cyberinfrastructure.
+o	Lead project to develop domain-focused research facilitation program</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage""></span><span class=""duties"">The University Research Computing Facility (URCF) is a centrally reporting core facility that provides access to high-performance computing hardware and software resources for research computing. The URCF occupies a 1,600 sq. ft., 0.6 MW, climate-controlled server room that hosts the NSF-Drexel funded Picotte shared HPC cluster, which consists of 4,224 compute cores and 48 Nvidia Tesla V100 GPUs along with a high-capacity storage system. In 2025, the University will be taking delivery of a second system designed for Deep Learning applications and large-scale data storage. The Research Computing Specialist is responsible for supporting researchers and other users of the URCF resources, the management of HPC systems, and for guiding the strategic development of the URCF. The position reports to the Operations Director of Research Core Facilities (part of the Office of Research & Innovation) and will also work closely with the Faculty Director of the URCF, who leads a Faculty Advisory Committee charged with helping the facility develop and meet its strategic, financial and operational goals. The position will work in partnership with teams from Central and Distributed IT who will provide hardware and systems administrative support for URCF equipment. URCF financial administration is provided by the Office of Research & Innovation.</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage"">15</span><span class=""duties"">•	Leadership-Facing Activities:
+o	Meet regularly with the Operations Director for Research Core Facilities and URCF Faculty Director to discuss current needs, new technologies, educational and outreach activities, career development, personnel management, and operational issues.
+o	Contribute to the development of metrics to evaluate the impact of the URCF on the University Research and Academic missions. 
+o	Contribute to the preparation of an annual report summarizing the activities, developments and impact of the URCF.</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage"">15</span><span class=""duties"">•	System-facing activities:
+o	Manage user accounts, allocations of hours and storage, and batch queuing shared HPC systems.
+o	Manage software and operating systems on shared HPC systems.
+o	Develop and maintain documentation relevant to the shared HPC systems.
+o	Manage software for monitoring and reporting URCF activities and usage.</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage"">70</span><span class=""duties"">•	User-Facing Activities: 
+o	Provide consultation services on the use of shared research computing resources and the use of various programming languages and analytical software. 
+o	Provide effective technical support for users of Drexel’s shared research computing resources.
+o	Develop and/or maintain user-facing documentation and real-time system status information.
+o	Develop and lead workshops on research computing and data topics designed to expand user engagement and success.</span><span class=""level"">Essential</span>
+</div>
+<br>-->
+</p>
+<div id=""job-details"">
+   <p><strong>Job Summary</strong></p>
+<p>The University Research Computing Facility (URCF) is a centrally reporting core facility that provides access to high-performance computing hardware and software resources for research computing. The URCF occupies a 1,600 sq. ft., 0.6 MW, climate-controlled server room that hosts the NSF-Drexel funded Picotte shared HPC cluster, which consists of 4,224 compute cores and 48 Nvidia Tesla V100 GPUs along with a high-capacity storage system. In 2025, the University will be taking delivery of a second system designed for Deep Learning applications and large-scale data storage. The Research Computing Specialist is responsible for supporting researchers and other users of the URCF resources, the management of HPC systems, and for guiding the strategic development of the URCF. The position reports to the Operations Director of Research Core Facilities (part of the Office of Research &amp; Innovation) and will also work closely with the Faculty Director of the URCF, who leads a Faculty Advisory Committee charged with helping the facility develop and meet its strategic, financial and operational goals. The position will work in partnership with teams from Central and Distributed IT who will provide hardware and systems administrative support for URCF equipment. URCF financial administration is provided by the Office of Research &amp; Innovation.</p>
+<p><strong>Essential Functions</strong></p>
+<ul>
+<li>System-facing activities:
+<ul type=""circle"">
+<li>Manage user accounts, allocations of hours and storage, and batch queuing shared HPC systems.</li>
+<li>Manage software and operating systems on shared HPC systems.</li>
+<li>Develop and maintain documentation relevant to the shared HPC systems.</li>
+<li>Manage software for monitoring and reporting URCF activities and usage.</li>
+</ul>
+</li>
+<li>User-Facing Activities:
+<ul type=""circle"">
+<li>Provide consultation services on the use of shared research computing resources and the use of various programming languages and analytical software.</li>
+<li>Provide effective technical support for users of Drexel’s shared research computing resources.</li>
+<li>Develop and/or maintain user-facing documentation and real-time system status information.</li>
+<li>Develop and lead workshops on research computing and data topics designed to expand user engagement and success.</li>
+</ul>
+</li>
+<li>Leadership-Facing Activities:
+<ul type=""circle"">
+<li>Meet regularly with the Operations Director for Research Core Facilities and URCF Faculty Director to discuss current needs, new technologies, educational and outreach activities, career development, personnel management, and operational issues.</li>
+<li>Contribute to the development of metrics to evaluate the impact of the URCF on the University Research and Academic missions.</li>
+<li>Contribute to the preparation of an annual report summarizing the activities, developments and impact of the URCF.</li>
+</ul>
+</li>
+<li>Additional Leadership Activities for Senior-Level Position
+<ul type=""circle"">
+<li>Provide advisory support to faculty/users for grant and manuscript preparation.</li>
+<li>Contribute to the development of a core business plan for the URCF that includes sustainability and optimization of existing services and identifies priorities and opportunities for future instrumentation and services.</li>
+<li>Direct involvement in the planning, design and implementation of the next shared HPC systems at Drexel. This includes serving as Principal Investigator or Co-investigator on NSF or NIH proposals for shared cyberinfrastructure. o Lead project to develop domain-focused research facilitation program</li>
+</ul>
+</li>
+</ul>
+<p><strong>Required Qualifications</strong></p>
+<ul>
+<li>Bachelor’s Degree in Computer Science, Engineering Science, or related field or the equivalent combination of education and work experience.
+<ul type=""circle"">
+<li>Please review the&nbsp; <a href=""https://drexel.edu/hr/career/ducomp/equivalency/"">Equivalency Chart</a> for additional information</li>
+</ul>
+</li>
+<li>0-2 years’ of experience</li>
+<li>Knowledge of principles of computing and/or communications networks, and characteristics of computing hardware and software used in distributed environments.</li>
+<li>Strong oral and written communication skills.</li>
+<li>Ability to assimilate, retain, and utilize technical and applications-oriented information.</li>
+<li>Ability to establish and maintain effective working relationships.</li>
+<li>Ability to work with considerable independence and initiative.</li>
+<li>Knowledge of safety and security precautions appropriate to work performed.</li>
+<li>Basic Wiki management and webpage development.</li>
+<li>Working with python and bash.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>Work experience in a shared HPC facility or any equivalent combination of education, training and experience</li>
+<li>Experience using and administering the SLURM job scheduler.</li>
+<li>Experience administering academic scientific software (MATLAB, etc.).</li>
+<li>Experience Answering end-user questions about running software in an HPC environment.</li>
+</ul>
+<p><strong>Physical Requirements</strong></p>
+<ul>
+<li>Typically sitting at a desk/table</li>
+<li>Typically standing, walking</li>
+<li>Lifting demands ≤ 25lbs</li>
+<li>Typically bending, crouching, stooping</li>
+</ul>
+<p><strong>Location</strong></p>
+<ul>
+<li>Hybrid/Flexible Work Arrangement – Philadelphia, PA</li>
+</ul>
+<p><strong>Additional Information</strong></p>
+<p>This position is classified as exempt, grade K. Compensation for this grade ranges from $54,630 - $81,940. Please note that the offered rate for this position typically aligns with the minimum to midrange of this grade, but it can vary based on the successful candidate’s qualifications and experience, department budget, and an internal equity review.&nbsp;</p>
+<p>We encourage you to explore Drexel's Professional Staff salary structure and <a href=""https://drexel.edu/hr/career/ducomp/"">Compensation Guidelines &amp; Policies</a> for more details on our compensation framework.</p>
+<p>You can also find valuable information about our benefits in the <a href=""https://issuu.com/csbcommunications/docs/drexel_ft_staff_benefits_bro_v1?fr=sZDc2YjMyNzYzOTM"">Benefits Brochure</a>.</p>
+<p><strong>Special Instructions to the Applicant</strong></p>
+<p>Please make sure you upload your CV/resume and cover letter when submitting your application.</p>
+<p>A review of applicants will begin once a suitable candidate pool is identified.</p>
+<p>&nbsp;</p>
+<p>#LI-Hybrid</p>
+ <!--<h3>Job duties:</h3>
+   <div class=""jobDutyRow"">
+<span class=""percentage""></span><span class=""duties"">•	Additional Leadership Activities for Senior-Level Position
+o	Provide advisory support to faculty/users for grant and manuscript preparation. 
+o	Contribute to the development of a core business plan for the URCF that includes sustainability and optimization of existing services and identifies priorities and opportunities for future instrumentation and services.
+o	Direct involvement in the planning, design and implementation of the next shared HPC systems at Drexel. This includes serving as Principal Investigator or Co-investigator on NSF or NIH proposals for shared cyberinfrastructure.
+o	Lead project to develop domain-focused research facilitation program</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage""></span><span class=""duties"">The University Research Computing Facility (URCF) is a centrally reporting core facility that provides access to high-performance computing hardware and software resources for research computing. The URCF occupies a 1,600 sq. ft., 0.6 MW, climate-controlled server room that hosts the NSF-Drexel funded Picotte shared HPC cluster, which consists of 4,224 compute cores and 48 Nvidia Tesla V100 GPUs along with a high-capacity storage system. In 2025, the University will be taking delivery of a second system designed for Deep Learning applications and large-scale data storage. The Research Computing Specialist is responsible for supporting researchers and other users of the URCF resources, the management of HPC systems, and for guiding the strategic development of the URCF. The position reports to the Operations Director of Research Core Facilities (part of the Office of Research & Innovation) and will also work closely with the Faculty Director of the URCF, who leads a Faculty Advisory Committee charged with helping the facility develop and meet its strategic, financial and operational goals. The position will work in partnership with teams from Central and Distributed IT who will provide hardware and systems administrative support for URCF equipment. URCF financial administration is provided by the Office of Research & Innovation.</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage"">15</span><span class=""duties"">•	Leadership-Facing Activities:
+o	Meet regularly with the Operations Director for Research Core Facilities and URCF Faculty Director to discuss current needs, new technologies, educational and outreach activities, career development, personnel management, and operational issues.
+o	Contribute to the development of metrics to evaluate the impact of the URCF on the University Research and Academic missions. 
+o	Contribute to the preparation of an annual report summarizing the activities, developments and impact of the URCF.</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage"">15</span><span class=""duties"">•	System-facing activities:
+o	Manage user accounts, allocations of hours and storage, and batch queuing shared HPC systems.
+o	Manage software and operating systems on shared HPC systems.
+o	Develop and maintain documentation relevant to the shared HPC systems.
+o	Manage software for monitoring and reporting URCF activities and usage.</span><span class=""level"">Essential</span>
+</div>
+<div class=""jobDutyRow"">
+<span class=""percentage"">70</span><span class=""duties"">•	User-Facing Activities: 
+o	Provide consultation services on the use of shared research computing resources and the use of various programming languages and analytical software. 
+o	Provide effective technical support for users of Drexel’s shared research computing resources.
+o	Develop and/or maintain user-facing documentation and real-time system status information.
+o	Develop and lead workshops on research computing and data topics designed to expand user engagement and success.</span><span class=""level"">Essential</span>
+</div>
+-->
+</div>
+<p>
+  <b>Advertised:</b> <span class=""open-date""><time datetime=""2024-08-14T13:00:00Z"">Aug 14 2024 </time></span> Eastern Daylight Time<br>
+  <b>Applications close:</b> <span class=""close-date""><time datetime=""2024-10-15T03:55:00Z"">Oct 14 2024 </time></span> Eastern Daylight Time
+</p>
+
+<p><a class=""back-link button"" href=""/en-us/listing/?"">Back to search results</a> <a class=""apply-link button"" href=""https://secure.dc4.pageuppeople.com/apply/820/gateway/default.aspx?c=apply&amp;lJobID=503500&amp;lJobSourceTypeID=796&amp;sLanguage=en-us"">Apply now</a> <a class=""employee-referral-link button"" href=""https://secure.dc4.pageuppeople.com/apply/820/gateway/default.aspx?c=employeereferral&amp;lJobID=503500&amp;lJobSourceTypeID=796&amp;sLanguage=en-us&amp;sHome=https%3a%2f%2fcareers.drexel.edu%2fen-us%2fjob%2f503500%2fresearch-computing-specialist"" rel=""nofollow"">Refer a friend</a></p>
+
+
+<iframe src=""/SocialShareKit"" width=""100%"" frameborder=""0""></iframe>
+</div></div><div id=""search-results"" style=""display:none"">
+  
+<div id=""job-mail"" class=""script"">
+    <a id=""job-mail-trigger"" href=""/en-us/job/503500/research-computing-specialist"" aria-expanded=""false"">Send me jobs like these</a>
+    <div id=""job-mail-content"">
+        <div id=""job-mail-subscribe"">
+            <p>We will email you new jobs that match this search.</p>
+            
+<div id=""job-mail-email"">
+    <input aria-label=""Email address"" type=""email"" id=""job-mail-subscribe-email"" name=""job-mail-subscribe-email"" class=""text-input"" placeholder=""address@example.com"" value="""" aria-required=""true"">
+</div>
+<p id=""job-mail-subscribed"" class=""success"" style=""display: none;"">Great, we can send you jobs like this, if this is your first time signing up, please check your inbox to confirm your subscription.</p>
+<p id=""job-mail-error"" class=""error"" style=""display: none;"">The email address was invalid, please check for errors.</p>
+<p id=""job-mail-agreed"" class=""error"" style=""display: none;"">You must agree to the privacy statement</p>
+<label for=""job-mail-subscribe-button"" style=""display: none;"">Subscribe</label>
+<script src=""https://www.recaptcha.net/recaptcha/api.js""></script>
+
+<label aria-hidden=""true"" for=""g-recaptcha-response"" style=""display: none"">Recaptcha</label>
+<div class=""g-recaptcha"" data-sitekey=""6LeC1A0UAAAAAPZK8E1CxJkweNzEiOuWfqJ63a0v""><div style=""width: 304px; height: 78px;""><div><iframe title=""reCAPTCHA"" width=""304"" height=""78"" role=""presentation"" name=""a-3gzh0yt43w9h"" frameborder=""0"" scrolling=""no"" sandbox=""allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation"" src=""https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&amp;k=6LeC1A0UAAAAAPZK8E1CxJkweNzEiOuWfqJ63a0v&amp;co=aHR0cHM6Ly9jYXJlZXJzLmRyZXhlbC5lZHU6NDQz&amp;hl=en&amp;v=WV-mUKO4xoWKy9M4ZzRyNrP_&amp;size=normal&amp;cb=wldgney06jxt""></iframe></div><textarea id=""g-recaptcha-response"" name=""g-recaptcha-response"" class=""g-recaptcha-response"" style=""width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;""></textarea></div><iframe style=""display: none;""></iframe></div>
+
+<input name=""job-mail-subscribe-button"" id=""job-mail-subscribe-button"" type=""button"" value=""Subscribe"" class=""button"">
+
+    <label aria-hidden=""true"" for=""job-mail-subscribe-privacy"" style=""display: none;"">Privacy agreement</label>
+    <input aria-hidden=""true"" type=""checkbox"" id=""job-mail-subscribe-privacy"" name=""job-mail-subscribe-privacy"" value=""agree"" checked=""true"" style=""display: none;"">
+
+        </div>
+    </div>
+</div>
+  <h2>Search results</h2>
+  <table>
+    <thead>
+      <tr>
+        <th width=""35%"">Position Title</th>
+        <th width=""25%"">Position Type</th>
+        <th width=""20%"">Location</th>
+        <th width=""20%"">Closes</th>
+      </tr>
+    </thead>
+<tbody id=""search-results-content"">
+
+
+    <tr>
+      <td>
+        <a class=""job-link"" href=""/en-us/job/503500/research-computing-specialist"">Research Computing Specialist</a>
+      </td>
+      <td>
+        Professional Staff
+      </td>
+      <td>
+        <span class=""location"">Hybrid/Flexible Work Arrangement</span>
+      </td>
+      <td>
+        <span class=""close-date""><time datetime=""2024-10-15T03:55:00Z"">Oct 14 2024 </time></span>
+      </td>
+    </tr>
+    <tr class=""summary"">
+      <td colspan=""4"">The University Research Computing Facility (URCF) is seeking a Research Computing Specialist.</td>
+    </tr>
+
+
+
+
+    </tbody>
+    </table>
+    <p></p>
+</div><div id=""recent-jobs"" style=""display:none"">
+<script src=""https://careers-static.pageuppeople.com/Widgets-21619977802366969177112221262362251122744.js"" type=""text/javascript""></script>
+  <h2>Current Opportunities</h2>
+  <table>
+    <thead>
+      <tr>
+        <th width=""35%"">Position Title</th>
+        <th width=""25%"">Position Type</th>
+        <th width=""20%"">Location</th>
+        <th width=""20%"">Closes</th>
+      </tr>
+    </thead>
+  <tbody id=""recent-jobs-content"">
+
+
+    <tr>
+      <td>
+        <a class=""job-link"" href=""/en-us/job/503500/research-computing-specialist"">Research Computing Specialist</a>
+      </td>
+      <td>
+        Professional Staff
+      </td>
+      <td>
+        <span class=""location"">Hybrid/Flexible Work Arrangement</span>
+      </td>
+      <td>
+        <span class=""close-date""><time datetime=""2024-10-15T03:55:00Z"">Oct 14 2024 </time></span>
+      </td>
+    </tr>
+    <tr class=""summary"">
+      <td colspan=""4"">The University Research Computing Facility (URCF) is seeking a Research Computing Specialist.</td>
+    </tr>
+
+
+
+
+    </tbody>
+    </table>
+    <p></p>
+<div id=""campaignsDiv"">
+<h2>Expression of interest</h2>
+<div id=""campaigns"" style=""margin-bottom: 20px;""><div class=""job-listing-wrapper"">No expression of interest currently available</div></div>
+<script type=""text/javascript"">
+    Careers.jobListing(""campaigns"", ""https://careers.drexel.edu"", ""cw"", ""en-us"", {
+        template: ""<p><b><a href=\""[JobDetailUrl]\"">[Title]</a></b></p><p>[Summary]</p>"",
+        jobsPerPage: 20,
+        numberOfPages: 1,
+        paging: false,
+        emptyResultText:""No expression of interest currently available"",
+        filters: { ""JobSystemType"": ""GRADUATECAMPAIGN, REDEPLOYMENT, GENERAL"" } 
+    }); 
+</script>
+</div>
+</div><p id=""PageUpPeopleLink""><a href=""https://www.pageuppeople.com/powered-by-pageup/"" target=""_top"">Powered by PageUp</a></p>
+
+
+<div id=""snippet_PageUp_Body_Content_Bottom_divSnippet"" class="""">
+	<p>Drexel University is an Equal Opportunity/Affirmative Action employer that welcomes individuals from diverse and neurodiverse backgrounds and perspectives, and believes that an inclusive and respectful environment enriches the University community and the educational and employment experience of its members. The University prohibits discrimination against individuals on the basis of race, color, national origin, religion, sex, sexual orientation, disability, age, status as a veteran or special disabled veteran, gender identity or expression, genetic information, pregnancy, childbirth or related medical conditions and any other prohibited characteristic. Please visit our <a href=""https://drexel.edu/hr/resources/policies/"" target=""_blank"">Policies page</a> to view all University policies related to Human Resources and <a href=""https://drexel.edu/hr/about/news/"" target=""_blank"">News and Announcements</a> for workplace postings.</p>
+    
+	<p>Background investigations are required for all new hires as a condition of employment, after the job offer is made.</p>
+
+    <p>Drexel University, in compliance with the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (Clery Act) publishes the <a href=""https://drexel.edu/publicsafety/crime-reports-prevention/clery/"" target=""_blank""><em>Drexel University Security &amp; Fire Safety Annual Report</em></a> for current and prospective students and employees. This report contains important safety information and crime statistics for the previous three years. These statistics pertain to reported crimes that have occurred on campus, in certain non-campus buildings or properties that are owned or controlled by Drexel University, and on public property within, or immediately adjacent to and accessible from the campus.</p>
+
+	<p>Printed copies of this report are also available by calling the Public Safety Administrative Office, 215.895.1550.</p>
+
+	<p>Additional information about the services provided by the Drexel University <a href=""https://drexel.edu/publicsafety/"" target=""_blank"">Department of Public Safety</a> can be obtained by visiting their website.</p>
+</div>
+				</article>
+        
+
+			</div><!--center rail-->
+
+			<div id=""right-rail"" class=""grid-6"">
+                <div class=""career-buttons""><p><a class=""button"" href=""http://careers.drexel.edu/820/cw/en-us/subscribe"">Job Alerts</a></p><p><a class=""button"" href=""https://secure.dc4.pageuppeople.com/apply/820/aw/applicationForm/default.asp"">Applicant Login</a></p></div>
+<input aria-labelledby=""title-search-keyword"" type=""text"" id=""search-keyword"" name=""search-keyword"" class=""text-input"" placeholder=""Search open positions"" value="""">
+<div id=""search-filters""><h3>Position Type</h3>
+<div class=""filter-wrapper""><div class=""filter-group""><fieldset style=""border: 0;margin: 0;padding: 0;"" role=""group"" aria-labelledby=""title-job-sector div_job-sector_1""><div id=""div_job-sector_1"" class=""filter-group-title""></div><ul class=""filter"" role=""presentation"">
+<li class=""professional-staff""><input type=""checkbox"" id=""job-sector_professionalstaff"" name=""job-sector"" value=""Professional Staff""><label for=""job-sector_professionalstaff"">Professional Staff <span class=""count"">1</span></label></li></ul></fieldset></div></div>
+
+<h3>Work type</h3>
+<div class=""filter-wrapper""><fieldset style=""border: 0;margin: 0;padding: 0;"" role=""group"" aria-labelledby=""title-work-type""><ul class=""filter"" role=""presentation"">
+<li class=""full-time""><input type=""checkbox"" id=""work-type_fulltime"" name=""work-type"" value=""Full-Time""><label for=""work-type_fulltime"">Full-Time <span class=""count"">1</span></label></li></ul></fieldset></div>
+
+<h3>Locations</h3>
+<div class=""filter-wrapper""><div class=""filter-group""><fieldset style=""border: 0;margin: 0;padding: 0;"" role=""group"" aria-labelledby=""title-location div_location_1""><div id=""div_location_1"" class=""filter-group-title"">Other</div><ul class=""filter"" role=""presentation"">
+<li class=""hybridflexible-work-arrangement""><input type=""checkbox"" id=""location_hybridflexibleworkarrangement"" name=""location"" value=""Hybrid/Flexible Work Arrangement""><label for=""location_hybridflexibleworkarrangement"">Hybrid/Flexible Work Arrangement <span class=""count"">1</span></label></li></ul></fieldset></div></div>
+
+<h3>Categories</h3>
+<div class=""filter-wrapper""><div class=""filter-group""><fieldset style=""border: 0;margin: 0;padding: 0;"" role=""group"" aria-labelledby=""title-category div_category_1""><div id=""div_category_1"" class=""filter-group-title"">Division / College</div><ul class=""filter"" role=""presentation"">
+<li class=""office-of-research--innovation""><input type=""checkbox"" id=""category_officeofresearchinnovation"" name=""category"" value=""Office of Research &amp; Innovation""><label for=""category_officeofresearchinnovation"">Office of Research &amp; Innovation <span class=""count"">1</span></label></li></ul></fieldset></div><div class=""filter-group""><fieldset style=""border: 0;margin: 0;padding: 0;"" role=""group"" aria-labelledby=""title-category div_category_2""><div id=""div_category_2"" class=""filter-group-title"">Organization</div><ul class=""filter"" role=""presentation"">
+<li class=""drexel-university""><input type=""checkbox"" id=""category_drexeluniversity"" name=""category"" value=""Drexel University""><label for=""category_drexeluniversity"">Drexel University <span class=""count"">1</span></label></li></ul></fieldset></div></div></div>
+
+
+			</div><!--right rail-->
+		</form></div><!--row-->
+    </div>
+</div>
+
+<footer class=""row alt-footer"" id=""footer"" style=""position: relative;"">
+  <div class=""footer-bg"" role=""presentation""></div>
+  <div class=""wrap row"">
+    <div class=""footer-marketing-main"">
+      <div class=""block left"">
+        <a href=""https://drexel.edu/hr/atDrexel/employmentOps/~/link.aspx?_id=DAC44B2FC4A8466197F1101FEE44772A&amp;_z=z""><img alt=""co-op 100 logo"" src=""https://drexel.edu/~/media/Images/core/logos/100years.png""></a>
+      </div>
+      <div class=""block right"">
+        <a href=""https://drexel.edu/hr/atDrexel/employmentOps/~/link.aspx?_id=09729F0572A741B4A479EF3601970793&amp;_z=z""><img alt=""Drexel University"" src=""https://drexel.edu/~/media/Images/core/Logos/drexel-vertical-all_white.png""></a>
+      </div>
+    </div>
+    <div class=""grid-15"">
+      <ul class=""inline"">
+        <li>
+          <a href=""http://drexel.edu/guide/a-z/"">A-Z Index</a>
+        </li>
+        <li>
+          <a href=""http://drexel.edu/now/news-media"">For Media</a>
+        </li>
+        <li>
+          <a href=""http://drexel.edu/hr/atDrexel/employmentOps/"">Careers</a>
+        </li>
+        <li>
+          <a href=""http://drexel.edu/about/privacy-legal/"">Privacy &amp; Legal</a>
+        </li>
+        <li>
+          <a href=""http://drexel.edu/about/contact/"">Contact</a>
+        </li>
+        <li>
+          <a href=""http://drexel.edu/about/directions/"">Directions &amp; Maps</a>
+        </li>
+        <li>
+          <a href=""http://drexel.edu/publicsafety/about/emergency/"">Emergency Information</a>
+        </li>
+      </ul>
+    </div>
+    <div class=""grid-4 push-1"" id=""bodytag_3_divSocial"">
+      <p class=""social-label"">Follow Drexel:</p>
+      <ul class=""social inline social-blue"">
+        <li id=""bodytag_3_liFacebook"">
+          <a href=""http://www.facebook.com/drexeluniv"" id=""bodytag_3_hlFacebook""><span class=""socialMediaLabel"">Facebook</span><span aria-hidden=""true"" class=""icon duicon-facebook""></span></a>
+        </li>
+        <li id=""bodytag_3_liTwitter"">
+          <a href=""https://twitter.com/DrexelNews"" id=""bodytag_3_hlTwitter""><span class=""socialMediaLabel"">Twitter</span><span aria-hidden=""true"" class=""icon duicon-twitter""></span></a>
+        </li>
+        <li id=""bodytag_3_liInstagram"">
+          <a href=""http://instagram.com/drexeluniv"" id=""bodytag_3_hlInstagram""><span class=""socialMediaLabel"">Instagram</span><span aria-hidden=""true"" class=""icon duicon-instagram""></span></a>
+        </li>
+        <li id=""bodytag_3_liYoutube"">
+          <a href=""http://www.youtube.com/DrexelUniv"" id=""bodytag_3_hlYoutube""><span class=""socialMediaLabel"">YouTube</span><span aria-hidden=""true"" class=""icon duicon-youtube""></span></a>
+        </li>
+      </ul>
+    </div>
+  </div><!--wrap-->
+  <nav class=""row"" id=""skinny-nav"">
+    <div class=""wrap"">
+      <p>Drexel University, 3141 Chestnut Street, Philadelphia, PA 19104, <a href=""tel:2158952000"">215.895.2000</a>, © All Rights Reserved</p>
+    </div><!--wrap-->
+  </nav>
+</footer>
+
+<!-- THE BELOW CONTENT IS TO GET THE DREXEL UTILITY NAV SEARCH BOX WORKING.-->
+<!-- NOTE THE DIV ABOVE HAS A DIFFERENT ID IN ORDER TO OVERRIDE THE CORE JAVASCRIPT FUCNTIONS: <div id=""site-search-custom""> -->
+<!-- ""-custom"" HAS BEEN APPENDED TO THE ID -->
+<!-- Dec 13, 2019 - ccj44 -->
+
+<script type=""text/javascript"">
+$(document).ready(function() {   
+    $('.header-search').bind('keypress', function(e) {
+        if(e.keyCode==13){
+            window.open('https://drexel.edu/search/?q=' + $('.header-search').attr('value'));
+        }
+    });	      
+});
+</script>
+
+<style>
+@media only screen and (min-width: 740px) {
+#site-search-custom {
+    background-color: #07294D;
+    float: right;
+    padding: 0 1px 1px;
+}
+#site-search-custom input[type=""search""] {
+    width: 0;
+    opacity: 0;
+    height: 32px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    -webkit-transform: translate3d(0,0,0);
+    -webkit-backface-visibility: hidden;
+    -webkit-transition: width 0.3s ease-out,opacity 0.3s 0.3s ease;
+    -moz-transition: width 0.3s ease-out,opacity 0.3s 0.3s ease;
+    -ms-transition: width 0.3s ease-out,opacity 0.3s 0.3s ease;
+    -o-transition: width 0.3s ease-out,opacity 0.3s 0.3s ease;
+    transition: width 0.3s ease-out,opacity 0.3s 0.3s ease;
+    background:  #fff url('https://drexel.edu/~/media/Images/coresite/ui/sprite.ashx') right -978px no-repeat;
+    opacity: 1;
+    width: 180px;
+    padding: 2px 3px 2px 6px;
+    font-size: 15px;
+}
+}	
+</style>
+
+
+
+
+<script type=""text/javascript"" id="""">!function(q){function m(){n.debug&&q.console&&q.console.debug&&q.console.debug.apply(console,[""%c[UniversalUtmz]"",""color:#ccc;border:1px solid #eee""].concat([].slice.call(arguments)))}function u(h){var f,d,e,b;if(h){if(!(f=h.match(RegExp(""^(?:https?://)?([^/?]+)(/[^?]*)?""))))throw Error(""Referrer not a URL: ""+h);var c=f[1];var a=0<h.indexOf(""?"")?""\x26"":""?"";/^https?:\/\/(www\.)?google(\.com?)?(\.[a-z]{2}t?)?\/?$/i.test(h)?h+=a+""q\x3d(not provided)"":/^https?:\/\/(r\.)?search\.yahoo\.com?(\.jp)?\/?[^?]*$/i.test(h)?
+h+=a+""p\x3d(not provided)"":/^https?:\/\/(www\.)?bing\.com\/?$/i.test(h)&&(h+=a+""q\x3d(not provided)"");a=""daum:q eniro:search_word naver:query pchome:q images.google:q google:q yahoo:p yahoo:q msn:q bing:q aol:query aol:q lycos:q lycos:query ask:q cnn:query virgilio:qs baidu:wd baidu:word alice:qs yandex:text najdi:q seznam:q rakuten:qt biglobe:q goo.ne:MT search.smt.docomo:MT onet:qt onet:q kvasir:q terra:query rambler:query conduit:q babylon:q search-results:q avg:q comcast:q incredimail:q startsiden:q go.mail.ru:q centrum.cz:q 360.cn:q sogou:query tut.by:query globo:q ukr:q so.com:q haosou.com:q auone:q"".split("" "");
+for(b=0;b<a.length;b++)if(e=a[b].split("":""),c.match(new RegExp(""(?:^|\\.)""+e[0]+""(?:$|\\.)""))&&(d=new RegExp(""^(?:http(s)?://)?(?:[^?/]*\\.)?""+e[0]+""(?:\\.[^?/]*)?(?:/[^?]*)?\\?(?:.*\x26)?""+e[1]+""\x3d([^\x26]*)""),f=h.match(d)))return{medium:""organic"",source:e[0],keyword:f[2],campaign:""(organic)""};if(f=/^(.+\.)((?:facebook|twitter|linkedin|plus\.google|pinterest|instagram)\.com)$/.exec(c))return{medium:""social"",source:f[2]};if(c==q.location.hostname)return m(""Ignoring self-referral."");if(n.referralExclusionList){d=
+"""";for(e=c.split(""."");2<e.length;)d=""(""+d+e.shift()+"".)?"";if(d=new RegExp(""(^|\\s|,)""+d+e.join(""."")+""($|\\s|,)""),n.referralExclusionList.match(d))return m(""Referral is from domain in referral exclusion list."")}return{medium:""referral"",source:c,campaign:""(referral)""}}}function v(){function h(){var b;if(e=!(d=""""),!(b=function(c){var a=[],g=document.cookie.split("";"");c=new RegExp(""^\\s*""+c+""\x3d\\s*(.*?)\\s*$"");for(var k=0;k<g.length;k++){var r=g[k].match(c);r&&a.push(r[1])}return a.length?a[0]:""""}(n.cookieName)))return m(""No cookie found""),
+0;m(""Cookie found: "",b);n.emulateUtmzCookie&&(b=b.split(""."").slice(4).join("".""));d=p(function(c){for(var a={},g=c.split(""|""),k=0;k<g.length;k++)c=g[k].indexOf(""\x3d""),a[decodeURIComponent(g[k].substr(0,c))]=decodeURIComponent(g[k].substr(c+1));return a}(b),n.emulateUtmzCookie?""cookie"":""name"")}function f(){var b=p(d,""name"",n.emulateUtmzCookie?""cookie"":""name"");var c,a=[];for(c in b)b[c]!=n.emptyValue&&a.push(encodeURIComponent(c)+""\x3d""+encodeURIComponent(b[c]));b=a.join(""|"");n.emulateUtmzCookie&&(b=
+""000000000.000000000.0.0.""+b);m(""Saving cookie:"",b);y(n.cookieName,b,null,null,180);e=!0}var d,e;this.set=function(b){if(!b||""object""!=typeof b)throw Error(""Storage.set(): must be passed an object."");return e||h(),b=p(b),d&&function(c,a){if(!c||!a)return!c==!a;for(var g in c)if(c.hasOwnProperty(g)&&(!a.hasOwnProperty(g)||c[g]!=a[g]))return;for(g in a)if(a.hasOwnProperty(g)&&(!c.hasOwnProperty(g)||c[g]!=a[g]))return;return 1}(d,b)?(m(""Session data unchanged.""),!1):(d=b,f(),!0)};this.get=function(b){return e||
+h(),arguments.length?d&&d[b]:d};this.clear=function(){document.cookie=n.cookieName+""\x3d; path\x3d/; expires\x3dThu, 01 Jan 1970 00:00:01 GMT;"";m('Deleted cookie ""'+n.cookieName+'"".')}}function w(){var h=null;this.set=function(f){h=p(f)};this.get=function(f){if(null===h){var d=void 0;var e,b={},c=/(?:^|[^&]*&)([^=&]+)(?:=([^&]*))?/g;for(d=(d||q.location.search.substr(1)).split(""+"").join("" "");e=c.exec(d);)b[decodeURIComponent(e[1])]=e[2]&&decodeURIComponent(e[2]);d=b;d=d.gclid?{medium:d.utm_medium||
+""cpc"",source:d.utm_source||""google"",campaign:d.utm_campaign||""{adwords}"",keyword:d.utm_term||""{adwords}"",content:d.utm_content||""{adwords}"",gclid:d.gclid}:d.gclsrc?{medium:d.utm_medium||""cpc"",source:d.utm_source||""google"",campaign:d.utm_campaign||""{DoubleClick}"",keyword:d.utm_term||""{DoubleClick}"",content:d.utm_content||""{DoubleClick}"",gclsrc:d.gclsrc}:d.utm_source?(m(""Using data from UTM parameters.""),p(d,""url"")):d.utm_referrer?(m(""Parsing traffic data from parameter: utm_referrer.""),u(d.utm_referrer)):
+q.document.referrer?(m(""Parsing traffic data from referrer: ""+q.document.referrer),u(q.document.referrer)):void 0;h=p(d,""name"")}return arguments.length?h&&h[f]:h}}var n,t={debug:!1,emulateUtmzCookie:!1,cookieName:""_uutmz"",referralExclusionList:"""",emptyValue:""(not set)""},l,y=function(h,f,d,e,b){(f=function(c){if(!c)return c;var a=c.indexOf("";"");if(-1!=a&&(m(""WARNING: Truncating cookie value at first semicolon: ""+c),c=c.substring(0,a)),!(0<=q.navigator.userAgent.indexOf(""Firefox"")))return c;a=0;for(var g=
+(c=c.replace(/\n|\r/g,"" "")).length;a<g;++a){var k=255&c.charCodeAt(a);10!=k&&13!=k||(c=c.substring(0,a)+""?""+c.substring(a+1))}return c}(f))&&(2E3<f.length&&(f=f.substring(0,2E3)),d=h+""\x3d""+f+""; path\x3d""+(d||""/"")+""; "",b&&(d+=""expires\x3d""+(new Date((new Date).getTime()+864E5*b)).toGMTString()+""; ""),e&&(d+=""domain\x3d""+e+"";""),document.cookie=d)},p=(l=[{url:""utm_source"",cookie:""utmcsr"",name:""source""},{url:""utm_campaign"",cookie:""utmccn"",name:""campaign""},{url:""utm_medium"",cookie:""utmcmd"",name:""medium""},
+{url:""utm_term"",cookie:""utmctr"",name:""keyword""},{url:""utm_content"",cookie:""utmcct"",name:""content""},{url:""gclid"",cookie:""utmgclid"",name:""gclid""},{url:""gclsrc"",cookie:""utmgclsrc"",name:""gclsrc""}],function(h,f,d){var e,b={};if(h){d=d||""name"";if(!f)a:{f=h;for(var c=0;c<l.length;c++)for(e in l[c])if(f.hasOwnProperty(l[c][e])){f=e;break a}f=void 0}for(e=0;e<l.length;e++)f&&h.hasOwnProperty(l[e][f])?b[l[e][d]]=h[l[e][f]]:void 0!==n.emptyValue&&(b[l[e][d]]=n.emptyValue);return b}});q.UniversalUtmz=function(h){function f(){b=
+new v;d=new w;n.debug&&b.get()&&m(""Found saved traffic data: "",b.get());d.get()?(m(""Detected incoming ""+d.get(""medium"")+"" traffic: "",d.get()),b.set(d.get())?(c=!0,m(""Saved traffic data overwritten."")):m(""Saved traffic data unchanged."")):(m(""Traffic is direct.""),a=!0,d.set({medium:""(none)"",source:""(direct)"",campaign:""(direct)""}),b.get()||(m(""No saved data exists; initialize as direct.""),b.set(d.get()),c=!0))}var d,e,b=null,c=!1,a=!1;for(e in n={},h=h||{},t)n[e]=(e in h?h:t)[e];m(""CONFIG:"",n);this.get=
+function(g){var k;return d||f(),void 0===(k=arguments.length?b.get(g):b.get())&&(k=n[g]),k};this.deleteSaved=function(){(b||new v).clear()};this.isEntrance=function(){return d||f(),c};this.isDirect=function(){return d||f(),a}}}(window);
+(function(){var q=""0.5"",m=google_tag_manager[""rm""][""2434421""](7),u="""",v={referralExclusionList:u,debug:m,cookieName:""_uutmz"",cookieDomain:u,emptyValue:""(not set)""},w=""_uutmzh"",n=/[^a-zA-Z\d]/g,t=window.console&&m?function(){var a=[].slice.call(arguments);a.unshift(""[UniversalUtmzHistory]"");console.debug.apply(console,a)}:function(){},l=t,y=function(a){return{_head:void 0,_tail:a,raw:a}},p=function(a,g){if(a){a&&""object""===typeof a&&a.hasOwnProperty(""_tail"")||(a=y(a));a._head=void 0;if(g){switch(typeof g){case ""number"":var k=
+g;break;case ""string"":k=a._tail.indexOf(g)}0>k?(a._head=a._tail,a._tail=""""):(a._head=a._tail.substring(0,k),""string""===typeof g&&k++,a._tail=a._tail.substring(k))}return a._head}},h=function(a){a=a||new Date;a={year:a.getFullYear(),month:a.getMonth()+1,day:a.getDate(),hour:a.getHours(),minutes:a.getMinutes(),seconds:a.getSeconds(),milliseconds:a.getMilliseconds(),timezoneOffsetMinutes:a.getTimezoneOffset()};a.timezoneOffsetHours=Math.round(a.timezoneOffsetMinutes/60);a.rawTimezoneOffsetHours=(0>a.timezoneOffsetHours?
+""+"":""-"")+(""0""+a.timezoneOffsetHours).slice(-2);a.rawYearMonthDay=(""000""+a.year).slice(-4)+""-""+(""0""+a.month).slice(-2)+""-""+(""0""+a.day).slice(-2);a.rawYearMonthDayHour=a.rawYearMonthDay+""T""+(""0""+a.hour).slice(-2);a.iso=a.rawYearMonthDayHour+"":""+(""0""+a.minutes).slice(-2)+"":""+(""0""+a.seconds).slice(-2)+"".""+(""00""+a.milliseconds).slice(-3)+a.rawTimezoneOffsetHours;return a};var f=window.UUTMZ=new UniversalUtmz(v);var d=function(a){var g=[],k=document.cookie.split("";"");a=new RegExp(""^\\s*""+a+""\x3d\\s*(.*?)\\s*$"");
+for(var r=0;r<k.length;r++){var x=k[r].match(a);x&&g.push(x[1])}return g.length?decodeURIComponent(g[0]):""""};var e={};e.latest=f.get();e.isEntrance=f.isEntrance();e.isDirect=f.isDirect();var b=y(d(w)||"""");t(""Cookie data:"",b.raw);if(b.raw){switch(b[""raw_.version""]=p(b,""~"")){case void 0:case """":l(""Ignoring cookie due to missing version."");b.raw="""";break;case ""0.1"":case ""0.2"":case ""0.3"":l(""Found v""+b[""raw_.version""]+"" cookie; will be upgraded."");b[""raw_.value""]=p(b,""~"");b.string=b[""raw_.version""]+""~""+
+b[""raw_.value""];break;case ""0.4"":b[""raw_.stampFirst_.day""]=p(b,""T"");b[""raw_.stampFirst""]=b[""raw_.stampFirst_.day""]+""T""+p(b,""~"");b[""raw_.stampLast_.day""]=p(b,""T"");b[""raw_.stampLast""]=b[""raw_.stampLast""]+""T""+p(b,""~"");b[""raw_.value""]=p(b,""~"");b.string=b[""raw_.version""]+""~""+b[""raw_.stampFirst_.day""]+""~""+b[""raw_.stampLast_.day""]+""~""+b[""raw_.value""];break;default:l(""Ignoring cookie due to unknown version:"",b[""raw_.version""]),b.raw=""""}b[""raw_.stampFirst""]||l(""Cookie missing original timestamp; will be backfilled."")}if(f.isEntrance()){var c=
+{};c[""raw_.version""]=q;l=h();c[""raw_.stampLast""]=l.iso;c[""raw_.stampLast_.day""]=l.rawYearMonthDay;b=b||{};b[""raw_.value""]?(t(""Is entrance; appending to cookie.""),c[""raw_.value""]=b[""raw_.value""],c[""raw_.stampFirst""]=b[""raw_.stampFirst""],c[""raw_.stampFirst_.day""]=b[""raw_.stampFirst_.day""],b[""raw_.stampFirst""]||(c[""raw_.stampFirst""]=""????-??-??T??:??:??.???+??"",c[""raw_.stampFirst_.day""]=""????-??-??"")):(b.raw?t(""Is entrance; overwriting invalid cookie: ""+b.raw):t(""Is entrance; creating cookie.""),c[""raw_.value""]=
+"""",c[""raw_.stampFirst""]=c[""raw_.stampLast""]=l.iso,c[""raw_.stampFirst_.day""]=c[""raw_.stampLast_.day""]=l.rawYearMonthDay);p=function(a,g,k,r,x){if(g=encodeURIComponent(g))g=g.substring(g.length-2E3),a=a+""\x3d""+g+""; path\x3d""+(k||""/"")+""; "",x&&(a+=""expires\x3d""+(new Date((new Date).getTime()+864E5*x)).toGMTString()+""; ""),r&&(a+=""domain\x3d""+r+"";""),document.cookie=a};l=[];l.push(function(a){return a===v.emptyValue?"""":a.match(/^(organic|[cp]pc|referral|social|email)$/i)?a.charAt(0).toLowerCase():a.replace(n,
+""_"").replace(/(^_+|_+$)/g,"""")}(f.get(""medium"")));l.push(function(a){return a===v.emptyValue?"""":a.match(/^google(\.[a-z]{2,3})*$/i)?""g"":a.match(/^bing(\.[a-z]{2,3})*$/i)?""b"":a.match(/^(l?m?\.)?facebook(\.[a-z]{2,3})*$/i)?""fb"":a.match(/^(twitter(\.[a-z]{2,3})*|t\.co)$/i)?""tw"":a.match(/^plus\.google(\.[a-z]{2,3})*$/i)?""gp"":a.match(/^linkedin(\.[a-z]{2,3})*$/i)?""li"":a.match(/^pinterest(\.[a-z]{2,3})*$/i)?""pn"":a.match(/^instagram(\.[a-z]{2,3})*$/i)?""ig"":a.replace(n,""_"").replace(/(^_+|_+$)/g,"""")}(f.get(""source"")));
+c[""raw_.value""]=(b[""raw_.value""]?b[""raw_.value""]:"";"")+l.join("":"")+""\x3e"";t(""New history string:"",c[""raw_.value""]);c.string=c[""raw_.version""]+""~""+c[""raw_.stampFirst_.day""]+""~""+c[""raw_.stampLast_.day""]+""~""+c[""raw_.value""];c.raw=c[""raw_.version""]+""~""+c[""raw_.stampFirst""]+""~""+c[""raw_.stampLast""]+""~""+c[""raw_.value""];p(w,c.raw,null,u,730);if(m&&d(w)!==c.raw)throw Error(""Failed to set cookie; Actual cookie value:"",d(w));}e.history={string:c?c.string:b.string,version:q};dataLayer.push({event:""uutmz"",uutmz:e});
+google_tag_manager[google_tag_manager[""rm""][""2434421""](8)].dataLayer.set(""uutmz"",e)})();</script>
+<script type=""text/javascript"" id="""">(function(b,c,d,a,e){b[a]=b[a]||[];b[a].push({""gtm.start"":(new Date).getTime(),event:""gtm.js""});b=c.getElementsByTagName(d)[0];c=c.createElement(d);a=""dataLayer""!=a?""\x26l\x3d""+a:"""";c.async=!0;c.src=""https://www.googletagmanager.com/gtm.js?id\x3d""+e+a;b.parentNode.insertBefore(c,b)})(window,document,""script"",""dataLayer"",""GTM-KQV5JFP"");</script>
+
+<script type=""text/javascript"" id="""">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version=""2.0"",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,""script"",""https://connect.facebook.net/en_US/fbevents.js"");fbq(""init"",""2087170944850202"");fbq(""track"",""PageView"");</script>
+<noscript><img height=""1"" width=""1"" style=""display:none"" src=""https://www.facebook.com/tr?id=2087170944850202&amp;ev=PageView&amp;noscript=1""></noscript>
+
+<script type=""text/javascript"" id="""">""function""===typeof jQuery&&jQuery(document).ready(function(h){jQuery.fn.extend({getPath:function(){for(var a,b=this;b.length;){var d=b[0],c=d.localName;if(!c)break;c=c.toLowerCase();b=b.parent();var e=b.children(c);1<e.length&&(e=b.children(),d=e.index(d)+1,1<d&&(c+="":nth-child(""+d+"")""));a=c+(a?""\x3e""+a:"""")}return a}});var l=3,m=2,a=[],k=3,n=100;h(""body"").click(function(f){a.push({event:f,time:new Date});a.length>k&&a.splice(0,a.length-k);if(3<=a.length){a:{var b=l;var d=m,c=a.length-1,e=(a[c].time.getTime()-
+a[c-b+1].time.getTime())/1E3;if(e>d)b=null;else{d=0;for(i=c-b+1;i<c;i++)for(j=i+1;j<=c;j++){var g=Math.round(Math.sqrt(Math.pow(a[i].event.clientX-a[j].event.clientX,2)+Math.pow(a[i].event.clientY-a[j].event.clientY,2)));g>d&&(d=g);if(g>n){b=null;break a}}b={count:b,max_distance:d,time_diff:e}}}null!=b&&(f=h(f.target).getPath(),dataLayer.push({event:""rage_click"",rc_element:f,rc_count:b.count,rc_max_distance:b.max_distance,rc_time_diff:b.time_diff}),a.splice(a.length-3,3))}})});</script><div style=""display: none; visibility: hidden;"">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version=""2.0"",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,""script"",""https://connect.facebook.net/en_US/fbevents.js"");fbq(""init"",""821157078785204"");fbq(""track"",""PageView"");</script>
+<noscript></noscript>
+</div><script type=""text/javascript"" id="""">(function(a,e,b,f,g,c,d){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);c.async=1;c.src=""https://www.clarity.ms/tag/""+g+""?ref\x3dgtm2"";d=e.getElementsByTagName(f)[0];d.parentNode.insertBefore(c,d)})(window,document,""clarity"",""script"",""90zzugyhni"");</script><script type=""text/javascript"" id="""" src=""https://siteimproveanalytics.com/js/siteanalyze_66356254.js""></script><script type=""text/javascript"" id="""">(function(d){var c="".js-clickable-card"",e=!1,f=document.querySelectorAll(c),g=function(a){a=a.target;for(var b=c;a&&(!a||!a.matches(b));)a=a&&a.parentElement?a.parentElement:null;a={event:""gtm.cardClicked"",element:a,""gtm.elementId"":a.id,""gtm.elementClasses"":a.className,""gtm.dataAttributes"":a.dataset};b=window.google_tag_manager[d].dataLayer.name;window[b].push(a)};f.forEach(function(a){a.addEventListener(""click"",g,e)})})(google_tag_manager[""rm""][""2434421""](75));</script>
+<script type=""text/javascript"" id="""">(function(){var c=document;var b=window.location;var a=c.createElement(""IMG"");b=b.protocol+""//tvspix.com/t.png?\x26t\x3d""+(new Date).getTime()+""\x26l\x3dtvscientific-pix-o-f4b13a6f-15a9-4859-93b5-d80178b612af\x26u3\x3d""+encodeURIComponent(b.href);a.setAttribute(""src"",b);a.setAttribute(""height"",""0"");a.setAttribute(""width"",""0"");a.setAttribute(""alt"","""");a.style.setProperty(""display"",""none"");a.style.setProperty(""position"",""absolute"");a.style.setProperty(""visibility"",""hidden"");c.body.appendChild(a)})();</script><img src=""https://tvspix.com/t.png?&amp;t=1725160963885&amp;l=tvscientific-pix-o-f4b13a6f-15a9-4859-93b5-d80178b612af&amp;u3=https%3A%2F%2Fcareers.drexel.edu%2Fen-us%2Fjob%2F503500%2Fresearch-computing-specialist"" height=""0"" width=""0"" alt="""" style=""display: none; position: absolute; visibility: hidden;"">
+
+<script type=""text/javascript"" id="""">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version=""2.0"",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,""script"",""https://connect.facebook.net/en_US/fbevents.js"");fbq(""init"",""176150353765937"");fbq(""track"",""PageView"");</script>
+<noscript><img height=""1"" width=""1"" style=""display:none"" src=""https://www.facebook.com/tr?id=176150353765937&amp;ev=PageView&amp;noscript=1""></noscript>
+
+        <script type=""text/javascript"" id="""" src=""https://js.adsrvr.org/up_loader.1.1.0.js""></script>
+<script type=""text/javascript"" id="""">(function(a,b,d){if(!a.snaptr){var c=a.snaptr=function(){c.handleRequest?c.handleRequest.apply(c,arguments):c.queue.push(arguments)};c.queue=[];a=""script"";r=b.createElement(a);r.async=!0;r.src=d;b=b.getElementsByTagName(a)[0];b.parentNode.insertBefore(r,b)}})(window,document,""https://sc-static.net/scevent.min.js"");snaptr(""init"",""f8c6b381-ffb7-4387-a6fd-18aaa798bfca"",{user_email:""__INSERT_USER_EMAIL__""});snaptr(""track"",""PAGE_VIEW"");</script>
+<iframe allow=""join-ad-interest-group"" data-tagging-id=""G-6KJ1PNLE19"" data-load-time=""1725160964187"" height=""0"" width=""0"" src=""https://td.doubleclick.net/td/ga/rul?tid=G-6KJ1PNLE19&amp;gacid=291937493.1725160964&amp;gtm=45je48s0v870683374z872434421za200zb72434421&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=0&amp;z=391362984"" style=""display: none; visibility: hidden;""></iframe><iframe allow=""join-ad-interest-group"" data-tagging-id=""AW-16652750553"" data-load-time=""1725160964228"" height=""0"" width=""0"" src=""https://td.doubleclick.net/td/rul/16652750553?random=1725160964221&amp;cv=11&amp;fst=1725160964221&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be48s0z872434421za201zb72434421&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fcareers.drexel.edu%2Fen-us%2Fjob%2F503500%2Fresearch-computing-specialist&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Careers%20at%20Drexel%20%7C%20Human%20Resources%20%7C%20Drexel%20University&amp;npa=0&amp;pscdl=noapi&amp;auid=641702490.1725160964&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=Linux&amp;uapv=&amp;uaw=0&amp;fledge=1"" style=""display: none; visibility: hidden;""></iframe><script type=""text/javascript"" id="""">(function(){if(!window.YT){var f=function(){var c;return function(){var a;if(!(a=c||window.YT))a:{a=document.getElementsByTagName(""script"");for(i=0;i<a.length;i++){var d=a[i].getAttribute(""src"");if(d&&(-1<d.indexOf(""//www.youtube.com/iframe_api"")||-1<d.indexOf(""//www.youtube.com/player_api""))){a=!0;break a}}a=void 0}if(a)return c=!0;a=document.createElement(""script"");d=document.getElementsByTagName(""script"")[0];a.src=""https://www.youtube.com/iframe_api"";a.async=!0;d.parentNode.insertBefore(a,d);c=
+!0}}(),g=function(){if(!navigator.userAgent.match(/MSIE [6789]\.|MSIE 10\./gi)){var c=window.MutationObserver||window.WebKitMutationObserver,a=window.addEventListener;return function(d,b){if(c){var e=new c(function(a,d){var c;for(c=0;c<a.length;c++){var e=a[c];if(e.addedNodes.length||""attributes""===e.type&&""IFRAME""===e.target.tagName&&""src""===e.attributeName)return b()}});e.observe(d,{childList:!0,subtree:!0,attributes:!0})}else a&&(d.addEventListener(""DOMNodeInserted"",b,!1),d.addEventListener(""DOMAttrModified"",
+function(){(event.propertyName?""IFRAME""===event.srcElement.tagName&&""SRC""===event.propertyName:event.attrChange&&""IFRAME""===event.target.tagName&&""SRC""===event.attrName)&&b()},!1))}}}(),e=function(){var c,a=window.location;var d=document.getElementsByTagName(""iframe"");for(c=d.length;c--;){var b=d[c];/youtube(-nocookie)?.com\/embed/i.test(b.src)&&!b.hasAttribute(""data-gtm-fw-yt-listening"")&&(f(),b.setAttribute(""data-gtm-fw-yt-listening"",""""),b.src.match(/[?&]enablejsapi=1(&|$)/)||(b.setAttribute(""data-orig-src"",
+b.src),b.src+=(-1<b.src.indexOf(""?"")?""\x26"":""?"")+""enablejsapi\x3d1\x26origin\x3d""+encodeURIComponent(a.origin||a.protocol+""//""+a.hostname+(a.port?"":""+a.port:"""")),b.parentNode.replaceChild(b,b)))}};e();g(document.body,e)}})();</script>
+        <script type=""text/javascript"" id="""">ttd_dom_ready(function(){if(typeof TTDUniversalPixelApi===""function""){var a=new TTDUniversalPixelApi;a.init(""5h3z2sq"",[""tqx58ba""],""https://insight.adsrvr.org/track/up"")}});</script><script type=""text/javascript"" id="""" src=""https://tracker.pixeltracker.co/pixel.js""></script>
+	<script type=""text/javascript"" id="""">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods=""page track identify instances debug on off once ready alias group enableCookie disableCookie"".split("" "");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f=""https://analytics.tiktok.com/i18n/pixel/events.js"";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement(""script"");c.type=""text/javascript"";c.async=!0;c.src=f+""?sdkid\x3d""+b+""\x26lib\x3d""+e;b=document.getElementsByTagName(""script"")[0];b.parentNode.insertBefore(c,b)};a.load(""CDDEEI3C77U1JEFR7PNG"");a.page()}(window,document,""ttq"");</script>
+	<script type=""text/javascript"" id="""" src=""https://js.ipredictive.com/adelphic_universal_pixel.js""></script><script type=""text/javascript"" id="""">(function(c,a){var d=""vpr-capture"",e=""script"";if(!a.getElementById(d)){vpr=c.vpr||function(){(c.vpr.a=c.vpr.a||[]).push(arguments)};var b=a.createElement(e);b.id=d;b.async=1;b.src=""https://cdn.veritonic.com/static/vpr.min.js"";a=a.getElementsByTagName(e)[0];a.parentNode.insertBefore(b,a)}vpr(""veritonic_id"",""TuYIwskJ"");vpr(""gdpr"","""");vpr(""view"")})(window,document);</script>        <script type=""text/javascript"" id="""" src=""https://js.adsrvr.org/up_loader.1.1.0.js""></script>
+<script type=""text/javascript"" id="""">FLPIXEL.fire(""97560ab8-8f48-44e3-acdd-96f0d9a7b876"",{category:""pagevisit"",subcategory:""homepage""});</script>
+<script type=""text/javascript"" id="""">(new AdelphicUniversalPixel(106829,""https://ad.ipredictive.com/d/track/event"",{ps:""0""})).fire();</script>
+<noscript>
+<img src=""https://ad.ipredictive.com/d/track/event?upid=106829&amp;url=https%3A%2F%2Fcareers.drexel.edu%2Fen-us%2Fjob%2F503500%2Fresearch-computing-specialist&amp;cache_buster=2024-09-01T03%3A22%3A44.323%2B00%3A00&amp;ps=1"" height=""1"" width=""1"" style=""display:none"">
+</noscript>
+        <script type=""text/javascript"" id="""">ttd_dom_ready(function(){if(typeof TTDUniversalPixelApi===""function""){var a=new TTDUniversalPixelApi;a.init(""ar54zxm"",[""g4d3bpm""],""https://insight.adsrvr.org/track/up"")}});</script><iframe height=""0"" width=""0"" style=""display:none;visibility: hidden;"" src=""https://ad.ipredictive.com/d/track/event?upid=106829&amp;cache_buster=1725160964&amp;url=https%3A%2F%2Fcareers.drexel.edu%2Fen-us%2Fjob%2F503500%2Fresearch-computing-specialist"" title=""Adelphic Universal Pixel""></iframe><div style=""background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;""><div style=""width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;""></div><div class=""g-recaptcha-bubble-arrow"" style=""border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;""></div><div class=""g-recaptcha-bubble-arrow"" style=""border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;""></div><div style=""z-index: 2000000000; position: relative;""><iframe title=""recaptcha challenge expires in two minutes"" name=""c-3gzh0yt43w9h"" frameborder=""0"" scrolling=""no"" sandbox=""allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation"" src=""https://www.recaptcha.net/recaptcha/api2/bframe?hl=en&amp;v=WV-mUKO4xoWKy9M4ZzRyNrP_&amp;k=6LeC1A0UAAAAAPZK8E1CxJkweNzEiOuWfqJ63a0v"" style=""width: 100%; height: 100%;""></iframe></div></div><iframe id=""universal_pixel_tqx58ba"" height=""0"" width=""0"" style=""display:none;"" src=""https://insight.adsrvr.org/track/up?adv=5h3z2sq&amp;ref=https%3A%2F%2Fcareers.drexel.edu%2Fen-us%2Fjob%2F503500%2Fresearch-computing-specialist&amp;upid=tqx58ba&amp;upv=1.1.0&amp;paapi=1"" title=""TTD Universal Pixel""></iframe><iframe id=""universal_pixel_g4d3bpm"" height=""0"" width=""0"" style=""display:none;"" src=""https://insight.adsrvr.org/track/up?adv=ar54zxm&amp;ref=https%3A%2F%2Fcareers.drexel.edu%2Fen-us%2Fjob%2F503500%2Fresearch-computing-specialist&amp;upid=g4d3bpm&amp;upv=1.1.0&amp;paapi=1"" title=""TTD Universal Pixel""></iframe></body><!-- Last Updated 4/25/2024 --></html>"
