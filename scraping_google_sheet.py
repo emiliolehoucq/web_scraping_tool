@@ -7,7 +7,6 @@
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
 from googleapiclient.http import MediaFileUpload
-import pandas as pd
 from scraper import get_selenium_response
 import os
 import json
