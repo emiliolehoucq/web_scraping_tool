@@ -103,7 +103,7 @@ service = build("sheets", "v4", credentials=credentials)
 logger.info("Built service.")
 
 # Get the values from the Google Sheet
-result = service.spreadsheets().values().get(spreadsheetId="18HONqO0zv0SvM9_BCqa259Jvo12d6CXgmJQHhzGE2Jg", range="A1:A500").execute()
+result = service.spreadsheets().values().get(spreadsheetId="18HONqO0zv0SvM9_BCqa259Jvo12d6CXgmJQHhzGE2Jg", range="A1:C1000000").execute()
 rows = result.get("values", []) # Example output: [['url', 'id', 'ts'], ['url', 'id', 'ts'], ['url']] 
 logger.info("Got values from Google Sheets.")
 
