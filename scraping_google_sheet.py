@@ -202,7 +202,7 @@ for attempt in range(RETRIES):
         # Body of the request
         # id, ts
         body={"values": [element[0:2] for element in new_data]} 
-        logger.info(f"Prepared body of the request for the postings: {element[0:2]}.")
+        logger.info("Prepared body of the request for the postings.")
 
         # Execute the request
         result = service.spreadsheets().values().update(
